@@ -1,6 +1,7 @@
 const express = require('express');
 const cors = require('cors');
 const apiRouter = require('./routes/api');
+const path = require('path');
 const { logger } = require('./utils/logger');
 
 const app = express();
@@ -13,11 +14,16 @@ app.use((req, res, next) => {
     next();
 });
 
+app.use(express.static('../public'));
+
 // Routes
 app.get('/', (req, res) => {
     res.status(200).json({ msg: 'This is an Tennis ELO API' });
 })
 app.use('/api', apiRouter);
+app.get('/cli', (req, res) => {
+    res.sendFile(path.join(__dirname, '../public', 'index.html'));
+});
 
 // Error handling
 app.use((err, req, res, next) => {

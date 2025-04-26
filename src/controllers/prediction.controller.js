@@ -1,5 +1,6 @@
 const EloService = require('../services/elo.service');
 const { logger } = require('../utils/logger');
+const fs = require('fs');
 
 const eloService = new EloService();
 
@@ -24,4 +25,13 @@ async function predictMatch(req, res) {
     }
 }
 
-module.exports = { predictMatch };
+async function getPlayers(req, res) {
+    try {
+        const data = JSON.parse(fs.readFileSync('./data/elo-cache.json', 'utf8'));
+        res.json(data.data);
+    } catch (err) {
+        res.status(500).json({ error: 'Failed to load player data' });
+    }
+}
+
+module.exports = { predictMatch, getPlayers };

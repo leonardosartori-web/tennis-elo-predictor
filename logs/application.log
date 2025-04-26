@@ -24,3 +24,34 @@
 2025-04-26T16:58:25.776Z [INFO]: ELO data refreshed successfully
 2025-04-26T16:58:25.894Z [INFO]: GET /favicon.ico
 2025-04-26T16:58:34.866Z [INFO]: GET /api/predict
+2025-04-26T21:04:56.873Z [INFO]: Server running on http://0.0.0.0:3000
+2025-04-26T21:05:20.034Z [INFO]: GET /client
+2025-04-26T21:05:20.045Z [ERROR]: Error: ENOENT: no such file or directory, stat 'C:\Users\leona\WebstormProjects\tennis-elo-predictor\src\public\index.html'
+2025-04-26T21:05:20.260Z [INFO]: GET /favicon.ico
+2025-04-26T21:08:39.680Z [INFO]: Server running on http://0.0.0.0:3000
+2025-04-26T21:08:43.349Z [INFO]: GET /client
+2025-04-26T21:08:43.513Z [INFO]: GET /api/players
+2025-04-26T21:10:24.977Z [INFO]: GET /api/predict
+2025-04-26T21:10:24.984Z [INFO]: Using cached ELO data
+2025-04-26T21:10:24.986Z [INFO]: ELO data refreshed successfully
+2025-04-26T21:10:27.411Z [INFO]: GET /api/predict
+2025-04-26T21:11:02.996Z [INFO]: GET /api/predict
+2025-04-26T21:16:43.357Z [INFO]: GET /api/predict
+2025-04-26T21:16:45.138Z [INFO]: GET /api/predict
+2025-04-26T21:19:45.886Z [INFO]: GET /api/predict
+2025-04-26T21:19:47.814Z [INFO]: GET /api/predict
+2025-04-26T21:21:06.754Z [INFO]: Server running on http://0.0.0.0:3000
+2025-04-26T21:21:13.052Z [INFO]: GET /client
+2025-04-26T21:21:13.343Z [INFO]: GET /api/players
+2025-04-26T21:23:07.858Z [INFO]: Server running on http://0.0.0.0:3000
+2025-04-26T21:23:10.848Z [INFO]: GET /client
+2025-04-26T21:23:11.146Z [INFO]: GET /api/players
+2025-04-26T21:25:04.863Z [INFO]: Server running on http://0.0.0.0:3000
+2025-04-26T21:25:08.012Z [INFO]: GET /client
+2025-04-26T21:25:08.328Z [INFO]: GET /api/players
+2025-04-26T21:26:29.694Z [INFO]: Server running on http://0.0.0.0:3000
+2025-04-26T21:26:33.732Z [INFO]: GET /client
+2025-04-26T21:26:34.042Z [INFO]: GET /api/players
+2025-04-26T21:27:09.786Z [INFO]: GET /api/predict
+2025-04-26T21:27:09.794Z [INFO]: Using cached ELO data
+2025-04-26T21:27:09.796Z [INFO]: ELO data refreshed successfully

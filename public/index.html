@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Tennis Predictor</title>
+    <script>
+        // Trie ottimizzato
+        class TokenTrie {
+            constructor() {
+                this.root = {};
+                this.players = new Set();
+            }
+
+            insert(player) {
+                this.players.add(player);
+                // Inserisci ogni parte del nome separatamente
+                player.name.toLowerCase().split(" ").forEach(token => {
+                    let node = this.root;
+                    for (const char of token) {
+                        node[char] = node[char] || {};
+                        node = node[char];
+                    }
+                    node.players = node.players || new Set();
+                    node.players.add(player);
+                });
+            }
+
+            search(query) {
+                const queryLower = query.toLowerCase();
+                const results = new Set();
+
+                // 1. Ricerca esatta per token
+                let node = this.root;
+                let found = true;
+                for (const char of queryLower) {
+                    if (!node[char]) {
+                        found = false;
+                        break;
+                    }
+                    node = node[char];
+                }
+                if (found && node.players) {
+                    node.players.forEach(p => results.add(p));
+                }
+
+                // 2. Ricerca fuzzy su tutti i giocatori
+                if (results.size < 5) {
+                    const queryTerms = queryLower.split(" ");
+                    this.players.forEach(player => {
+                        const playerTokens = player.name.toLowerCase().split(" ");
+                        // Controlla se tutti i termini della query compaiono in qualsiasi token
+                        const allTermsFound = queryTerms.every(term =>
+                            playerTokens.some(token => token.includes(term))
+                        );
+                        if (allTermsFound) {
+                            results.add(player);
+                        }
+                    });
+                }
+
+                return Array.from(results)
+                    .sort((a, b) => b.elo - a.elo)
+                    .slice(0, 8);
+            }
+        }
+
+        // Caricamento dati
+        const trie = new TokenTrie();
+        fetch('/api/players')
+            .then(r => r.json())
+            .then(players => {
+                players.forEach(p => {
+                    trie.insert(p);
+                });
+            });
+
+        // Gestione UI
+        function setupSearch(inputId, listId) {
+            const input = document.getElementById(inputId);
+            const list = document.getElementById(listId);
+
+            input.addEventListener('input', () => {
+                const query = input.value.trim();
+                list.innerHTML = '';
+                if (query.length < 2) return;
+
+                trie.search(query).slice(0, 5).forEach(p => {
+                    const div = document.createElement('div');
+                    div.textContent = `${p.name} (ELO: ${p.elo.toFixed(0)})`;
+                    div.onclick = () => {
+                        input.value = p.name;
+                        list.innerHTML = '';
+                    };
+                    list.appendChild(div);
+                });
+            });
+        }
+
+        // Predizione
+        async function predict() {
+            const player1 = document.getElementById('player1').value;
+            const player2 = document.getElementById('player2').value;
+            const surface = document.getElementById('surface').value;
+
+            const response = await fetch(`/api/predict?player1=${encodeURIComponent(player1)}&player2=${encodeURIComponent(player2)}&surface=${surface}`);
+            const result = await response.json();
+            const probs = Object.values(result.probabilities);
+
+            alert(`${player1}: ${(probs[0] * 100).toFixed(1)}%\n${player2}: ${(probs[1] * 100).toFixed(1)}%`);
+        }
+
+        // Init
+        window.onload = () => {
+            setupSearch('player1', 'suggestions1');
+            setupSearch('player2', 'suggestions2');
+        };
+    </script>
+</head>
+<body>
+<h1>🎾 Tennis Predictor</h1>
+
+<div>
+    <h3>Giocatore 1:</h3>
+    <input type="text" id="player1" placeholder="Cerca...">
+    <div id="suggestions1"></div>
+</div>
+
+<div>
+    <h3>Giocatore 2:</h3>
+    <input type="text" id="player2" placeholder="Cerca...">
+    <div id="suggestions2"></div>
+</div>
+
+<div>
+    <h3>Superficie:</h3>
+    <select id="surface">
+        <option value="hard">Cemento</option>
+        <option value="clay">Terra rossa</option>
+        <option value="grass">Erba</option>
+    </select>
+</div>
+
+<button onclick="predict()">Calcola</button>
+</body>
+</html>
