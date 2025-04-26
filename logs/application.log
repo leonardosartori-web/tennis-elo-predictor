@@ -1,0 +1,26 @@
+2025-04-26T16:16:53.962Z [INFO]: Fetching fresh ELO data from Tennis Abstract
+2025-04-26T16:16:56.071Z [ERROR]: Scraping failed: ENOENT: no such file or directory, open 'C:\Users\leona\WebstormProjects\tennis-elo-predictor\data\elo-cache.json'
+2025-04-26T16:26:35.182Z [INFO]: Fetching fresh ELO data from Tennis Abstract
+2025-04-26T16:26:35.852Z [ERROR]: Scraping failed: logger.data is not a function
+2025-04-26T16:26:57.610Z [INFO]: Fetching fresh ELO data from Tennis Abstract
+2025-04-26T16:26:58.297Z [ERROR]: Prediction failed: Cannot read properties of undefined (reading 'find')
+2025-04-26T16:28:22.646Z [INFO]: Fetching fresh ELO data from Tennis Abstract
+2025-04-26T16:28:23.557Z [ERROR]: Prediction failed: Player not found: Jack Draper
+2025-04-26T16:32:11.283Z [INFO]: Fetching fresh ELO data from Tennis Abstract
+2025-04-26T16:32:13.186Z [INFO]: Match prediction result:
+2025-04-26T16:36:15.309Z [INFO]: Fetching fresh ELO data from Tennis Abstract
+2025-04-26T16:36:16.238Z [INFO]: Match prediction result:
+2025-04-26T16:37:55.102Z [INFO]: Fetching fresh ELO data from Tennis Abstract
+2025-04-26T16:37:57.043Z [INFO]: Match prediction result:
+2025-04-26T16:44:51.556Z [INFO]: Fetching fresh ELO data from Tennis Abstract
+2025-04-26T16:44:52.327Z [INFO]: Match prediction result:
+2025-04-26T16:50:41.971Z [INFO]: Using cached ELO data
+2025-04-26T16:50:41.982Z [INFO]: Match prediction result:
+2025-04-26T16:57:12.705Z [INFO]: Server running on http://0.0.0.0:3000
+2025-04-26T16:57:32.365Z [INFO]: GET /
+2025-04-26T16:57:48.067Z [INFO]: GET /docs
+2025-04-26T16:58:25.767Z [INFO]: GET /api/predict
+2025-04-26T16:58:25.773Z [INFO]: Using cached ELO data
+2025-04-26T16:58:25.776Z [INFO]: ELO data refreshed successfully
+2025-04-26T16:58:25.894Z [INFO]: GET /favicon.ico
+2025-04-26T16:58:34.866Z [INFO]: GET /api/predict

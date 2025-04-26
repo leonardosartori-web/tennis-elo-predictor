@@ -14,6 +14,9 @@ app.use((req, res, next) => {
 });
 
 // Routes
+app.get('/', (req, res) => {
+    res.status(200).json({ msg: 'This is an Tennis ELO API' });
+})
 app.use('/api', apiRouter);
 
 // Error handling
