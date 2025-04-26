@@ -1,0 +1,3925 @@
+{
+  "timestamp": 1745685892322,
+  "data": [
+    {
+      "name": "Jannik Sinner",
+      "elo": 2214.6,
+      "hElo": 2180.7,
+      "cElo": 2041.3,
+      "gElo": 1969,
+      "atpRank": 1
+    },
+    {
+      "name": "Carlos Alcaraz",
+      "elo": 2165.9,
+      "hElo": 2088.7,
+      "cElo": 2126,
+      "gElo": 2075,
+      "atpRank": 3
+    },
+    {
+      "name": "Novak Djokovic",
+      "elo": 2159.9,
+      "hElo": 2113.9,
+      "cElo": 2075.8,
+      "gElo": 2036.4,
+      "atpRank": 5
+    },
+    {
+      "name": "Alexander Zverev",
+      "elo": 2074.4,
+      "hElo": 2028.1,
+      "cElo": 2015.2,
+      "gElo": 1885.9,
+      "atpRank": 2
+    },
+    {
+      "name": "Jack Draper",
+      "elo": 2057.7,
+      "hElo": 2014.7,
+      "cElo": 1815.9,
+      "gElo": 1878.6,
+      "atpRank": 6
+    },
+    {
+      "name": "Taylor Fritz",
+      "elo": 2022.2,
+      "hElo": 1970,
+      "cElo": 1928.2,
+      "gElo": 1878.4,
+      "atpRank": 4
+    },
+    {
+      "name": "Daniil Medvedev",
+      "elo": 2005.5,
+      "hElo": 1962.3,
+      "cElo": 1921.1,
+      "gElo": 1898.7,
+      "atpRank": 10
+    },
+    {
+      "name": "Alex De Minaur",
+      "elo": 1998.7,
+      "hElo": 1934.8,
+      "cElo": 1895.5,
+      "gElo": 1834.3,
+      "atpRank": 7
+    },
+    {
+      "name": "Grigor Dimitrov",
+      "elo": 1994.1,
+      "hElo": 1945,
+      "cElo": 1911.2,
+      "gElo": 1817.9,
+      "atpRank": 16
+    },
+    {
+      "name": "Holger Rune",
+      "elo": 1985.6,
+      "hElo": 1923.5,
+      "cElo": 1944.5,
+      "gElo": 1822.7,
+      "atpRank": 9
+    },
+    {
+      "name": "Arthur Fils",
+      "elo": 1978.1,
+      "hElo": 1899.6,
+      "cElo": 1942.3,
+      "gElo": 1825.1,
+      "atpRank": 14
+    },
+    {
+      "name": "Lorenzo Musetti",
+      "elo": 1973.3,
+      "hElo": 1854.8,
+      "cElo": 1951.2,
+      "gElo": 1878,
+      "atpRank": 11
+    },
+    {
+      "name": "Joao Fonseca",
+      "elo": 1971.8,
+      "hElo": 1932.7,
+      "cElo": 1841.5,
+      "gElo": 1666.4,
+      "atpRank": 65
+    },
+    {
+      "name": "Tommy Paul",
+      "elo": 1969.4,
+      "hElo": 1915,
+      "cElo": 1868.5,
+      "gElo": 1872.8,
+      "atpRank": 12
+    },
+    {
+      "name": "Stefanos Tsitsipas",
+      "elo": 1961.4,
+      "hElo": 1894.1,
+      "cElo": 1974.8,
+      "gElo": 1784.7,
+      "atpRank": 18
+    },
+    {
+      "name": "Tomas Machac",
+      "elo": 1960.5,
+      "hElo": 1921,
+      "cElo": 1828.9,
+      "gElo": 1744.8,
+      "atpRank": 20
+    },
+    {
+      "name": "Matteo Berrettini",
+      "elo": 1956.2,
+      "hElo": 1875,
+      "cElo": 1954.7,
+      "gElo": 1874.2,
+      "atpRank": 31
+    },
+    {
+      "name": "Ben Shelton",
+      "elo": 1932.7,
+      "hElo": 1878.1,
+      "cElo": 1834,
+      "gElo": 1736.9,
+      "atpRank": 13
+    },
+    {
+      "name": "Jakub Mensik",
+      "elo": 1931.9,
+      "hElo": 1907.5,
+      "cElo": 1781.1,
+      "gElo": 1667.8,
+      "atpRank": 23
+    },
+    {
+      "name": "Hubert Hurkacz",
+      "elo": 1930.6,
+      "hElo": 1870.3,
+      "cElo": 1881.5,
+      "gElo": 1833,
+      "atpRank": 28
+    },
+    {
+      "name": "Ugo Humbert",
+      "elo": 1928.6,
+      "hElo": 1912.4,
+      "cElo": 1780.9,
+      "gElo": 1774.2,
+      "atpRank": 22
+    },
+    {
+      "name": "Casper Ruud",
+      "elo": 1928.4,
+      "hElo": 1866.4,
+      "cElo": 1933.2,
+      "gElo": 1687.4,
+      "atpRank": 15
+    },
+    {
+      "name": "Gael Monfils",
+      "elo": 1927.7,
+      "hElo": 1892.5,
+      "cElo": 1744.4,
+      "gElo": 1722.6,
+      "atpRank": 42
+    },
+    {
+      "name": "Francisco Cerundolo",
+      "elo": 1922.3,
+      "hElo": 1863,
+      "cElo": 1884,
+      "gElo": 1719.8,
+      "atpRank": 21
+    },
+    {
+      "name": "Tallon Griekspoor",
+      "elo": 1914.1,
+      "hElo": 1867.6,
+      "cElo": 1817.2,
+      "gElo": 1787.8,
+      "atpRank": 34
+    },
+    {
+      "name": "Jiri Lehecka",
+      "elo": 1912.4,
+      "hElo": 1862,
+      "cElo": 1776.3,
+      "gElo": 1706.2,
+      "atpRank": 27
+    },
+    {
+      "name": "Alejandro Davidovich Fokina",
+      "elo": 1909.2,
+      "hElo": 1843.8,
+      "cElo": 1843.6,
+      "gElo": 1667,
+      "atpRank": 29
+    },
+    {
+      "name": "Andrey Rublev",
+      "elo": 1906.9,
+      "hElo": 1866.3,
+      "cElo": 1878.8,
+      "gElo": 1792.3,
+      "atpRank": 8
+    },
+    {
+      "name": "Sebastian Korda",
+      "elo": 1894.2,
+      "hElo": 1847.9,
+      "cElo": 1754.1,
+      "gElo": 1779.3,
+      "atpRank": 24
+    },
+    {
+      "name": "Karen Khachanov",
+      "elo": 1892.4,
+      "hElo": 1841.8,
+      "cElo": 1844.5,
+      "gElo": 1709.3,
+      "atpRank": 25
+    },
+    {
+      "name": "Felix Auger Aliassime",
+      "elo": 1883.9,
+      "hElo": 1843.2,
+      "cElo": 1834.2,
+      "gElo": 1725.4,
+      "atpRank": 19
+    },
+    {
+      "name": "Denis Shapovalov",
+      "elo": 1883.2,
+      "hElo": 1856.1,
+      "cElo": 1765.4,
+      "gElo": 1726,
+      "atpRank": 30
+    },
+    {
+      "name": "Thanasi Kokkinakis",
+      "elo": 1872.6,
+      "hElo": 1822.4,
+      "cElo": 1771.4,
+      "gElo": 1643.4,
+      "atpRank": 106
+    },
+    {
+      "name": "Rafael Nadal",
+      "elo": 1868.6,
+      "hElo": 1775.2,
+      "cElo": 1835.9,
+      "gElo": 1684.3,
+      "atpRank": 0
+    },
+    {
+      "name": "Jordan Thompson",
+      "elo": 1867.1,
+      "hElo": 1829.1,
+      "cElo": 1643.7,
+      "gElo": 1772.4,
+      "atpRank": 40
+    },
+    {
+      "name": "Alexei Popyrin",
+      "elo": 1856.3,
+      "hElo": 1787.8,
+      "cElo": 1800.4,
+      "gElo": 1698,
+      "atpRank": 26
+    },
+    {
+      "name": "Alex Michelsen",
+      "elo": 1852.9,
+      "hElo": 1806.5,
+      "cElo": 1627.6,
+      "gElo": 1716.1,
+      "atpRank": 38
+    },
+    {
+      "name": "Jenson Brooksby",
+      "elo": 1850,
+      "hElo": 1790.2,
+      "cElo": 1788.6,
+      "gElo": 1694.4,
+      "atpRank": 163
+    },
+    {
+      "name": "Marcos Giron",
+      "elo": 1848.4,
+      "hElo": 1805,
+      "cElo": 1690.9,
+      "gElo": 1763.1,
+      "atpRank": 45
+    },
+    {
+      "name": "Frances Tiafoe",
+      "elo": 1846.5,
+      "hElo": 1803,
+      "cElo": 1757.4,
+      "gElo": 1744.6,
+      "atpRank": 17
+    },
+    {
+      "name": "Hamad Medjedovic",
+      "elo": 1832.4,
+      "hElo": 1783.1,
+      "cElo": 1770,
+      "gElo": 1664.1,
+      "atpRank": 61
+    },
+    {
+      "name": "Zizou Bergs",
+      "elo": 1829.9,
+      "hElo": 1787.5,
+      "cElo": 1738.8,
+      "gElo": 1696.7,
+      "atpRank": 50
+    },
+    {
+      "name": "Nuno Borges",
+      "elo": 1826.2,
+      "hElo": 1776.2,
+      "cElo": 1780.1,
+      "gElo": 1597.1,
+      "atpRank": 41
+    },
+    {
+      "name": "Brandon Nakashima",
+      "elo": 1822.8,
+      "hElo": 1790.4,
+      "cElo": 1723.9,
+      "gElo": 1717.5,
+      "atpRank": 32
+    },
+    {
+      "name": "Colton Smith",
+      "elo": 1817.5,
+      "hElo": 1757.4,
+      "cElo": 1621,
+      "gElo": 1608.7,
+      "atpRank": 161
+    },
+    {
+      "name": "Fabian Marozsan",
+      "elo": 1816.1,
+      "hElo": 1745,
+      "cElo": 1740.9,
+      "gElo": 1607.7,
+      "atpRank": 58
+    },
+    {
+      "name": "Learner Tien",
+      "elo": 1811.9,
+      "hElo": 1771.1,
+      "cElo": 1561.1,
+      "gElo": 1605.9,
+      "atpRank": 69
+    },
+    {
+      "name": "Kamil Majchrzak",
+      "elo": 1809.4,
+      "hElo": 1730.6,
+      "cElo": 1793.8,
+      "gElo": 1697.5,
+      "atpRank": 90
+    },
+    {
+      "name": "Marin Cilic",
+      "elo": 1808.1,
+      "hElo": 1751.2,
+      "cElo": 1762.5,
+      "gElo": 1753.4,
+      "atpRank": 109
+    },
+    {
+      "name": "Roman Safiullin",
+      "elo": 1807.7,
+      "hElo": 1759.7,
+      "cElo": 1730.7,
+      "gElo": 1706.6,
+      "atpRank": 73
+    },
+    {
+      "name": "Matteo Arnaldi",
+      "elo": 1806.5,
+      "hElo": 1778.5,
+      "cElo": 1753.7,
+      "gElo": 1645,
+      "atpRank": 44
+    },
+    {
+      "name": "Yoshihito Nishioka",
+      "elo": 1802.8,
+      "hElo": 1764.6,
+      "cElo": 1687.4,
+      "gElo": 1643.1,
+      "atpRank": 74
+    },
+    {
+      "name": "Miomir Kecmanovic",
+      "elo": 1798.2,
+      "hElo": 1746.8,
+      "cElo": 1738.6,
+      "gElo": 1664.2,
+      "atpRank": 47
+    },
+    {
+      "name": "Reilly Opelka",
+      "elo": 1793.9,
+      "hElo": 1757.4,
+      "cElo": 1739.8,
+      "gElo": 1638.8,
+      "atpRank": 103
+    },
+    {
+      "name": "Marton Fucsovics",
+      "elo": 1792.5,
+      "hElo": 1736,
+      "cElo": 1752.1,
+      "gElo": 1727,
+      "atpRank": 130
+    },
+    {
+      "name": "David Goffin",
+      "elo": 1791.9,
+      "hElo": 1744.9,
+      "cElo": 1737.1,
+      "gElo": 1728.1,
+      "atpRank": 49
+    },
+    {
+      "name": "Giovanni Mpetshi Perricard",
+      "elo": 1790.9,
+      "hElo": 1753.4,
+      "cElo": 1666.3,
+      "gElo": 1706,
+      "atpRank": 37
+    },
+    {
+      "name": "Laslo Djere",
+      "elo": 1788.4,
+      "hElo": 1693.7,
+      "cElo": 1783.8,
+      "gElo": 1604.8,
+      "atpRank": 71
+    },
+    {
+      "name": "Flavio Cobolli",
+      "elo": 1788,
+      "hElo": 1718.9,
+      "cElo": 1750.1,
+      "gElo": 1600.3,
+      "atpRank": 36
+    },
+    {
+      "name": "Jacob Fearnley",
+      "elo": 1782.2,
+      "hElo": 1751.8,
+      "cElo": 1561.9,
+      "gElo": 1686.1,
+      "atpRank": 68
+    },
+    {
+      "name": "Juncheng Shang",
+      "elo": 1781.5,
+      "hElo": 1733.3,
+      "cElo": 1658.1,
+      "gElo": 1668.6,
+      "atpRank": 60
+    },
+    {
+      "name": "Sebastian Baez",
+      "elo": 1781.2,
+      "hElo": 1618.1,
+      "cElo": 1804.2,
+      "gElo": 1561.1,
+      "atpRank": 33
+    },
+    {
+      "name": "Kei Nishikori",
+      "elo": 1780.4,
+      "hElo": 1745.6,
+      "cElo": 1652.6,
+      "gElo": 1624.3,
+      "atpRank": 64
+    },
+    {
+      "name": "Quentin Halys",
+      "elo": 1780.2,
+      "hElo": 1730.1,
+      "cElo": 1693.5,
+      "gElo": 1705,
+      "atpRank": 52
+    },
+    {
+      "name": "Luciano Darderi",
+      "elo": 1773.9,
+      "hElo": 1533.6,
+      "cElo": 1781.4,
+      "gElo": 1573.2,
+      "atpRank": 46
+    },
+    {
+      "name": "Christopher Oconnell",
+      "elo": 1771.1,
+      "hElo": 1737.7,
+      "cElo": 1677.6,
+      "gElo": 1655.9,
+      "atpRank": 87
+    },
+    {
+      "name": "Pablo Carreno Busta",
+      "elo": 1769.6,
+      "hElo": 1748.2,
+      "cElo": 1751.6,
+      "gElo": 1582.5,
+      "atpRank": 96
+    },
+    {
+      "name": "Ethan Quinn",
+      "elo": 1767.3,
+      "hElo": 1705.1,
+      "cElo": 1560.1,
+      "gElo": 1611.7,
+      "atpRank": 119
+    },
+    {
+      "name": "Roberto Bautista Agut",
+      "elo": 1767.2,
+      "hElo": 1710.9,
+      "cElo": 1720,
+      "gElo": 1729.6,
+      "atpRank": 55
+    },
+    {
+      "name": "Cameron Norrie",
+      "elo": 1765.1,
+      "hElo": 1728,
+      "cElo": 1759.4,
+      "gElo": 1685.6,
+      "atpRank": 91
+    },
+    {
+      "name": "Lorenzo Sonego",
+      "elo": 1763.9,
+      "hElo": 1730.4,
+      "cElo": 1693.9,
+      "gElo": 1652.9,
+      "atpRank": 43
+    },
+    {
+      "name": "Borna Coric",
+      "elo": 1761.2,
+      "hElo": 1727.5,
+      "cElo": 1714.3,
+      "gElo": 1643.7,
+      "atpRank": 104
+    },
+    {
+      "name": "Lucas Pouille",
+      "elo": 1758.9,
+      "hElo": 1711.4,
+      "cElo": 1680.8,
+      "gElo": 1683.7,
+      "atpRank": 111
+    },
+    {
+      "name": "Raphael Collignon",
+      "elo": 1758.6,
+      "hElo": 1696.5,
+      "cElo": 1712.7,
+      "gElo": 1583.8,
+      "atpRank": 81
+    },
+    {
+      "name": "Alexander Bublik",
+      "elo": 1751.8,
+      "hElo": 1710.8,
+      "cElo": 1673.2,
+      "gElo": 1722.2,
+      "atpRank": 75
+    },
+    {
+      "name": "Jaume Munar",
+      "elo": 1750.9,
+      "hElo": 1682.1,
+      "cElo": 1709.6,
+      "gElo": 1546.5,
+      "atpRank": 53
+    },
+    {
+      "name": "Alejandro Tabilo",
+      "elo": 1750.5,
+      "hElo": 1689.6,
+      "cElo": 1714.5,
+      "gElo": 1673.7,
+      "atpRank": 35
+    },
+    {
+      "name": "Camilo Ugo Carabelli",
+      "elo": 1749.2,
+      "hElo": 1626.8,
+      "cElo": 1731.6,
+      "gElo": 1512.8,
+      "atpRank": 59
+    },
+    {
+      "name": "Alexandre Muller",
+      "elo": 1748.2,
+      "hElo": 1681.6,
+      "cElo": 1720.7,
+      "gElo": 1580.4,
+      "atpRank": 39
+    },
+    {
+      "name": "Botic Van De Zandschulp",
+      "elo": 1746.2,
+      "hElo": 1708.5,
+      "cElo": 1677.7,
+      "gElo": 1612.2,
+      "atpRank": 88
+    },
+    {
+      "name": "Jan Lennard Struff",
+      "elo": 1743.3,
+      "hElo": 1661.3,
+      "cElo": 1729.8,
+      "gElo": 1639.3,
+      "atpRank": 79
+    },
+    {
+      "name": "Corentin Moutet",
+      "elo": 1741.4,
+      "hElo": 1691.9,
+      "cElo": 1687.5,
+      "gElo": 1624.2,
+      "atpRank": 82
+    },
+    {
+      "name": "Tomas Martin Etcheverry",
+      "elo": 1740.8,
+      "hElo": 1681.6,
+      "cElo": 1722.4,
+      "gElo": 1533,
+      "atpRank": 51
+    },
+    {
+      "name": "Roberto Carballes Baena",
+      "elo": 1740,
+      "hElo": 1672.8,
+      "cElo": 1714.5,
+      "gElo": 1566.1,
+      "atpRank": 56
+    },
+    {
+      "name": "Gabriel Diallo",
+      "elo": 1738.5,
+      "hElo": 1710,
+      "cElo": 1603.8,
+      "gElo": 1552,
+      "atpRank": 78
+    },
+    {
+      "name": "Mariano Navone",
+      "elo": 1734.8,
+      "hElo": 1568.8,
+      "cElo": 1746.6,
+      "gElo": 1503.8,
+      "atpRank": 85
+    },
+    {
+      "name": "Nishesh Basavareddy",
+      "elo": 1732.7,
+      "hElo": 1729,
+      "cElo": 1449.4,
+      "gElo": 1566.4,
+      "atpRank": 107
+    },
+    {
+      "name": "Aleksandar Kovacevic",
+      "elo": 1731.5,
+      "hElo": 1692.1,
+      "cElo": 1550.6,
+      "gElo": 1552.4,
+      "atpRank": 77
+    },
+    {
+      "name": "Nicolas Jarry",
+      "elo": 1729.8,
+      "hElo": 1683.6,
+      "cElo": 1707.9,
+      "gElo": 1630.8,
+      "atpRank": 57
+    },
+    {
+      "name": "Bu Yunchaokete",
+      "elo": 1728.2,
+      "hElo": 1687.3,
+      "cElo": 1593.9,
+      "gElo": 1544.8,
+      "atpRank": 72
+    },
+    {
+      "name": "Zhizhen Zhang",
+      "elo": 1727.2,
+      "hElo": 1650.9,
+      "cElo": 1728.4,
+      "gElo": 1614.6,
+      "atpRank": 54
+    },
+    {
+      "name": "Adam Walton",
+      "elo": 1725,
+      "hElo": 1683.5,
+      "cElo": 1473.9,
+      "gElo": 1571.2,
+      "atpRank": 86
+    },
+    {
+      "name": "Dominik Koepfer",
+      "elo": 1719.9,
+      "hElo": 1669.9,
+      "cElo": 1712.3,
+      "gElo": 1613,
+      "atpRank": 193
+    },
+    {
+      "name": "Mackenzie Mcdonald",
+      "elo": 1718.7,
+      "hElo": 1699.7,
+      "cElo": 1563,
+      "gElo": 1623.3,
+      "atpRank": 97
+    },
+    {
+      "name": "Daniel Altmaier",
+      "elo": 1716.6,
+      "hElo": 1646.4,
+      "cElo": 1682.3,
+      "gElo": 1546.5,
+      "atpRank": 67
+    },
+    {
+      "name": "Yibing Wu",
+      "elo": 1716.2,
+      "hElo": 1697.1,
+      "cElo": 1592.7,
+      "gElo": 1544.7,
+      "atpRank": 448
+    },
+    {
+      "name": "Stan Wawrinka",
+      "elo": 1715.2,
+      "hElo": 1681.7,
+      "cElo": 1676.7,
+      "gElo": 1608.4,
+      "atpRank": 158
+    },
+    {
+      "name": "Pedro Martinez",
+      "elo": 1713.7,
+      "hElo": 1624.9,
+      "cElo": 1711.2,
+      "gElo": 1492.8,
+      "atpRank": 48
+    },
+    {
+      "name": "Jason Kubler",
+      "elo": 1707.5,
+      "hElo": 1643.4,
+      "cElo": 1635.5,
+      "gElo": 1690.8,
+      "atpRank": 307
+    },
+    {
+      "name": "Benjamin Bonzi",
+      "elo": 1705,
+      "hElo": 1683.5,
+      "cElo": 1570,
+      "gElo": 1630.5,
+      "atpRank": 62
+    },
+    {
+      "name": "Max Purcell",
+      "elo": 1702.6,
+      "hElo": 1638.9,
+      "cElo": 1539.3,
+      "gElo": 1645.3,
+      "atpRank": 141
+    },
+    {
+      "name": "Valentin Royer",
+      "elo": 1701.6,
+      "hElo": 1579.4,
+      "cElo": 1693.4,
+      "gElo": 1532.5,
+      "atpRank": 118
+    },
+    {
+      "name": "Vit Kopriva",
+      "elo": 1701.2,
+      "hElo": 1625.1,
+      "cElo": 1669.4,
+      "gElo": 1609.6,
+      "atpRank": 95
+    },
+    {
+      "name": "Dalibor Svrcina",
+      "elo": 1699.3,
+      "hElo": 1658.1,
+      "cElo": 1637.1,
+      "gElo": 1514,
+      "atpRank": 127
+    },
+    {
+      "name": "Damir Dzumhur",
+      "elo": 1695,
+      "hElo": 1631.4,
+      "cElo": 1676,
+      "gElo": 1595.8,
+      "atpRank": 63
+    },
+    {
+      "name": "Emil Ruusuvuori",
+      "elo": 1694.8,
+      "hElo": 1665.8,
+      "cElo": 1623.8,
+      "gElo": 1620.8,
+      "atpRank": 228
+    },
+    {
+      "name": "Yosuke Watanuki",
+      "elo": 1694.3,
+      "hElo": 1651.7,
+      "cElo": 1624,
+      "gElo": 1613.9,
+      "atpRank": 213
+    },
+    {
+      "name": "Emilio Nava",
+      "elo": 1693.7,
+      "hElo": 1550.2,
+      "cElo": 1699.2,
+      "gElo": 1527.8,
+      "atpRank": 132
+    },
+    {
+      "name": "Arthur Cazaux",
+      "elo": 1691.5,
+      "hElo": 1653.9,
+      "cElo": 1540,
+      "gElo": 1574.2,
+      "atpRank": 116
+    },
+    {
+      "name": "Mattia Bellucci",
+      "elo": 1688.5,
+      "hElo": 1632,
+      "cElo": 1586.1,
+      "gElo": 1625.5,
+      "atpRank": 66
+    },
+    {
+      "name": "Borna Gojo",
+      "elo": 1688.1,
+      "hElo": 1666.3,
+      "cElo": 1614.5,
+      "gElo": 1491.7,
+      "atpRank": 353
+    },
+    {
+      "name": "Jesper De Jong",
+      "elo": 1683,
+      "hElo": 1607.9,
+      "cElo": 1667.7,
+      "gElo": 1536,
+      "atpRank": 93
+    },
+    {
+      "name": "Dusan Lajovic",
+      "elo": 1682.4,
+      "hElo": 1593.5,
+      "cElo": 1693.4,
+      "gElo": 1496.7,
+      "atpRank": 138
+    },
+    {
+      "name": "Marc Andrea Huesler",
+      "elo": 1680.9,
+      "hElo": 1646.1,
+      "cElo": 1613.3,
+      "gElo": 1582.4,
+      "atpRank": 154
+    },
+    {
+      "name": "Hugo Gaston",
+      "elo": 1677.9,
+      "hElo": 1629.3,
+      "cElo": 1663.2,
+      "gElo": 1582.5,
+      "atpRank": 80
+    },
+    {
+      "name": "Lloyd Harris",
+      "elo": 1674.2,
+      "hElo": 1629.7,
+      "cElo": 1557.9,
+      "gElo": 1659.4,
+      "atpRank": 166
+    },
+    {
+      "name": "Francesco Passaro",
+      "elo": 1672.2,
+      "hElo": 1580.1,
+      "cElo": 1652.7,
+      "gElo": 1501.5,
+      "atpRank": 101
+    },
+    {
+      "name": "Aslan Karatsev",
+      "elo": 1671.7,
+      "hElo": 1625.7,
+      "cElo": 1663.1,
+      "gElo": 1516.6,
+      "atpRank": 187
+    },
+    {
+      "name": "Arthur Rinderknech",
+      "elo": 1671,
+      "hElo": 1632.1,
+      "cElo": 1643.2,
+      "gElo": 1541.7,
+      "atpRank": 76
+    },
+    {
+      "name": "Andrea Vavassori",
+      "elo": 1669.5,
+      "hElo": 1637.7,
+      "cElo": 1631.5,
+      "gElo": 1528.8,
+      "atpRank": 303
+    },
+    {
+      "name": "Nicolas Moreno De Alboran",
+      "elo": 1669.4,
+      "hElo": 1635.3,
+      "cElo": 1615.1,
+      "gElo": 1527.2,
+      "atpRank": 144
+    },
+    {
+      "name": "Rinky Hijikata",
+      "elo": 1668.9,
+      "hElo": 1647.2,
+      "cElo": 1391.6,
+      "gElo": 1580.4,
+      "atpRank": 84
+    },
+    {
+      "name": "Diego Schwartzman",
+      "elo": 1668.6,
+      "hElo": 1643.9,
+      "cElo": 1659.4,
+      "gElo": 1561.5,
+      "atpRank": 442
+    },
+    {
+      "name": "Francisco Comesana",
+      "elo": 1668.1,
+      "hElo": 1579.3,
+      "cElo": 1646.1,
+      "gElo": 1583,
+      "atpRank": 70
+    },
+    {
+      "name": "Brandon Holt",
+      "elo": 1667.8,
+      "hElo": 1636,
+      "cElo": 1445.1,
+      "gElo": 1528.4,
+      "atpRank": 110
+    },
+    {
+      "name": "Sebastian Ofner",
+      "elo": 1667.2,
+      "hElo": 1631,
+      "cElo": 1631.4,
+      "gElo": 1599.1,
+      "atpRank": 153
+    },
+    {
+      "name": "Arthur Bouquier",
+      "elo": 1666.5,
+      "hElo": 1638.2,
+      "cElo": 1443.3,
+      "gElo": 1533.3,
+      "atpRank": 192
+    },
+    {
+      "name": "Fabio Fognini",
+      "elo": 1665.5,
+      "hElo": 1590,
+      "cElo": 1666.4,
+      "gElo": 1631.8,
+      "atpRank": 112
+    },
+    {
+      "name": "Thiago Monteiro",
+      "elo": 1664.7,
+      "hElo": 1590.4,
+      "cElo": 1663.4,
+      "gElo": 1532.2,
+      "atpRank": 94
+    },
+    {
+      "name": "Cristian Garin",
+      "elo": 1664,
+      "hElo": 1617.3,
+      "cElo": 1640.8,
+      "gElo": 1631,
+      "atpRank": 214
+    },
+    {
+      "name": "Valentin Vacherot",
+      "elo": 1661.8,
+      "hElo": 1592.9,
+      "cElo": 1650.6,
+      "gElo": 1510.2,
+      "atpRank": 223
+    },
+    {
+      "name": "Leandro Riedi",
+      "elo": 1661.3,
+      "hElo": 1616.3,
+      "cElo": 1572.9,
+      "gElo": 1604.5,
+      "atpRank": 374
+    },
+    {
+      "name": "Kyrian Jacquet",
+      "elo": 1661,
+      "hElo": 1639.5,
+      "cElo": 1576.6,
+      "gElo": 1505.4,
+      "atpRank": 152
+    },
+    {
+      "name": "Yannick Hanfmann",
+      "elo": 1659.8,
+      "hElo": 1597.6,
+      "cElo": 1643.4,
+      "gElo": 1548.6,
+      "atpRank": 123
+    },
+    {
+      "name": "Eliot Spizzirri",
+      "elo": 1658.7,
+      "hElo": 1636.2,
+      "cElo": 1490,
+      "gElo": 1537.3,
+      "atpRank": 125
+    },
+    {
+      "name": "Pierre Hugues Herbert",
+      "elo": 1658.7,
+      "hElo": 1628.1,
+      "cElo": 1590.8,
+      "gElo": 1579.9,
+      "atpRank": 147
+    },
+    {
+      "name": "Aleksandar Vukic",
+      "elo": 1657.6,
+      "hElo": 1625.1,
+      "cElo": 1547.1,
+      "gElo": 1617,
+      "atpRank": 83
+    },
+    {
+      "name": "Jaime Faria",
+      "elo": 1653.1,
+      "hElo": 1549.4,
+      "cElo": 1643.6,
+      "gElo": 1493.1,
+      "atpRank": 105
+    },
+    {
+      "name": "Richard Gasquet",
+      "elo": 1651.6,
+      "hElo": 1613.6,
+      "cElo": 1609.4,
+      "gElo": 1596.7,
+      "atpRank": 143
+    },
+    {
+      "name": "Facundo Bagnis",
+      "elo": 1649.2,
+      "hElo": 1533,
+      "cElo": 1642.5,
+      "gElo": 1400.1,
+      "atpRank": 399
+    },
+    {
+      "name": "Christopher Eubanks",
+      "elo": 1646.1,
+      "hElo": 1596.3,
+      "cElo": 1489.9,
+      "gElo": 1630.6,
+      "atpRank": 108
+    },
+    {
+      "name": "Alexander Blockx",
+      "elo": 1645.2,
+      "hElo": 1613.3,
+      "cElo": 1521.6,
+      "gElo": 1522.6,
+      "atpRank": 151
+    },
+    {
+      "name": "Luca Nardi",
+      "elo": 1642.6,
+      "hElo": 1610.3,
+      "cElo": 1580.1,
+      "gElo": 1471.1,
+      "atpRank": 100
+    },
+    {
+      "name": "Pavel Kotov",
+      "elo": 1639.9,
+      "hElo": 1580.5,
+      "cElo": 1631.9,
+      "gElo": 1537.5,
+      "atpRank": 121
+    },
+    {
+      "name": "Michael Mmoh",
+      "elo": 1639.4,
+      "hElo": 1610.6,
+      "cElo": 1527.5,
+      "gElo": 1536.5,
+      "atpRank": 341
+    },
+    {
+      "name": "Felipe Meligeni Alves",
+      "elo": 1637.5,
+      "hElo": 1502,
+      "cElo": 1636.4,
+      "gElo": 1580.9,
+      "atpRank": 117
+    },
+    {
+      "name": "Daniel Elahi Galan",
+      "elo": 1634.1,
+      "hElo": 1554.5,
+      "cElo": 1609.3,
+      "gElo": 1582.1,
+      "atpRank": 115
+    },
+    {
+      "name": "Facundo Diaz Acosta",
+      "elo": 1632.7,
+      "hElo": 1533.7,
+      "cElo": 1646.1,
+      "gElo": 1459.5,
+      "atpRank": 194
+    },
+    {
+      "name": "James Duckworth",
+      "elo": 1632.3,
+      "hElo": 1583.9,
+      "cElo": 1540.7,
+      "gElo": 1601.2,
+      "atpRank": 89
+    },
+    {
+      "name": "Hugo Dellien",
+      "elo": 1629.7,
+      "hElo": 1501.1,
+      "cElo": 1614.4,
+      "gElo": 1480.1,
+      "atpRank": 99
+    },
+    {
+      "name": "Jerome Kym",
+      "elo": 1627.9,
+      "hElo": 1568.9,
+      "cElo": 1608.1,
+      "gElo": 1513.9,
+      "atpRank": 133
+    },
+    {
+      "name": "Nikoloz Basilashvili",
+      "elo": 1627.8,
+      "hElo": 1602.2,
+      "cElo": 1577.8,
+      "gElo": 1588.1,
+      "atpRank": 157
+    },
+    {
+      "name": "Alex Molcan",
+      "elo": 1627.7,
+      "hElo": 1608.3,
+      "cElo": 1602.6,
+      "gElo": 1558.5,
+      "atpRank": 642
+    },
+    {
+      "name": "Adrian Mannarino",
+      "elo": 1626.9,
+      "hElo": 1599.7,
+      "cElo": 1507.2,
+      "gElo": 1618.5,
+      "atpRank": 124
+    },
+    {
+      "name": "Filip Misolic",
+      "elo": 1626.9,
+      "hElo": 1564.2,
+      "cElo": 1589.7,
+      "gElo": 1474.1,
+      "atpRank": 184
+    },
+    {
+      "name": "Thiago Seyboth Wild",
+      "elo": 1625,
+      "hElo": 1600.7,
+      "cElo": 1596.7,
+      "gElo": 1541.5,
+      "atpRank": 113
+    },
+    {
+      "name": "Lukas Klein",
+      "elo": 1624,
+      "hElo": 1592.5,
+      "cElo": 1572.3,
+      "gElo": 1559.8,
+      "atpRank": 173
+    },
+    {
+      "name": "Luca Van Assche",
+      "elo": 1619.5,
+      "hElo": 1589.5,
+      "cElo": 1590.7,
+      "gElo": 1523,
+      "atpRank": 179
+    },
+    {
+      "name": "Harold Mayot",
+      "elo": 1617.8,
+      "hElo": 1566.8,
+      "cElo": 1572.9,
+      "gElo": 1582.8,
+      "atpRank": 160
+    },
+    {
+      "name": "Tristan Boyer",
+      "elo": 1617.5,
+      "hElo": 1586.3,
+      "cElo": 1591.8,
+      "gElo": 1488.8,
+      "atpRank": 120
+    },
+    {
+      "name": "Liam Draxl",
+      "elo": 1616,
+      "hElo": 1585.4,
+      "cElo": 1527.1,
+      "gElo": 1508,
+      "atpRank": 156
+    },
+    {
+      "name": "Alexander Shevchenko",
+      "elo": 1614.4,
+      "hElo": 1580.3,
+      "cElo": 1570.8,
+      "gElo": 1474.2,
+      "atpRank": 92
+    },
+    {
+      "name": "Federico Coria",
+      "elo": 1612.7,
+      "hElo": 1487,
+      "cElo": 1597.1,
+      "gElo": 1408,
+      "atpRank": 139
+    },
+    {
+      "name": "Juan Manuel Cerundolo",
+      "elo": 1611.8,
+      "hElo": 1493.1,
+      "cElo": 1603.1,
+      "gElo": 1448.9,
+      "atpRank": 126
+    },
+    {
+      "name": "Daniel Evans",
+      "elo": 1610.7,
+      "hElo": 1600.9,
+      "cElo": 1547.9,
+      "gElo": 1587.7,
+      "atpRank": 197
+    },
+    {
+      "name": "Terence Atmane",
+      "elo": 1608.9,
+      "hElo": 1575.3,
+      "cElo": 1550.8,
+      "gElo": 1497.4,
+      "atpRank": 136
+    },
+    {
+      "name": "Constant Lestienne",
+      "elo": 1608.8,
+      "hElo": 1571.2,
+      "cElo": 1458.8,
+      "gElo": 1493.3,
+      "atpRank": 180
+    },
+    {
+      "name": "Elmer Moller",
+      "elo": 1602.9,
+      "hElo": 1486.9,
+      "cElo": 1608.6,
+      "gElo": 1551.4,
+      "atpRank": 114
+    },
+    {
+      "name": "Tristan Schoolkate",
+      "elo": 1601.6,
+      "hElo": 1563.6,
+      "cElo": 1376.9,
+      "gElo": 1518,
+      "atpRank": 122
+    },
+    {
+      "name": "Otto Virtanen",
+      "elo": 1598.7,
+      "hElo": 1570.2,
+      "cElo": 1471,
+      "gElo": 1558,
+      "atpRank": 129
+    },
+    {
+      "name": "Giulio Zeppieri",
+      "elo": 1597.3,
+      "hElo": 1578.6,
+      "cElo": 1546.4,
+      "gElo": 1497.2,
+      "atpRank": 334
+    },
+    {
+      "name": "Taro Daniel",
+      "elo": 1596.4,
+      "hElo": 1569.3,
+      "cElo": 1547.2,
+      "gElo": 1489.6,
+      "atpRank": 131
+    },
+    {
+      "name": "Thiago Agustin Tirante",
+      "elo": 1595.2,
+      "hElo": 1560.7,
+      "cElo": 1552.1,
+      "gElo": 1504.5,
+      "atpRank": 134
+    },
+    {
+      "name": "Chris Rodesch",
+      "elo": 1593.7,
+      "hElo": 1500.4,
+      "cElo": 1560.1,
+      "gElo": 1496.8,
+      "atpRank": 177
+    },
+    {
+      "name": "Gregoire Barrere",
+      "elo": 1591.1,
+      "hElo": 1551.3,
+      "cElo": 1561.6,
+      "gElo": 1554.9,
+      "atpRank": 220
+    },
+    {
+      "name": "Tomas Barrios Vera",
+      "elo": 1591,
+      "hElo": 1479.2,
+      "cElo": 1581.2,
+      "gElo": 1537,
+      "atpRank": 128
+    },
+    {
+      "name": "Maximilian Marterer",
+      "elo": 1590.7,
+      "hElo": 1533.7,
+      "cElo": 1580.4,
+      "gElo": 1551.5,
+      "atpRank": 216
+    },
+    {
+      "name": "Matteo Gigante",
+      "elo": 1589.9,
+      "hElo": 1556.8,
+      "cElo": 1526.1,
+      "gElo": 1515,
+      "atpRank": 195
+    },
+    {
+      "name": "Coleman Wong",
+      "elo": 1589.3,
+      "hElo": 1556.8,
+      "cElo": 1470.2,
+      "gElo": 1463.3,
+      "atpRank": 169
+    },
+    {
+      "name": "Billy Harris",
+      "elo": 1588.8,
+      "hElo": 1564.7,
+      "cElo": 1449.6,
+      "gElo": 1594.3,
+      "atpRank": 102
+    },
+    {
+      "name": "Zsombor Piros",
+      "elo": 1587.1,
+      "hElo": 1536.8,
+      "cElo": 1561.5,
+      "gElo": 1542.4,
+      "atpRank": 270
+    },
+    {
+      "name": "J J Wolf",
+      "elo": 1586.4,
+      "hElo": 1551.2,
+      "cElo": 1546.3,
+      "gElo": 1528.8,
+      "atpRank": 284
+    },
+    {
+      "name": "Chun Hsin Tseng",
+      "elo": 1586.2,
+      "hElo": 1508.7,
+      "cElo": 1575.3,
+      "gElo": 1434.2,
+      "atpRank": 98
+    },
+    {
+      "name": "Kyle Edmund",
+      "elo": 1582.6,
+      "hElo": 1563.7,
+      "cElo": 1572,
+      "gElo": 1508.4,
+      "atpRank": 509
+    },
+    {
+      "name": "Gustavo Heide",
+      "elo": 1581.7,
+      "hElo": 1454,
+      "cElo": 1571.6,
+      "gElo": 1460.3,
+      "atpRank": 178
+    },
+    {
+      "name": "Mark Lajal",
+      "elo": 1581.1,
+      "hElo": 1552,
+      "cElo": 1444.6,
+      "gElo": 1601.3,
+      "atpRank": 199
+    },
+    {
+      "name": "Dino Prizmic",
+      "elo": 1580,
+      "hElo": 1559.6,
+      "cElo": 1532.6,
+      "gElo": 1486.1,
+      "atpRank": 335
+    },
+    {
+      "name": "Li Tu",
+      "elo": 1579,
+      "hElo": 1541.6,
+      "cElo": 1486.6,
+      "gElo": 1557.3,
+      "atpRank": 164
+    },
+    {
+      "name": "Murphy Cassone",
+      "elo": 1576.2,
+      "hElo": 1548.6,
+      "cElo": 1444.9,
+      "gElo": 1488.1,
+      "atpRank": 204
+    },
+    {
+      "name": "Mikhail Kukushkin",
+      "elo": 1574.5,
+      "hElo": 1535.2,
+      "cElo": 1534,
+      "gElo": 1558.3,
+      "atpRank": 162
+    },
+    {
+      "name": "Timofey Skatov",
+      "elo": 1574.2,
+      "hElo": 1508.9,
+      "cElo": 1567.2,
+      "gElo": 1493.1,
+      "atpRank": 172
+    },
+    {
+      "name": "Seong Chan Hong",
+      "elo": 1573,
+      "hElo": 1543.3,
+      "cElo": 1444.7,
+      "gElo": 1397.6,
+      "atpRank": 312
+    },
+    {
+      "name": "Pablo Llamas Ruiz",
+      "elo": 1571.1,
+      "hElo": 1487.2,
+      "cElo": 1569.6,
+      "gElo": 1496.1,
+      "atpRank": 614
+    },
+    {
+      "name": "Carlos Taberner",
+      "elo": 1570.1,
+      "hElo": 1434,
+      "cElo": 1564.9,
+      "gElo": 1433.7,
+      "atpRank": 140
+    },
+    {
+      "name": "Alex Bolt",
+      "elo": 1569.3,
+      "hElo": 1515.8,
+      "cElo": 1351.7,
+      "gElo": 1576.1,
+      "atpRank": 226
+    },
+    {
+      "name": "Vilius Gaubas",
+      "elo": 1568.2,
+      "hElo": 1455.6,
+      "cElo": 1569.1,
+      "gElo": 1534.1,
+      "atpRank": 149
+    },
+    {
+      "name": "Albert Ramos",
+      "elo": 1567.6,
+      "hElo": 1534.2,
+      "cElo": 1534.3,
+      "gElo": 1429.1,
+      "atpRank": 233
+    },
+    {
+      "name": "Radu Albot",
+      "elo": 1567.4,
+      "hElo": 1528.8,
+      "cElo": 1538.9,
+      "gElo": 1552.6,
+      "atpRank": 266
+    },
+    {
+      "name": "Norbert Gombos",
+      "elo": 1567.2,
+      "hElo": 1527,
+      "cElo": 1551,
+      "gElo": 1465.1,
+      "atpRank": 336
+    },
+    {
+      "name": "Liam Broady",
+      "elo": 1566.1,
+      "hElo": 1535.1,
+      "cElo": 1458.7,
+      "gElo": 1496.4,
+      "atpRank": 631
+    },
+    {
+      "name": "Alexander Ritschard",
+      "elo": 1565.9,
+      "hElo": 1472.5,
+      "cElo": 1614.9,
+      "gElo": 1488.3,
+      "atpRank": 135
+    },
+    {
+      "name": "Shintaro Mochizuki",
+      "elo": 1565.2,
+      "hElo": 1524.8,
+      "cElo": 1551.8,
+      "gElo": 1477.9,
+      "atpRank": 146
+    },
+    {
+      "name": "Ricardas Berankis",
+      "elo": 1564.8,
+      "hElo": 1518.5,
+      "cElo": 1558.7,
+      "gElo": 1528.3,
+      "atpRank": 294
+    },
+    {
+      "name": "Jurij Rodionov",
+      "elo": 1563.6,
+      "hElo": 1536.5,
+      "cElo": 1490.4,
+      "gElo": 1505.1,
+      "atpRank": 230
+    },
+    {
+      "name": "Hugo Grenier",
+      "elo": 1562.6,
+      "hElo": 1525.5,
+      "cElo": 1446.8,
+      "gElo": 1516.8,
+      "atpRank": 175
+    },
+    {
+      "name": "Alexis Galarneau",
+      "elo": 1562.5,
+      "hElo": 1538.9,
+      "cElo": 1451.6,
+      "gElo": 1485.9,
+      "atpRank": 201
+    },
+    {
+      "name": "Sumit Nagal",
+      "elo": 1560.2,
+      "hElo": 1515.3,
+      "cElo": 1555.9,
+      "gElo": 1435,
+      "atpRank": 165
+    },
+    {
+      "name": "Benjamin Hassan",
+      "elo": 1557.5,
+      "hElo": 1513,
+      "cElo": 1537.5,
+      "gElo": 1470.5,
+      "atpRank": 219
+    },
+    {
+      "name": "Alejandro Moro Canas",
+      "elo": 1557.1,
+      "hElo": 1519.7,
+      "cElo": 1513,
+      "gElo": 1540.1,
+      "atpRank": 159
+    },
+    {
+      "name": "Dominic Stricker",
+      "elo": 1557,
+      "hElo": 1521.8,
+      "cElo": 1528.2,
+      "gElo": 1528.9,
+      "atpRank": 252
+    },
+    {
+      "name": "Roman Andres Burruchaga",
+      "elo": 1556.2,
+      "hElo": 1467.6,
+      "cElo": 1544.3,
+      "gElo": 1511.2,
+      "atpRank": 142
+    },
+    {
+      "name": "Duje Ajdukovic",
+      "elo": 1555.7,
+      "hElo": 1542.2,
+      "cElo": 1526.8,
+      "gElo": 1427.9,
+      "atpRank": 167
+    },
+    {
+      "name": "Titouan Droguet",
+      "elo": 1552.6,
+      "hElo": 1506.5,
+      "cElo": 1544.5,
+      "gElo": 1515.3,
+      "atpRank": 203
+    },
+    {
+      "name": "Marat Sharipov",
+      "elo": 1551.9,
+      "hElo": 1517.3,
+      "cElo": 1386,
+      "gElo": 1476,
+      "atpRank": 256
+    },
+    {
+      "name": "Yasutaka Uchiyama",
+      "elo": 1551.8,
+      "hElo": 1513.6,
+      "cElo": 1396.4,
+      "gElo": 1478.1,
+      "atpRank": 209
+    },
+    {
+      "name": "Joris De Loore",
+      "elo": 1549.5,
+      "hElo": 1538.2,
+      "cElo": 1481.7,
+      "gElo": 1470.6,
+      "atpRank": 403
+    },
+    {
+      "name": "Calvin Hemery",
+      "elo": 1548.6,
+      "hElo": 1496.1,
+      "cElo": 1528.2,
+      "gElo": 1451.1,
+      "atpRank": 171
+    },
+    {
+      "name": "Ugo Blanchet",
+      "elo": 1546.8,
+      "hElo": 1522.2,
+      "cElo": 1521.3,
+      "gElo": 1462.1,
+      "atpRank": 182
+    },
+    {
+      "name": "Hady Habib",
+      "elo": 1546,
+      "hElo": 1522,
+      "cElo": 1461.2,
+      "gElo": 1523,
+      "atpRank": 174
+    },
+    {
+      "name": "Jozef Kovalik",
+      "elo": 1545.7,
+      "hElo": 1457.6,
+      "cElo": 1549.8,
+      "gElo": 1392.2,
+      "atpRank": 168
+    },
+    {
+      "name": "Gijs Brouwer",
+      "elo": 1545.4,
+      "hElo": 1483.1,
+      "cElo": 1490.4,
+      "gElo": 1515.2,
+      "atpRank": 206
+    },
+    {
+      "name": "Elias Ymer",
+      "elo": 1544.7,
+      "hElo": 1502.1,
+      "cElo": 1519.3,
+      "gElo": 1515.2,
+      "atpRank": 259
+    },
+    {
+      "name": "Kimmer Coppejans",
+      "elo": 1544.5,
+      "hElo": 1459.1,
+      "cElo": 1523.5,
+      "gElo": 1455.8,
+      "atpRank": 280
+    },
+    {
+      "name": "Daniel Rincon",
+      "elo": 1544,
+      "hElo": 1509.3,
+      "cElo": 1497.9,
+      "gElo": 1401.2,
+      "atpRank": 217
+    },
+    {
+      "name": "Martin Landaluce",
+      "elo": 1542.9,
+      "hElo": 1548.6,
+      "cElo": 1456.7,
+      "gElo": 1471.4,
+      "atpRank": 148
+    },
+    {
+      "name": "Rei Sakamoto",
+      "elo": 1542.4,
+      "hElo": 1504.5,
+      "cElo": 1381.2,
+      "gElo": 1471.2,
+      "atpRank": 281
+    },
+    {
+      "name": "Zachary Svajda",
+      "elo": 1541.8,
+      "hElo": 1501.7,
+      "cElo": 1456.1,
+      "gElo": 1516.8,
+      "atpRank": 221
+    },
+    {
+      "name": "Luka Pavlovic",
+      "elo": 1541.8,
+      "hElo": 1340.3,
+      "cElo": 1532.2,
+      "gElo": 1470.9,
+      "atpRank": 234
+    },
+    {
+      "name": "Lukas Neumayer",
+      "elo": 1539,
+      "hElo": 1369.9,
+      "cElo": 1533.6,
+      "gElo": 1436.5,
+      "atpRank": 191
+    },
+    {
+      "name": "James Trotter",
+      "elo": 1538.8,
+      "hElo": 1522.6,
+      "cElo": 1330.3,
+      "gElo": 1442.2,
+      "atpRank": 170
+    },
+    {
+      "name": "Jan Choinski",
+      "elo": 1538.5,
+      "hElo": 1465.8,
+      "cElo": 1533.8,
+      "gElo": 1374.1,
+      "atpRank": 183
+    },
+    {
+      "name": "Marco Trungelliti",
+      "elo": 1537.8,
+      "hElo": 1478,
+      "cElo": 1533.4,
+      "gElo": 1433,
+      "atpRank": 189
+    },
+    {
+      "name": "Mitchell Krueger",
+      "elo": 1536.9,
+      "hElo": 1491.8,
+      "cElo": 1478.1,
+      "gElo": 1492.2,
+      "atpRank": 150
+    },
+    {
+      "name": "James Mccabe",
+      "elo": 1536.5,
+      "hElo": 1496.3,
+      "cElo": 1346.9,
+      "gElo": 1502.9,
+      "atpRank": 176
+    },
+    {
+      "name": "Juan Pablo Ficovich",
+      "elo": 1535.2,
+      "hElo": 1448.5,
+      "cElo": 1536.6,
+      "gElo": 1447.6,
+      "atpRank": 145
+    },
+    {
+      "name": "Ignacio Buse",
+      "elo": 1533.3,
+      "hElo": 1355.5,
+      "cElo": 1541.5,
+      "gElo": 1466.6,
+      "atpRank": 210
+    },
+    {
+      "name": "Alibek Kachmazov",
+      "elo": 1532.3,
+      "hElo": 1503.1,
+      "cElo": 1427,
+      "gElo": 1516.2,
+      "atpRank": 185
+    },
+    {
+      "name": "Juan Pablo Varillas",
+      "elo": 1529.6,
+      "hElo": 1404.9,
+      "cElo": 1523,
+      "gElo": 1392.9,
+      "atpRank": 239
+    },
+    {
+      "name": "Andrea Pellegrino",
+      "elo": 1528.2,
+      "hElo": 1371.8,
+      "cElo": 1509.1,
+      "gElo": 1396.9,
+      "atpRank": 237
+    },
+    {
+      "name": "Dmitry Popko",
+      "elo": 1526.3,
+      "hElo": 1508,
+      "cElo": 1453.6,
+      "gElo": 1407.8,
+      "atpRank": 155
+    },
+    {
+      "name": "Denis Kudla",
+      "elo": 1523.8,
+      "hElo": 1506,
+      "cElo": 1468.3,
+      "gElo": 1518.8,
+      "atpRank": 566
+    },
+    {
+      "name": "Nicolai Budkov Kjaer",
+      "elo": 1523.5,
+      "hElo": 1534.1,
+      "cElo": 1443.7,
+      "gElo": 1511.8,
+      "atpRank": 305
+    },
+    {
+      "name": "Vitaliy Sachko",
+      "elo": 1523.3,
+      "hElo": 1441.7,
+      "cElo": 1506.2,
+      "gElo": 1425.2,
+      "atpRank": 253
+    },
+    {
+      "name": "Pedro Cachin",
+      "elo": 1521,
+      "hElo": 1410.1,
+      "cElo": 1525.3,
+      "gElo": 1397.1,
+      "atpRank": 279
+    },
+    {
+      "name": "Stefano Napolitano",
+      "elo": 1520.6,
+      "hElo": 1471.3,
+      "cElo": 1502.8,
+      "gElo": 1500.1,
+      "atpRank": 449
+    },
+    {
+      "name": "Martin Klizan",
+      "elo": 1517.5,
+      "hElo": 1484.1,
+      "cElo": 1513,
+      "gElo": 1400.2,
+      "atpRank": 298
+    },
+    {
+      "name": "Maximus Jones",
+      "elo": 1516.3,
+      "hElo": 1503.6,
+      "cElo": 1382.1,
+      "gElo": 1458.1,
+      "atpRank": 436
+    },
+    {
+      "name": "Riccardo Bonadio",
+      "elo": 1514.5,
+      "hElo": 1429,
+      "cElo": 1494.8,
+      "gElo": 1413.6,
+      "atpRank": 580
+    },
+    {
+      "name": "Henrique Rocha",
+      "elo": 1514.1,
+      "hElo": 1486.5,
+      "cElo": 1478.7,
+      "gElo": 1451.8,
+      "atpRank": 198
+    },
+    {
+      "name": "Beibit Zhukayev",
+      "elo": 1512.5,
+      "hElo": 1479.3,
+      "cElo": 1402.2,
+      "gElo": 1503.9,
+      "atpRank": 208
+    },
+    {
+      "name": "Dimitar Kuzmanov",
+      "elo": 1512.4,
+      "hElo": 1514.2,
+      "cElo": 1452.3,
+      "gElo": 1451.1,
+      "atpRank": 274
+    },
+    {
+      "name": "Max Hans Rehberg",
+      "elo": 1507.1,
+      "hElo": 1473.3,
+      "cElo": 1427.3,
+      "gElo": 1386.5,
+      "atpRank": 242
+    },
+    {
+      "name": "Dennis Novak",
+      "elo": 1503.6,
+      "hElo": 1485.6,
+      "cElo": 1479.7,
+      "gElo": 1548,
+      "atpRank": 367
+    },
+    {
+      "name": "Ilia Simakin",
+      "elo": 1503.1,
+      "hElo": 1473.5,
+      "cElo": 1361.6,
+      "gElo": 1451.6,
+      "atpRank": 271
+    },
+    {
+      "name": "Arthur Fery",
+      "elo": 1502.4,
+      "hElo": 1497.2,
+      "cElo": 1361.2,
+      "gElo": 1381.2,
+      "atpRank": 451
+    },
+    {
+      "name": "Khumoun Sultanov",
+      "elo": 1502.4,
+      "hElo": 1475.6,
+      "cElo": 1358.6,
+      "gElo": 1461.9,
+      "atpRank": 0
+    },
+    {
+      "name": "Javier Barranco Cosano",
+      "elo": 1501.1,
+      "hElo": 1454.9,
+      "cElo": 1456.2,
+      "gElo": 1454.5,
+      "atpRank": 275
+    },
+    {
+      "name": "Philip Sekulic",
+      "elo": 1498.8,
+      "hElo": 1480.2,
+      "cElo": 1328.2,
+      "gElo": 1411.2,
+      "atpRank": 375
+    },
+    {
+      "name": "Sho Shimabukuro",
+      "elo": 1497.2,
+      "hElo": 1455.8,
+      "cElo": 1440.5,
+      "gElo": 1513.2,
+      "atpRank": 188
+    },
+    {
+      "name": "Manuel Guinard",
+      "elo": 1493.8,
+      "hElo": 1469.3,
+      "cElo": 1446.2,
+      "gElo": 1392.7,
+      "atpRank": 354
+    },
+    {
+      "name": "Yuta Shimizu",
+      "elo": 1493.7,
+      "hElo": 1462.8,
+      "cElo": 1297.5,
+      "gElo": 1479.3,
+      "atpRank": 181
+    },
+    {
+      "name": "Pol Martin Tiffon",
+      "elo": 1490.4,
+      "hElo": 1415.7,
+      "cElo": 1459.5,
+      "gElo": 1445.2,
+      "atpRank": 202
+    },
+    {
+      "name": "Marc Polmans",
+      "elo": 1490,
+      "hElo": 1461.1,
+      "cElo": 1434.9,
+      "gElo": 1480.7,
+      "atpRank": 428
+    },
+    {
+      "name": "Maxime Cressy",
+      "elo": 1489.2,
+      "hElo": 1481.3,
+      "cElo": 1376.1,
+      "gElo": 1485,
+      "atpRank": 391
+    },
+    {
+      "name": "Federico Arnaboldi",
+      "elo": 1487.9,
+      "hElo": 1366.9,
+      "cElo": 1483.9,
+      "gElo": 1443.9,
+      "atpRank": 200
+    },
+    {
+      "name": "Stefano Travaglia",
+      "elo": 1485.9,
+      "hElo": 1471.1,
+      "cElo": 1470.1,
+      "gElo": 1410,
+      "atpRank": 287
+    },
+    {
+      "name": "Federico Cina",
+      "elo": 1485.5,
+      "hElo": 1479.8,
+      "cElo": 1308.5,
+      "gElo": 1442.8,
+      "atpRank": 373
+    },
+    {
+      "name": "Maks Kasnikowski",
+      "elo": 1485.4,
+      "hElo": 1425.2,
+      "cElo": 1507,
+      "gElo": 1492.7,
+      "atpRank": 241
+    },
+    {
+      "name": "Edas Butvilas",
+      "elo": 1482.4,
+      "hElo": 1496.3,
+      "cElo": 1407.3,
+      "gElo": 1458,
+      "atpRank": 212
+    },
+    {
+      "name": "Andrew Paulson",
+      "elo": 1482.3,
+      "hElo": 1370.8,
+      "cElo": 1449.8,
+      "gElo": 1441.2,
+      "atpRank": 508
+    },
+    {
+      "name": "Tung Lin Wu",
+      "elo": 1481.3,
+      "hElo": 1447.1,
+      "cElo": 1463,
+      "gElo": 1400.1,
+      "atpRank": 263
+    },
+    {
+      "name": "Bernard Tomic",
+      "elo": 1480.2,
+      "hElo": 1446.7,
+      "cElo": 1426.4,
+      "gElo": 1489.6,
+      "atpRank": 232
+    },
+    {
+      "name": "Patrick Kypson",
+      "elo": 1479.6,
+      "hElo": 1458.1,
+      "cElo": 1431.2,
+      "gElo": 1425.9,
+      "atpRank": 452
+    },
+    {
+      "name": "Marco Cecchinato",
+      "elo": 1478,
+      "hElo": 1398.9,
+      "cElo": 1460.7,
+      "gElo": 1389.3,
+      "atpRank": 358
+    },
+    {
+      "name": "Yu Hsiou Hsu",
+      "elo": 1476.5,
+      "hElo": 1453.8,
+      "cElo": 1318.9,
+      "gElo": 1339.7,
+      "atpRank": 235
+    },
+    {
+      "name": "Andrea Collarini",
+      "elo": 1476.3,
+      "hElo": 1334.9,
+      "cElo": 1464.5,
+      "gElo": 1364.1,
+      "atpRank": 215
+    },
+    {
+      "name": "Aziz Dougaz",
+      "elo": 1476.2,
+      "hElo": 1419.3,
+      "cElo": 1475.5,
+      "gElo": 1423.7,
+      "atpRank": 196
+    },
+    {
+      "name": "Gabriel Debru",
+      "elo": 1475.4,
+      "hElo": 1342.3,
+      "cElo": 1480.6,
+      "gElo": 1437.7,
+      "atpRank": 246
+    },
+    {
+      "name": "Matteo Martineau",
+      "elo": 1475.1,
+      "hElo": 1471.9,
+      "cElo": 1350.3,
+      "gElo": 1440.5,
+      "atpRank": 264
+    },
+    {
+      "name": "Geoffrey Blancaneaux",
+      "elo": 1474.6,
+      "hElo": 1442.3,
+      "cElo": 1443.4,
+      "gElo": 1391,
+      "atpRank": 276
+    },
+    {
+      "name": "Gauthier Onclin",
+      "elo": 1473.7,
+      "hElo": 1452.9,
+      "cElo": 1433.2,
+      "gElo": 1448.7,
+      "atpRank": 207
+    },
+    {
+      "name": "Andrej Martin",
+      "elo": 1472.3,
+      "hElo": 1373.9,
+      "cElo": 1443.1,
+      "gElo": 1348.5,
+      "atpRank": 318
+    },
+    {
+      "name": "Patrick Zahraj",
+      "elo": 1472.2,
+      "hElo": 1483.2,
+      "cElo": 1360,
+      "gElo": 1436.1,
+      "atpRank": 272
+    },
+    {
+      "name": "Abedallah Shelbayh",
+      "elo": 1471.8,
+      "hElo": 1441.1,
+      "cElo": 1426.8,
+      "gElo": 1453.6,
+      "atpRank": 267
+    },
+    {
+      "name": "Enzo Couacaud",
+      "elo": 1471.4,
+      "hElo": 1448.6,
+      "cElo": 1458,
+      "gElo": 1474.8,
+      "atpRank": 393
+    },
+    {
+      "name": "Enrico Dalla Valle",
+      "elo": 1471.1,
+      "hElo": 1364.5,
+      "cElo": 1473,
+      "gElo": 1435.5,
+      "atpRank": 277
+    },
+    {
+      "name": "Egor Gerasimov",
+      "elo": 1471,
+      "hElo": 1449.7,
+      "cElo": 1423.9,
+      "gElo": 1375.7,
+      "atpRank": 379
+    },
+    {
+      "name": "Hazem Naw",
+      "elo": 1470.7,
+      "hElo": 1461.9,
+      "cElo": 1393.7,
+      "gElo": 1485.3,
+      "atpRank": 571
+    },
+    {
+      "name": "Bernabe Zapata Miralles",
+      "elo": 1470.6,
+      "hElo": 1415.1,
+      "cElo": 1459.7,
+      "gElo": 1452.3,
+      "atpRank": 380
+    },
+    {
+      "name": "Nicolas Kicker",
+      "elo": 1470.2,
+      "hElo": 1416.7,
+      "cElo": 1468.3,
+      "gElo": 1384.6,
+      "atpRank": 464
+    },
+    {
+      "name": "Clement Chidekh",
+      "elo": 1468.2,
+      "hElo": 1439.8,
+      "cElo": 1350.1,
+      "gElo": 1434.1,
+      "atpRank": 290
+    },
+    {
+      "name": "Jiri Vesely",
+      "elo": 1467.8,
+      "hElo": 1457.8,
+      "cElo": 1437.6,
+      "gElo": 1511.6,
+      "atpRank": 355
+    },
+    {
+      "name": "Max Houkes",
+      "elo": 1467.4,
+      "hElo": 1324.5,
+      "cElo": 1458.4,
+      "gElo": 1433.7,
+      "atpRank": 249
+    },
+    {
+      "name": "Federico Agustin Gomez",
+      "elo": 1466.8,
+      "hElo": 1383.4,
+      "cElo": 1484.2,
+      "gElo": 1433.4,
+      "atpRank": 137
+    },
+    {
+      "name": "Christoph Negritu",
+      "elo": 1465.8,
+      "hElo": 1437.7,
+      "cElo": 1381,
+      "gElo": 1432.9,
+      "atpRank": 306
+    },
+    {
+      "name": "Andres Andrade",
+      "elo": 1463.9,
+      "hElo": 1401.4,
+      "cElo": 1442.4,
+      "gElo": 1432,
+      "atpRank": 257
+    },
+    {
+      "name": "August Holmgren",
+      "elo": 1463.7,
+      "hElo": 1411.1,
+      "cElo": 1420.7,
+      "gElo": 1481.9,
+      "atpRank": 186
+    },
+    {
+      "name": "Cezar Cretu",
+      "elo": 1463.6,
+      "hElo": 1417.3,
+      "cElo": 1416.1,
+      "gElo": 1431.8,
+      "atpRank": 361
+    },
+    {
+      "name": "Laurent Lokoli",
+      "elo": 1463.4,
+      "hElo": 1409.7,
+      "cElo": 1467.2,
+      "gElo": 1465,
+      "atpRank": 468
+    },
+    {
+      "name": "Murkel Alejandro Dellien Velasco",
+      "elo": 1460.9,
+      "hElo": 1393.6,
+      "cElo": 1448,
+      "gElo": 1440.6,
+      "atpRank": 222
+    },
+    {
+      "name": "Stuart Parker",
+      "elo": 1458,
+      "hElo": 1449.2,
+      "cElo": 1339,
+      "gElo": 1336.6,
+      "atpRank": 432
+    },
+    {
+      "name": "Omar Jasika",
+      "elo": 1456.3,
+      "hElo": 1439.4,
+      "cElo": 1330.2,
+      "gElo": 1346.6,
+      "atpRank": 211
+    },
+    {
+      "name": "Hynek Barton",
+      "elo": 1456.3,
+      "hElo": 1429.8,
+      "cElo": 1387.7,
+      "gElo": 1428.2,
+      "atpRank": 385
+    },
+    {
+      "name": "Antoine Escoffier",
+      "elo": 1455.9,
+      "hElo": 1423.6,
+      "cElo": 1273.4,
+      "gElo": 1400.9,
+      "atpRank": 218
+    },
+    {
+      "name": "Gianluca Mager",
+      "elo": 1454.7,
+      "hElo": 1402.7,
+      "cElo": 1442,
+      "gElo": 1420.8,
+      "atpRank": 455
+    },
+    {
+      "name": "Denis Yevseyev",
+      "elo": 1453.4,
+      "hElo": 1406.3,
+      "cElo": 1422.9,
+      "gElo": 1460.3,
+      "atpRank": 258
+    },
+    {
+      "name": "Nick Hardt",
+      "elo": 1453.2,
+      "hElo": 1414.3,
+      "cElo": 1434.6,
+      "gElo": 1428.3,
+      "atpRank": 459
+    },
+    {
+      "name": "Stefan Kozlov",
+      "elo": 1453.2,
+      "hElo": 1408.7,
+      "cElo": 1428.2,
+      "gElo": 1443.5,
+      "atpRank": 488
+    },
+    {
+      "name": "Jacopo Berrettini",
+      "elo": 1450.6,
+      "hElo": 1380.8,
+      "cElo": 1435.1,
+      "gElo": 1425.3,
+      "atpRank": 331
+    },
+    {
+      "name": "Gonzalo Bueno",
+      "elo": 1450.2,
+      "hElo": 1261.6,
+      "cElo": 1436.9,
+      "gElo": 1425.1,
+      "atpRank": 248
+    },
+    {
+      "name": "Guy Den Ouden",
+      "elo": 1450.1,
+      "hElo": 1268.5,
+      "cElo": 1486.6,
+      "gElo": 1425.1,
+      "atpRank": 227
+    },
+    {
+      "name": "Gastao Elias",
+      "elo": 1449.7,
+      "hElo": 1443.2,
+      "cElo": 1423,
+      "gElo": 1373.2,
+      "atpRank": 339
+    },
+    {
+      "name": "Rio Noguchi",
+      "elo": 1449,
+      "hElo": 1410.9,
+      "cElo": 1272.1,
+      "gElo": 1379.5,
+      "atpRank": 254
+    },
+    {
+      "name": "Robert Strombachs",
+      "elo": 1448.5,
+      "hElo": 1436.5,
+      "cElo": 1387.1,
+      "gElo": 1424.2,
+      "atpRank": 328
+    },
+    {
+      "name": "Sascha Gueymard Wayenburg",
+      "elo": 1447.8,
+      "hElo": 1426.7,
+      "cElo": 1321.3,
+      "gElo": 1423.9,
+      "atpRank": 247
+    },
+    {
+      "name": "Inaki Montes De La Torre",
+      "elo": 1446.6,
+      "hElo": 1397.6,
+      "cElo": 1415.3,
+      "gElo": 1423.3,
+      "atpRank": 465
+    },
+    {
+      "name": "Ivan Gakhov",
+      "elo": 1445.7,
+      "hElo": 1324.4,
+      "cElo": 1426.9,
+      "gElo": 1394.4,
+      "atpRank": 310
+    },
+    {
+      "name": "Ryan Peniston",
+      "elo": 1444.9,
+      "hElo": 1422.4,
+      "cElo": 1358.4,
+      "gElo": 1435.3,
+      "atpRank": 311
+    },
+    {
+      "name": "Johannus Monday",
+      "elo": 1444.9,
+      "hElo": 1410,
+      "cElo": 1332.5,
+      "gElo": 1405.5,
+      "atpRank": 255
+    },
+    {
+      "name": "Matheus Pucinelli De Almeida",
+      "elo": 1444.9,
+      "hElo": 1314.1,
+      "cElo": 1436.1,
+      "gElo": 1423.3,
+      "atpRank": 322
+    },
+    {
+      "name": "Viktor Durasovic",
+      "elo": 1444.6,
+      "hElo": 1434,
+      "cElo": 1338.8,
+      "gElo": 1387.9,
+      "atpRank": 243
+    },
+    {
+      "name": "Genaro Alberto Olivieri",
+      "elo": 1443.8,
+      "hElo": 1335,
+      "cElo": 1438.4,
+      "gElo": 1346.9,
+      "atpRank": 302
+    },
+    {
+      "name": "Nerman Fatic",
+      "elo": 1443.7,
+      "hElo": 1402.5,
+      "cElo": 1433.7,
+      "gElo": 1440.2,
+      "atpRank": 364
+    },
+    {
+      "name": "Clement Tabur",
+      "elo": 1443.6,
+      "hElo": 1360.7,
+      "cElo": 1419.7,
+      "gElo": 1391.3,
+      "atpRank": 320
+    },
+    {
+      "name": "Alvaro Guillen Meza",
+      "elo": 1442.9,
+      "hElo": 1262,
+      "cElo": 1450.9,
+      "gElo": 1421.4,
+      "atpRank": 205
+    },
+    {
+      "name": "Illya Marchenko",
+      "elo": 1441.2,
+      "hElo": 1424.1,
+      "cElo": 1355.6,
+      "gElo": 1420.8,
+      "atpRank": 643
+    },
+    {
+      "name": "Oriol Roca Batalla",
+      "elo": 1439.4,
+      "hElo": 1374.7,
+      "cElo": 1422,
+      "gElo": 1380.9,
+      "atpRank": 262
+    },
+    {
+      "name": "Arthur Gea",
+      "elo": 1439,
+      "hElo": 1380.8,
+      "cElo": 1419,
+      "gElo": 1419.5,
+      "atpRank": 314
+    },
+    {
+      "name": "Henri Squire",
+      "elo": 1438.8,
+      "hElo": 1396.5,
+      "cElo": 1444.2,
+      "gElo": 1332.8,
+      "atpRank": 225
+    },
+    {
+      "name": "Luka Mikrut",
+      "elo": 1438.1,
+      "hElo": 1355.5,
+      "cElo": 1411.6,
+      "gElo": 1419,
+      "atpRank": 293
+    },
+    {
+      "name": "Alexey Vatutin",
+      "elo": 1434.7,
+      "hElo": 1402.8,
+      "cElo": 1370.7,
+      "gElo": 1381.3,
+      "atpRank": 333
+    },
+    {
+      "name": "Max Wiskandt",
+      "elo": 1434.4,
+      "hElo": 1337.8,
+      "cElo": 1417.1,
+      "gElo": 1417.2,
+      "atpRank": 377
+    },
+    {
+      "name": "Jakub Nicod",
+      "elo": 1434.2,
+      "hElo": 1318.2,
+      "cElo": 1426.2,
+      "gElo": 1417.1,
+      "atpRank": 520
+    },
+    {
+      "name": "Jie Cui",
+      "elo": 1433.4,
+      "hElo": 1409.4,
+      "cElo": 1274.6,
+      "gElo": 1416.7,
+      "atpRank": 299
+    },
+    {
+      "name": "Adrian Andreev",
+      "elo": 1432,
+      "hElo": 1387.6,
+      "cElo": 1427.5,
+      "gElo": 1356,
+      "atpRank": 282
+    },
+    {
+      "name": "Joao Lucas Reis Da Silva",
+      "elo": 1429,
+      "hElo": 1368.3,
+      "cElo": 1407.3,
+      "gElo": 1414.5,
+      "atpRank": 384
+    },
+    {
+      "name": "Franco Agamenone",
+      "elo": 1428.8,
+      "hElo": 1334.1,
+      "cElo": 1419.8,
+      "gElo": 1343.4,
+      "atpRank": 426
+    },
+    {
+      "name": "Andres Martin",
+      "elo": 1427.7,
+      "hElo": 1417.2,
+      "cElo": 1399.8,
+      "gElo": 1463.8,
+      "atpRank": 412
+    },
+    {
+      "name": "Facundo Mena",
+      "elo": 1427.7,
+      "hElo": 1347.3,
+      "cElo": 1413.8,
+      "gElo": 1400.9,
+      "atpRank": 190
+    },
+    {
+      "name": "Filip Cristian Jianu",
+      "elo": 1427.2,
+      "hElo": 1325.4,
+      "cElo": 1416.5,
+      "gElo": 1434.4,
+      "atpRank": 229
+    },
+    {
+      "name": "Corentin Denolly",
+      "elo": 1426.8,
+      "hElo": 1338,
+      "cElo": 1366.6,
+      "gElo": 1413.4,
+      "atpRank": 283
+    },
+    {
+      "name": "Mats Rosenkranz",
+      "elo": 1426.5,
+      "hElo": 1409.3,
+      "cElo": 1291.8,
+      "gElo": 1384.9,
+      "atpRank": 365
+    },
+    {
+      "name": "Antoine Cornut Chauvinc",
+      "elo": 1425.8,
+      "hElo": 1392.3,
+      "cElo": 1347.5,
+      "gElo": 1412.9,
+      "atpRank": 546
+    },
+    {
+      "name": "Rudolf Molleker",
+      "elo": 1425.8,
+      "hElo": 1356.3,
+      "cElo": 1424.7,
+      "gElo": 1382.2,
+      "atpRank": 388
+    },
+    {
+      "name": "Goncalo Oliveira",
+      "elo": 1424.7,
+      "hElo": 1376.7,
+      "cElo": 1393.5,
+      "gElo": 1373.8,
+      "atpRank": 286
+    },
+    {
+      "name": "Matias Soto",
+      "elo": 1424.4,
+      "hElo": 1345.3,
+      "cElo": 1403.8,
+      "gElo": 1412.2,
+      "atpRank": 240
+    },
+    {
+      "name": "Mathias Bourgue",
+      "elo": 1424.3,
+      "hElo": 1416.1,
+      "cElo": 1394.9,
+      "gElo": 1389.3,
+      "atpRank": 518
+    },
+    {
+      "name": "Michael Geerts",
+      "elo": 1424.1,
+      "hElo": 1387.2,
+      "cElo": 1388.1,
+      "gElo": 1355.7,
+      "atpRank": 288
+    },
+    {
+      "name": "Samuel Vincent Ruggeri",
+      "elo": 1421.8,
+      "hElo": 1365,
+      "cElo": 1386.6,
+      "gElo": 1410.9,
+      "atpRank": 447
+    },
+    {
+      "name": "Mathys Erhard",
+      "elo": 1420.3,
+      "hElo": 1317.2,
+      "cElo": 1389.1,
+      "gElo": 1410.2,
+      "atpRank": 265
+    },
+    {
+      "name": "Henry Searle",
+      "elo": 1419.9,
+      "hElo": 1396.8,
+      "cElo": 1328.1,
+      "gElo": 1389.1,
+      "atpRank": 413
+    },
+    {
+      "name": "Yan Bai",
+      "elo": 1419,
+      "hElo": 1383.7,
+      "cElo": 1366.1,
+      "gElo": 1384.3,
+      "atpRank": 244
+    },
+    {
+      "name": "Frederico Ferreira Silva",
+      "elo": 1418.1,
+      "hElo": 1382.3,
+      "cElo": 1391.2,
+      "gElo": 1431.3,
+      "atpRank": 250
+    },
+    {
+      "name": "Matej Dodig",
+      "elo": 1417.9,
+      "hElo": 1352.5,
+      "cElo": 1402.1,
+      "gElo": 1408.9,
+      "atpRank": 332
+    },
+    {
+      "name": "Daniel Masur",
+      "elo": 1417.3,
+      "hElo": 1382.7,
+      "cElo": 1398.9,
+      "gElo": 1404.2,
+      "atpRank": 446
+    },
+    {
+      "name": "Giovanni Fonio",
+      "elo": 1416.5,
+      "hElo": 1404,
+      "cElo": 1378.6,
+      "gElo": 1408.3,
+      "atpRank": 372
+    },
+    {
+      "name": "Francesco Maestrelli",
+      "elo": 1415.3,
+      "hElo": 1396,
+      "cElo": 1372.1,
+      "gElo": 1362.9,
+      "atpRank": 296
+    },
+    {
+      "name": "Andre Ilagan",
+      "elo": 1414.7,
+      "hElo": 1386.2,
+      "cElo": 1317.4,
+      "gElo": 1407.4,
+      "atpRank": 389
+    },
+    {
+      "name": "Paul Jubb",
+      "elo": 1414.7,
+      "hElo": 1379,
+      "cElo": 1350.3,
+      "gElo": 1452.7,
+      "atpRank": 238
+    },
+    {
+      "name": "Mili Poljicak",
+      "elo": 1414.1,
+      "hElo": 1268.2,
+      "cElo": 1430.6,
+      "gElo": 1371.2,
+      "atpRank": 268
+    },
+    {
+      "name": "Nicolas Mejia",
+      "elo": 1412.2,
+      "hElo": 1357.6,
+      "cElo": 1412.1,
+      "gElo": 1406.1,
+      "atpRank": 301
+    },
+    {
+      "name": "Jelle Sels",
+      "elo": 1411.9,
+      "hElo": 1412.7,
+      "cElo": 1365.2,
+      "gElo": 1309.7,
+      "atpRank": 316
+    },
+    {
+      "name": "David Jorda Sanchis",
+      "elo": 1410.9,
+      "hElo": 1338.4,
+      "cElo": 1389.4,
+      "gElo": 1366.6,
+      "atpRank": 534
+    },
+    {
+      "name": "Nicolas Alvarez Varona",
+      "elo": 1410.5,
+      "hElo": 1410.6,
+      "cElo": 1340,
+      "gElo": 1405.3,
+      "atpRank": 309
+    },
+    {
+      "name": "Gerard Campana Lee",
+      "elo": 1408.8,
+      "hElo": 1352.4,
+      "cElo": 1367.1,
+      "gElo": 1404.4,
+      "atpRank": 386
+    },
+    {
+      "name": "Jonas Forejtek",
+      "elo": 1406.3,
+      "hElo": 1340.6,
+      "cElo": 1399.4,
+      "gElo": 1386.1,
+      "atpRank": 645
+    },
+    {
+      "name": "Rodrigo Pacheco Mendez",
+      "elo": 1405.5,
+      "hElo": 1353.5,
+      "cElo": 1370.1,
+      "gElo": 1402.8,
+      "atpRank": 231
+    },
+    {
+      "name": "Karue Sell",
+      "elo": 1404.9,
+      "hElo": 1394.6,
+      "cElo": 1372.3,
+      "gElo": 1402.4,
+      "atpRank": 285
+    },
+    {
+      "name": "Benoit Paire",
+      "elo": 1404.3,
+      "hElo": 1374.7,
+      "cElo": 1431.5,
+      "gElo": 1433.2,
+      "atpRank": 575
+    },
+    {
+      "name": "Jakub Paul",
+      "elo": 1401.9,
+      "hElo": 1371.9,
+      "cElo": 1279.6,
+      "gElo": 1400.9,
+      "atpRank": 325
+    },
+    {
+      "name": "Lorenzo Giustino",
+      "elo": 1401,
+      "hElo": 1340.6,
+      "cElo": 1390.6,
+      "gElo": 1306.3,
+      "atpRank": 300
+    },
+    {
+      "name": "Aidan Mayo",
+      "elo": 1398.4,
+      "hElo": 1393.8,
+      "cElo": 1301.7,
+      "gElo": 1414.4,
+      "atpRank": 297
+    },
+    {
+      "name": "Jack Pinnington Jones",
+      "elo": 1397.2,
+      "hElo": 1362.1,
+      "cElo": 1308.6,
+      "gElo": 1420,
+      "atpRank": 337
+    },
+    {
+      "name": "Marko Topo",
+      "elo": 1394.6,
+      "hElo": 1381.4,
+      "cElo": 1378.4,
+      "gElo": 1406.5,
+      "atpRank": 406
+    },
+    {
+      "name": "Patrick Maloney",
+      "elo": 1394.1,
+      "hElo": 1315.3,
+      "cElo": 1359.3,
+      "gElo": 1397.1,
+      "atpRank": 349
+    },
+    {
+      "name": "Jay Clarke",
+      "elo": 1393.2,
+      "hElo": 1360.3,
+      "cElo": 1336.9,
+      "gElo": 1339.1,
+      "atpRank": 251
+    },
+    {
+      "name": "Maximilian Neuchrist",
+      "elo": 1388.6,
+      "hElo": 1337.4,
+      "cElo": 1375,
+      "gElo": 1363.8,
+      "atpRank": 434
+    },
+    {
+      "name": "Santiago Fa Rodriguez Taverna",
+      "elo": 1386,
+      "hElo": 1351.2,
+      "cElo": 1378.4,
+      "gElo": 1395.4,
+      "atpRank": 261
+    },
+    {
+      "name": "Ernesto Escobedo",
+      "elo": 1385.6,
+      "hElo": 1370.5,
+      "cElo": 1342.2,
+      "gElo": 1330.4,
+      "atpRank": 480
+    },
+    {
+      "name": "Alfredo Perez",
+      "elo": 1384.9,
+      "hElo": 1295.4,
+      "cElo": 1389.2,
+      "gElo": 1392.5,
+      "atpRank": 416
+    },
+    {
+      "name": "Adolfo Daniel Vallejo",
+      "elo": 1384.8,
+      "hElo": 1334.7,
+      "cElo": 1376.5,
+      "gElo": 1442.4,
+      "atpRank": 236
+    },
+    {
+      "name": "Giles Hussey",
+      "elo": 1384.2,
+      "hElo": 1341.6,
+      "cElo": 1302.1,
+      "gElo": 1363.7,
+      "atpRank": 445
+    },
+    {
+      "name": "Orlando Luz",
+      "elo": 1384.2,
+      "hElo": 1213.8,
+      "cElo": 1382.9,
+      "gElo": 1392.1,
+      "atpRank": 632
+    },
+    {
+      "name": "Thai Son Kwiatkowski",
+      "elo": 1382.2,
+      "hElo": 1375.2,
+      "cElo": 1349,
+      "gElo": 1281.9,
+      "atpRank": 1053
+    },
+    {
+      "name": "Raul Brancaccio",
+      "elo": 1381.5,
+      "hElo": 1357.1,
+      "cElo": 1366,
+      "gElo": 1360.3,
+      "atpRank": 394
+    },
+    {
+      "name": "Sandro Kopp",
+      "elo": 1380.8,
+      "hElo": 1314.4,
+      "cElo": 1358.5,
+      "gElo": 1390.4,
+      "atpRank": 422
+    },
+    {
+      "name": "Gabi Adrian Boitan",
+      "elo": 1380.4,
+      "hElo": 1323.7,
+      "cElo": 1389.2,
+      "gElo": 1440.2,
+      "atpRank": 352
+    },
+    {
+      "name": "Juan Bautista Torres",
+      "elo": 1378.8,
+      "hElo": 1291.5,
+      "cElo": 1369.2,
+      "gElo": 1389.4,
+      "atpRank": 273
+    },
+    {
+      "name": "Mika Brunold",
+      "elo": 1376.8,
+      "hElo": 1355.8,
+      "cElo": 1319.9,
+      "gElo": 1388.4,
+      "atpRank": 308
+    },
+    {
+      "name": "Govind Nanda",
+      "elo": 1375.2,
+      "hElo": 1352.1,
+      "cElo": 1302.2,
+      "gElo": 1387.6,
+      "atpRank": 371
+    },
+    {
+      "name": "Mohamed Safwat",
+      "elo": 1373.6,
+      "hElo": 1362.8,
+      "cElo": 1357.5,
+      "gElo": 1395.8,
+      "atpRank": 586
+    },
+    {
+      "name": "Michael Vrbensky",
+      "elo": 1372.9,
+      "hElo": 1323.6,
+      "cElo": 1350.8,
+      "gElo": 1386.5,
+      "atpRank": 387
+    },
+    {
+      "name": "Ramkumar Ramanathan",
+      "elo": 1371.4,
+      "hElo": 1341.5,
+      "cElo": 1369.9,
+      "gElo": 1397,
+      "atpRank": 559
+    },
+    {
+      "name": "Moez Echargui",
+      "elo": 1371.3,
+      "hElo": 1338.5,
+      "cElo": 1348.7,
+      "gElo": 1385.7,
+      "atpRank": 478
+    },
+    {
+      "name": "Sasi Kumar Mukund",
+      "elo": 1369.9,
+      "hElo": 1344.8,
+      "cElo": 1273.1,
+      "gElo": 1348.3,
+      "atpRank": 456
+    },
+    {
+      "name": "Marvin Moeller",
+      "elo": 1369.7,
+      "hElo": 1396.5,
+      "cElo": 1341,
+      "gElo": 1434.8,
+      "atpRank": 487
+    },
+    {
+      "name": "Stefanos Sakellaridis",
+      "elo": 1367.7,
+      "hElo": 1321.7,
+      "cElo": 1376.8,
+      "gElo": 1433.9,
+      "atpRank": 395
+    },
+    {
+      "name": "Lucas Poullain",
+      "elo": 1367.5,
+      "hElo": 1346.1,
+      "cElo": 1278.6,
+      "gElo": 1383.8,
+      "atpRank": 415
+    },
+    {
+      "name": "Philip Henning",
+      "elo": 1366.3,
+      "hElo": 1356.8,
+      "cElo": 1340.7,
+      "gElo": 1433.1,
+      "atpRank": 360
+    },
+    {
+      "name": "Blake Ellis",
+      "elo": 1365.6,
+      "hElo": 1338.1,
+      "cElo": 1292.8,
+      "gElo": 1382.8,
+      "atpRank": 292
+    },
+    {
+      "name": "Lautaro Midon",
+      "elo": 1364.6,
+      "hElo": 1284.8,
+      "cElo": 1357.4,
+      "gElo": 1382.3,
+      "atpRank": 323
+    },
+    {
+      "name": "Martin Damm",
+      "elo": 1363.9,
+      "hElo": 1355.9,
+      "cElo": 1249.2,
+      "gElo": 1490,
+      "atpRank": 743
+    },
+    {
+      "name": "Ergi Kirkin",
+      "elo": 1362.8,
+      "hElo": 1343.6,
+      "cElo": 1340.6,
+      "gElo": 1368.5,
+      "atpRank": 321
+    },
+    {
+      "name": "Robin Bertrand",
+      "elo": 1361.5,
+      "hElo": 1341,
+      "cElo": 1303.7,
+      "gElo": 1380.8,
+      "atpRank": 278
+    },
+    {
+      "name": "Micah Braswell",
+      "elo": 1361.1,
+      "hElo": 1327.2,
+      "cElo": 1290.6,
+      "gElo": 1380.6,
+      "atpRank": 421
+    },
+    {
+      "name": "Hiroki Moriya",
+      "elo": 1359.9,
+      "hElo": 1327.7,
+      "cElo": 1258.4,
+      "gElo": 1357.2,
+      "atpRank": 440
+    },
+    {
+      "name": "Christian Langmo",
+      "elo": 1358.1,
+      "hElo": 1343.2,
+      "cElo": 1197.6,
+      "gElo": 1379.1,
+      "atpRank": 319
+    },
+    {
+      "name": "Alexey Zakharov",
+      "elo": 1357.5,
+      "hElo": 1291.5,
+      "cElo": 1408.1,
+      "gElo": 1378.7,
+      "atpRank": 383
+    },
+    {
+      "name": "Daniel Michalski",
+      "elo": 1357.4,
+      "hElo": 1371,
+      "cElo": 1334.8,
+      "gElo": 1428.7,
+      "atpRank": 315
+    },
+    {
+      "name": "Tristan Lamasine",
+      "elo": 1356.2,
+      "hElo": 1362.7,
+      "cElo": 1308.1,
+      "gElo": 1427.2,
+      "atpRank": 650
+    },
+    {
+      "name": "Evgeny Karlovskiy",
+      "elo": 1354,
+      "hElo": 1331.1,
+      "cElo": 1333.9,
+      "gElo": 1366.5,
+      "atpRank": 418
+    },
+    {
+      "name": "Joel Schwaerzler",
+      "elo": 1352.6,
+      "hElo": 1287.7,
+      "cElo": 1322,
+      "gElo": 1376.3,
+      "atpRank": 327
+    },
+    {
+      "name": "Aleksandre Bakshi",
+      "elo": 1352.4,
+      "hElo": 1326.1,
+      "cElo": 1426.2,
+      "gElo": 1426.2,
+      "atpRank": 476
+    },
+    {
+      "name": "Jules Marie",
+      "elo": 1351.4,
+      "hElo": 1310.3,
+      "cElo": 1306.9,
+      "gElo": 1339.5,
+      "atpRank": 511
+    },
+    {
+      "name": "Carlos Sanchez Jover",
+      "elo": 1350.3,
+      "hElo": 1259.1,
+      "cElo": 1330.2,
+      "gElo": 1375.1,
+      "atpRank": 260
+    },
+    {
+      "name": "Remy Bertola",
+      "elo": 1347.6,
+      "hElo": 1332.6,
+      "cElo": 1277.6,
+      "gElo": 1373.8,
+      "atpRank": 269
+    },
+    {
+      "name": "Renzo Olivo",
+      "elo": 1345.7,
+      "hElo": 1310.6,
+      "cElo": 1324.9,
+      "gElo": 1344.6,
+      "atpRank": 359
+    },
+    {
+      "name": "Hernan Casanova",
+      "elo": 1345.6,
+      "hElo": 1239.1,
+      "cElo": 1333.1,
+      "gElo": 1342,
+      "atpRank": 516
+    },
+    {
+      "name": "Alexander Weis",
+      "elo": 1344.2,
+      "hElo": 1273.1,
+      "cElo": 1317.5,
+      "gElo": 1372.1,
+      "atpRank": 443
+    },
+    {
+      "name": "Adria Soriano Barrera",
+      "elo": 1343.2,
+      "hElo": 1326.7,
+      "cElo": 1297.7,
+      "gElo": 1371.6,
+      "atpRank": 423
+    },
+    {
+      "name": "Moerani Bouzige",
+      "elo": 1342.3,
+      "hElo": 1318.9,
+      "cElo": 1281.2,
+      "gElo": 1371.2,
+      "atpRank": 401
+    },
+    {
+      "name": "Toby Alex Kodat",
+      "elo": 1342.2,
+      "hElo": 1294.3,
+      "cElo": 1303.3,
+      "gElo": 1371.1,
+      "atpRank": 347
+    },
+    {
+      "name": "Mateus Alves",
+      "elo": 1342.1,
+      "hElo": 1225,
+      "cElo": 1341.7,
+      "gElo": 1371,
+      "atpRank": 313
+    },
+    {
+      "name": "Pedro Sakamoto",
+      "elo": 1341.3,
+      "hElo": 1287.7,
+      "cElo": 1331.6,
+      "gElo": 1370.6,
+      "atpRank": 350
+    },
+    {
+      "name": "Juan Carlos Prado Angelo",
+      "elo": 1339.6,
+      "hElo": 1278,
+      "cElo": 1325.5,
+      "gElo": 1369.8,
+      "atpRank": 291
+    },
+    {
+      "name": "Garrett Johns",
+      "elo": 1339.5,
+      "hElo": 1317.4,
+      "cElo": 1301.6,
+      "gElo": 1369.7,
+      "atpRank": 340
+    },
+    {
+      "name": "Antoine Ghibaudo",
+      "elo": 1337.1,
+      "hElo": 1317.6,
+      "cElo": 1272.5,
+      "gElo": 1368.6,
+      "atpRank": 604
+    },
+    {
+      "name": "Marek Gengel",
+      "elo": 1334.2,
+      "hElo": 1321,
+      "cElo": 1228.1,
+      "gElo": 1348.5,
+      "atpRank": 245
+    },
+    {
+      "name": "Dan Added",
+      "elo": 1331.8,
+      "hElo": 1307.7,
+      "cElo": 1270.6,
+      "gElo": 1365.9,
+      "atpRank": 405
+    },
+    {
+      "name": "Lukas Pokorny",
+      "elo": 1330.6,
+      "hElo": 1307.5,
+      "cElo": 1287.5,
+      "gElo": 1365.3,
+      "atpRank": 437
+    },
+    {
+      "name": "Felix Gill",
+      "elo": 1328.8,
+      "hElo": 1293.7,
+      "cElo": 1311.9,
+      "gElo": 1276.5,
+      "atpRank": 593
+    },
+    {
+      "name": "Oliver Crawford",
+      "elo": 1328.5,
+      "hElo": 1315.1,
+      "cElo": 1298.1,
+      "gElo": 1345.5,
+      "atpRank": 295
+    },
+    {
+      "name": "Diego Dedura Palomero",
+      "elo": 1326.9,
+      "hElo": 1246.6,
+      "cElo": 1320.7,
+      "gElo": 1363.4,
+      "atpRank": 376
+    },
+    {
+      "name": "Alejo Lorenzo Lingua Lavallen",
+      "elo": 1326.5,
+      "hElo": 1273.3,
+      "cElo": 1314.9,
+      "gElo": 1363.3,
+      "atpRank": 417
+    },
+    {
+      "name": "Maxime Janvier",
+      "elo": 1325.7,
+      "hElo": 1278.9,
+      "cElo": 1306.2,
+      "gElo": 1391.7,
+      "atpRank": 368
+    },
+    {
+      "name": "Tom Paris",
+      "elo": 1323.6,
+      "hElo": 1324.8,
+      "cElo": 1235.3,
+      "gElo": 1361.8,
+      "atpRank": 411
+    },
+    {
+      "name": "Masamichi Imamura",
+      "elo": 1321.3,
+      "hElo": 1293.7,
+      "cElo": 1270.7,
+      "gElo": 1360.7,
+      "atpRank": 343
+    },
+    {
+      "name": "Petr Bar Biryukov",
+      "elo": 1321.1,
+      "hElo": 1301.7,
+      "cElo": 1270.5,
+      "gElo": 1360.5,
+      "atpRank": 342
+    },
+    {
+      "name": "Strong Kirchheimer",
+      "elo": 1320.6,
+      "hElo": 1298.6,
+      "cElo": 1210.2,
+      "gElo": 1360.3,
+      "atpRank": 606
+    },
+    {
+      "name": "Tyler Zink",
+      "elo": 1320.4,
+      "hElo": 1322.2,
+      "cElo": 1269.2,
+      "gElo": 1360.2,
+      "atpRank": 370
+    },
+    {
+      "name": "Gonzalo Villanueva",
+      "elo": 1318.4,
+      "hElo": 1213.3,
+      "cElo": 1315.7,
+      "gElo": 1359.2,
+      "atpRank": 414
+    },
+    {
+      "name": "Dane Sweeny",
+      "elo": 1317.8,
+      "hElo": 1293.7,
+      "cElo": 1224.1,
+      "gElo": 1302.7,
+      "atpRank": 579
+    },
+    {
+      "name": "Nikolas Sanchez Izquierdo",
+      "elo": 1315.7,
+      "hElo": 1213.6,
+      "cElo": 1302.3,
+      "gElo": 1357.8,
+      "atpRank": 330
+    },
+    {
+      "name": "Conner Huertas Del Pino",
+      "elo": 1315.4,
+      "hElo": 1300.2,
+      "cElo": 1271.9,
+      "gElo": 1357.7,
+      "atpRank": 636
+    },
+    {
+      "name": "Daniel Merida Aguilar",
+      "elo": 1308.4,
+      "hElo": 1196.4,
+      "cElo": 1332.8,
+      "gElo": 1354.2,
+      "atpRank": 329
+    },
+    {
+      "name": "Ryan Seggerman",
+      "elo": 1308,
+      "hElo": 1258.1,
+      "cElo": 1365.2,
+      "gElo": 1354,
+      "atpRank": 424
+    },
+    {
+      "name": "Fajing Sun",
+      "elo": 1307.2,
+      "hElo": 1288.2,
+      "cElo": 1185.2,
+      "gElo": 1353.6,
+      "atpRank": 289
+    },
+    {
+      "name": "Oleg Prihodko",
+      "elo": 1303,
+      "hElo": 1286,
+      "cElo": 1236.8,
+      "gElo": 1351.5,
+      "atpRank": 345
+    },
+    {
+      "name": "Oleksandr Ovcharenko",
+      "elo": 1301.1,
+      "hElo": 1274.7,
+      "cElo": 1264.3,
+      "gElo": 1350.5,
+      "atpRank": 351
+    },
+    {
+      "name": "Kris Van Wyk",
+      "elo": 1300.3,
+      "hElo": 1288.8,
+      "cElo": 1400.1,
+      "gElo": 1400.1,
+      "atpRank": 382
+    },
+    {
+      "name": "Daniel Dutra Da Silva",
+      "elo": 1298.1,
+      "hElo": 1243.5,
+      "cElo": 1265.9,
+      "gElo": 1349,
+      "atpRank": 304
+    },
+    {
+      "name": "Jose Pereira",
+      "elo": 1291.1,
+      "hElo": 1243.6,
+      "cElo": 1277.6,
+      "gElo": 1345.6,
+      "atpRank": 522
+    },
+    {
+      "name": "Franco Roncadelli",
+      "elo": 1289.5,
+      "hElo": 1230.8,
+      "cElo": 1267.6,
+      "gElo": 1344.7,
+      "atpRank": 362
+    },
+    {
+      "name": "Alex Marti Pujolras",
+      "elo": 1286.9,
+      "hElo": 1285,
+      "cElo": 1257.7,
+      "gElo": 1343.5,
+      "atpRank": 344
+    },
+    {
+      "name": "Sebastian Fanselow",
+      "elo": 1286.6,
+      "hElo": 1271.2,
+      "cElo": 1256.7,
+      "gElo": 1325.7,
+      "atpRank": 659
+    },
+    {
+      "name": "Roberto Cid",
+      "elo": 1285.9,
+      "hElo": 1287.2,
+      "cElo": 1252.9,
+      "gElo": 1347.3,
+      "atpRank": 439
+    },
+    {
+      "name": "Rigele Te",
+      "elo": 1284.4,
+      "hElo": 1246.2,
+      "cElo": 1313.4,
+      "gElo": 1342.2,
+      "atpRank": 489
+    },
+    {
+      "name": "Keegan Smith",
+      "elo": 1283.2,
+      "hElo": 1250.6,
+      "cElo": 1184.7,
+      "gElo": 1341.6,
+      "atpRank": 541
+    },
+    {
+      "name": "Eliakim Coulibaly",
+      "elo": 1282.7,
+      "hElo": 1239.9,
+      "cElo": 1290.2,
+      "gElo": 1341.3,
+      "atpRank": 324
+    },
+    {
+      "name": "Kaichi Uchida",
+      "elo": 1282.3,
+      "hElo": 1258.6,
+      "cElo": 1274.6,
+      "gElo": 1353.9,
+      "atpRank": 400
+    },
+    {
+      "name": "Yusuke Takahashi",
+      "elo": 1278.8,
+      "hElo": 1255,
+      "cElo": 1268,
+      "gElo": 1339.4,
+      "atpRank": 486
+    },
+    {
+      "name": "Saba Purtseladze",
+      "elo": 1276,
+      "hElo": 1248.6,
+      "cElo": 1212,
+      "gElo": 1338,
+      "atpRank": 366
+    },
+    {
+      "name": "Yi Zhou",
+      "elo": 1275.1,
+      "hElo": 1256.3,
+      "cElo": 1229.4,
+      "gElo": 1337.5,
+      "atpRank": 369
+    },
+    {
+      "name": "Charles Broom",
+      "elo": 1271.9,
+      "hElo": 1204.7,
+      "cElo": 1245.9,
+      "gElo": 1359.3,
+      "atpRank": 317
+    },
+    {
+      "name": "Juan Alejandro Hernandez Serrano",
+      "elo": 1260.4,
+      "hElo": 1234,
+      "cElo": 1207,
+      "gElo": 1330.2,
+      "atpRank": 524
+    },
+    {
+      "name": "Martin Krumich",
+      "elo": 1260.2,
+      "hElo": 1240.1,
+      "cElo": 1230.8,
+      "gElo": 1330.1,
+      "atpRank": 495
+    },
+    {
+      "name": "Tomas Farjat",
+      "elo": 1258.4,
+      "hElo": 1222.6,
+      "cElo": 1261.1,
+      "gElo": 1329.2,
+      "atpRank": 491
+    },
+    {
+      "name": "Kasidit Samrej",
+      "elo": 1257.9,
+      "hElo": 1244.3,
+      "cElo": 1343.1,
+      "gElo": 1379,
+      "atpRank": 404
+    },
+    {
+      "name": "Pedro Boscardin Dias",
+      "elo": 1253.9,
+      "hElo": 1164.9,
+      "cElo": 1253.8,
+      "gElo": 1326.9,
+      "atpRank": 420
+    },
+    {
+      "name": "Petr Nesterov",
+      "elo": 1250.6,
+      "hElo": 1274.2,
+      "cElo": 1223.1,
+      "gElo": 1325.3,
+      "atpRank": 444
+    },
+    {
+      "name": "Neil Oberleitner",
+      "elo": 1249.7,
+      "hElo": 1215.2,
+      "cElo": 1244,
+      "gElo": 1324.8,
+      "atpRank": 396
+    },
+    {
+      "name": "Guido Ivan Justo",
+      "elo": 1247.2,
+      "hElo": 1209.3,
+      "cElo": 1240.4,
+      "gElo": 1323.6,
+      "atpRank": 390
+    },
+    {
+      "name": "Justin Engel",
+      "elo": 1244.6,
+      "hElo": 1243,
+      "cElo": 1202.6,
+      "gElo": 1322.3,
+      "atpRank": 346
+    },
+    {
+      "name": "Luciano Emanuel Ambrogi",
+      "elo": 1243.9,
+      "hElo": 1173.1,
+      "cElo": 1262.9,
+      "gElo": 1321.9,
+      "atpRank": 381
+    },
+    {
+      "name": "Bruno Kuzuhara",
+      "elo": 1241.8,
+      "hElo": 1200.6,
+      "cElo": 1222.5,
+      "gElo": 1320.9,
+      "atpRank": 532
+    },
+    {
+      "name": "Leonardo Aboian",
+      "elo": 1240.5,
+      "hElo": 1230.3,
+      "cElo": 1229,
+      "gElo": 1320.3,
+      "atpRank": 600
+    },
+    {
+      "name": "Valerio Aboian",
+      "elo": 1239.6,
+      "hElo": 1179.7,
+      "cElo": 1244.3,
+      "gElo": 1319.8,
+      "atpRank": 454
+    },
+    {
+      "name": "Vadym Ursu",
+      "elo": 1232.3,
+      "hElo": 1206.5,
+      "cElo": 1172.3,
+      "gElo": 1295.1,
+      "atpRank": 457
+    },
+    {
+      "name": "Miguel Damas",
+      "elo": 1225.6,
+      "hElo": 1218.9,
+      "cElo": 1189.6,
+      "gElo": 1312.8,
+      "atpRank": 433
+    },
+    {
+      "name": "Naoki Nakagawa",
+      "elo": 1225.6,
+      "hElo": 1217.6,
+      "cElo": 1117,
+      "gElo": 1312.8,
+      "atpRank": 348
+    },
+    {
+      "name": "Benjamin Lock",
+      "elo": 1221,
+      "hElo": 1200.7,
+      "cElo": 1204.1,
+      "gElo": 1324.4,
+      "atpRank": 338
+    },
+    {
+      "name": "Mariano Kestelboim",
+      "elo": 1220.4,
+      "hElo": 1181.6,
+      "cElo": 1223.5,
+      "gElo": 1310.2,
+      "atpRank": 429
+    },
+    {
+      "name": "Andrea Picchione",
+      "elo": 1211.4,
+      "hElo": 1210,
+      "cElo": 1196.5,
+      "gElo": 1305.7,
+      "atpRank": 363
+    },
+    {
+      "name": "Maxime Chazal",
+      "elo": 1202.1,
+      "hElo": 1146.5,
+      "cElo": 1194.6,
+      "gElo": 1301.1,
+      "atpRank": 326
+    },
+    {
+      "name": "Nicolas Zanellato",
+      "elo": 1196.6,
+      "hElo": 1208.3,
+      "cElo": 1183.9,
+      "gElo": 1298.3,
+      "atpRank": 990
+    },
+    {
+      "name": "Alexis Gautier",
+      "elo": 1191.5,
+      "hElo": 1127.5,
+      "cElo": 1241.3,
+      "gElo": 1295.8,
+      "atpRank": 752
+    },
+    {
+      "name": "Ryan Nijboer",
+      "elo": 1178.7,
+      "hElo": 1176.2,
+      "cElo": 1180.2,
+      "gElo": 1289.3,
+      "atpRank": 397
+    },
+    {
+      "name": "Kiranpal Pannu",
+      "elo": 1171.9,
+      "hElo": 1157.5,
+      "cElo": 1155.1,
+      "gElo": 1285.9,
+      "atpRank": 502
+    },
+    {
+      "name": "Matthew Dellavedova",
+      "elo": 1154.2,
+      "hElo": 1139.5,
+      "cElo": 1147.1,
+      "gElo": 1277.1,
+      "atpRank": 398
+    },
+    {
+      "name": "Ajeet Rai",
+      "elo": 1122.9,
+      "hElo": 1096.4,
+      "cElo": 1171.4,
+      "gElo": 1261.4,
+      "atpRank": 475
+    }
+  ]
+}
