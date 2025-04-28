@@ -4,8 +4,12 @@ const fs = require('fs');
 const path = require('path');
 const { logger } = require('../utils/logger');
 
-const CACHE_PATH = path.join(__dirname, '../../data/elo-cache.json');
 const CACHE_TTL = 6 * 24 * 60 * 60 * 1000; // 6 giorni in millisecondi
+
+const CACHE_PATHS = {
+    atp: '../../data/atp-cache.json',
+    wta: '../../data/wta-cache.json',
+}
 
 function cleanText(text) {
     return text.trim()
@@ -13,8 +17,9 @@ function cleanText(text) {
         .replace(/\s+/g, ' ');         // Multipli spazi -> singolo spazio
 }
 
-async function fetchEloData() {
+async function fetchEloData(cat) {
     try {
+        const CACHE_PATH = path.join(__dirname, CACHE_PATHS[cat]);
         // Verifica se esiste una cache valida
         if (fs.existsSync(CACHE_PATH)) {
             const cachedData = JSON.parse(fs.readFileSync(CACHE_PATH, 'utf8'));
@@ -27,7 +32,7 @@ async function fetchEloData() {
         }
 
         logger.info('Fetching fresh ELO data from Tennis Abstract');
-        const { data } = await axios.get('https://tennisabstract.com/reports/atp_elo_ratings.html', {
+        const { data } = await axios.get(`https://tennisabstract.com/reports/${cat}_elo_ratings.html`, {
             headers: {
                 'User-Agent': 'TennisEloPredictor/1.0 (+https://github.com/your-repo)'
             }

@@ -1,0 +1,4237 @@
+{
+  "timestamp": 1745873327630,
+  "data": [
+    {
+      "name": "Aryna Sabalenka",
+      "elo": 2173.6,
+      "hElo": 2129.5,
+      "cElo": 2070.8,
+      "gElo": 1944.1,
+      "atpRank": 1
+    },
+    {
+      "name": "Iga Swiatek",
+      "elo": 2126.7,
+      "hElo": 2085.2,
+      "cElo": 2066.6,
+      "gElo": 1856.8,
+      "atpRank": 2
+    },
+    {
+      "name": "Mirra Andreeva",
+      "elo": 2104.1,
+      "hElo": 2080.1,
+      "cElo": 1963.3,
+      "gElo": 1799,
+      "atpRank": 7
+    },
+    {
+      "name": "Coco Gauff",
+      "elo": 2059.1,
+      "hElo": 2023,
+      "cElo": 1961.4,
+      "gElo": 1867.7,
+      "atpRank": 4
+    },
+    {
+      "name": "Jessica Pegula",
+      "elo": 2043.5,
+      "hElo": 1994.8,
+      "cElo": 1886.9,
+      "gElo": 1828.4,
+      "atpRank": 3
+    },
+    {
+      "name": "Qinwen Zheng",
+      "elo": 2035.6,
+      "hElo": 1984.8,
+      "cElo": 1979.1,
+      "gElo": 1686.6,
+      "atpRank": 8
+    },
+    {
+      "name": "Madison Keys",
+      "elo": 2026.7,
+      "hElo": 1963.7,
+      "cElo": 1911.5,
+      "gElo": 1826.5,
+      "atpRank": 5
+    },
+    {
+      "name": "Elena Rybakina",
+      "elo": 2006.9,
+      "hElo": 1957,
+      "cElo": 1909.6,
+      "gElo": 1844.3,
+      "atpRank": 11
+    },
+    {
+      "name": "Jasmine Paolini",
+      "elo": 1985,
+      "hElo": 1918.2,
+      "cElo": 1899.1,
+      "gElo": 1813,
+      "atpRank": 6
+    },
+    {
+      "name": "Karolina Muchova",
+      "elo": 1980.8,
+      "hElo": 1938.9,
+      "cElo": 1832.8,
+      "gElo": 1752.9,
+      "atpRank": 12
+    },
+    {
+      "name": "Paula Badosa",
+      "elo": 1970,
+      "hElo": 1918.7,
+      "cElo": 1868.5,
+      "gElo": 1781.1,
+      "atpRank": 9
+    },
+    {
+      "name": "Elina Svitolina",
+      "elo": 1969.8,
+      "hElo": 1907.3,
+      "cElo": 1877.4,
+      "gElo": 1788.4,
+      "atpRank": 17
+    },
+    {
+      "name": "Amanda Anisimova",
+      "elo": 1945.4,
+      "hElo": 1900.8,
+      "cElo": 1804.9,
+      "gElo": 1709.6,
+      "atpRank": 16
+    },
+    {
+      "name": "Emma Navarro",
+      "elo": 1921.2,
+      "hElo": 1875.1,
+      "cElo": 1826.6,
+      "gElo": 1786.9,
+      "atpRank": 10
+    },
+    {
+      "name": "Belinda Bencic",
+      "elo": 1915,
+      "hElo": 1881,
+      "cElo": 1726.9,
+      "gElo": 1707.5,
+      "atpRank": 42
+    },
+    {
+      "name": "Jelena Ostapenko",
+      "elo": 1910.8,
+      "hElo": 1833,
+      "cElo": 1863.7,
+      "gElo": 1820.1,
+      "atpRank": 18
+    },
+    {
+      "name": "Ekaterina Alexandrova",
+      "elo": 1906.6,
+      "hElo": 1842.5,
+      "cElo": 1788.4,
+      "gElo": 1793.5,
+      "atpRank": 22
+    },
+    {
+      "name": "Elise Mertens",
+      "elo": 1900.3,
+      "hElo": 1853.8,
+      "cElo": 1829.4,
+      "gElo": 1689.6,
+      "atpRank": 26
+    },
+    {
+      "name": "Victoria Azarenka",
+      "elo": 1892,
+      "hElo": 1845.7,
+      "cElo": 1787.3,
+      "gElo": 1729.4,
+      "atpRank": 48
+    },
+    {
+      "name": "Emma Raducanu",
+      "elo": 1891,
+      "hElo": 1839.1,
+      "cElo": 1719.9,
+      "gElo": 1741.9,
+      "atpRank": 49
+    },
+    {
+      "name": "Daria Kasatkina",
+      "elo": 1884.5,
+      "hElo": 1827.4,
+      "cElo": 1820.3,
+      "gElo": 1796,
+      "atpRank": 14
+    },
+    {
+      "name": "Mccartney Kessler",
+      "elo": 1881,
+      "hElo": 1860.8,
+      "cElo": 1586.1,
+      "gElo": 1678.6,
+      "atpRank": 43
+    },
+    {
+      "name": "Clara Tauson",
+      "elo": 1879.9,
+      "hElo": 1853.3,
+      "cElo": 1756.8,
+      "gElo": 1587.5,
+      "atpRank": 23
+    },
+    {
+      "name": "Sofia Kenin",
+      "elo": 1879.3,
+      "hElo": 1813.3,
+      "cElo": 1777.5,
+      "gElo": 1695,
+      "atpRank": 32
+    },
+    {
+      "name": "Yulia Putintseva",
+      "elo": 1877.9,
+      "hElo": 1807.2,
+      "cElo": 1810.3,
+      "gElo": 1754.4,
+      "atpRank": 24
+    },
+    {
+      "name": "Ashlyn Krueger",
+      "elo": 1877.7,
+      "hElo": 1837.4,
+      "cElo": 1713.8,
+      "gElo": 1695.1,
+      "atpRank": 35
+    },
+    {
+      "name": "Marta Kostyuk",
+      "elo": 1876,
+      "hElo": 1842.6,
+      "cElo": 1780.1,
+      "gElo": 1685.4,
+      "atpRank": 36
+    },
+    {
+      "name": "Danielle Collins",
+      "elo": 1868.8,
+      "hElo": 1803.8,
+      "cElo": 1814.5,
+      "gElo": 1684.4,
+      "atpRank": 30
+    },
+    {
+      "name": "Ons Jabeur",
+      "elo": 1868.4,
+      "hElo": 1806.2,
+      "cElo": 1794.4,
+      "gElo": 1754.9,
+      "atpRank": 28
+    },
+    {
+      "name": "Liudmila Samsonova",
+      "elo": 1867.8,
+      "hElo": 1818.2,
+      "cElo": 1738.5,
+      "gElo": 1750,
+      "atpRank": 20
+    },
+    {
+      "name": "Naomi Osaka",
+      "elo": 1865.3,
+      "hElo": 1822.7,
+      "cElo": 1723.9,
+      "gElo": 1674.4,
+      "atpRank": 55
+    },
+    {
+      "name": "Linda Noskova",
+      "elo": 1864.7,
+      "hElo": 1844.1,
+      "cElo": 1730.5,
+      "gElo": 1635.9,
+      "atpRank": 31
+    },
+    {
+      "name": "Leylah Fernandez",
+      "elo": 1859.9,
+      "hElo": 1812,
+      "cElo": 1737.1,
+      "gElo": 1734.8,
+      "atpRank": 25
+    },
+    {
+      "name": "Anastasia Potapova",
+      "elo": 1859.2,
+      "hElo": 1804.9,
+      "cElo": 1797.9,
+      "gElo": 1694.9,
+      "atpRank": 39
+    },
+    {
+      "name": "Anastasia Pavlyuchenkova",
+      "elo": 1858.2,
+      "hElo": 1827.3,
+      "cElo": 1766.3,
+      "gElo": 1651.9,
+      "atpRank": 47
+    },
+    {
+      "name": "Diana Shnaider",
+      "elo": 1855.6,
+      "hElo": 1802.2,
+      "cElo": 1779.9,
+      "gElo": 1763.1,
+      "atpRank": 13
+    },
+    {
+      "name": "Anna Kalinskaya",
+      "elo": 1853.2,
+      "hElo": 1800.3,
+      "cElo": 1720,
+      "gElo": 1743.7,
+      "atpRank": 29
+    },
+    {
+      "name": "Olga Danilovic",
+      "elo": 1851,
+      "hElo": 1750.2,
+      "cElo": 1806.8,
+      "gElo": 1633.5,
+      "atpRank": 34
+    },
+    {
+      "name": "Magda Linette",
+      "elo": 1849.2,
+      "hElo": 1784.3,
+      "cElo": 1784.8,
+      "gElo": 1662.6,
+      "atpRank": 33
+    },
+    {
+      "name": "Caroline Wozniacki",
+      "elo": 1844.9,
+      "hElo": 1805.1,
+      "cElo": 1727.8,
+      "gElo": 1737,
+      "atpRank": 137
+    },
+    {
+      "name": "Katie Boulter",
+      "elo": 1838.5,
+      "hElo": 1805,
+      "cElo": 1618.2,
+      "gElo": 1755.4,
+      "atpRank": 40
+    },
+    {
+      "name": "Donna Vekic",
+      "elo": 1835.7,
+      "hElo": 1773.5,
+      "cElo": 1765,
+      "gElo": 1752.5,
+      "atpRank": 21
+    },
+    {
+      "name": "Katerina Siniakova",
+      "elo": 1835.2,
+      "hElo": 1781.6,
+      "cElo": 1743.5,
+      "gElo": 1735.4,
+      "atpRank": 57
+    },
+    {
+      "name": "Marketa Vondrousova",
+      "elo": 1832.2,
+      "hElo": 1776.5,
+      "cElo": 1738.9,
+      "gElo": 1666.1,
+      "atpRank": 63
+    },
+    {
+      "name": "Camila Osorio",
+      "elo": 1830,
+      "hElo": 1752.6,
+      "cElo": 1791.8,
+      "gElo": 1674.5,
+      "atpRank": 51
+    },
+    {
+      "name": "Karolina Pliskova",
+      "elo": 1825.5,
+      "hElo": 1799.1,
+      "cElo": 1752.7,
+      "gElo": 1731.2,
+      "atpRank": 188
+    },
+    {
+      "name": "Maria Sakkari",
+      "elo": 1824.3,
+      "hElo": 1798,
+      "cElo": 1780.4,
+      "gElo": 1664.2,
+      "atpRank": 82
+    },
+    {
+      "name": "Sorana Cirstea",
+      "elo": 1821.2,
+      "hElo": 1797.7,
+      "cElo": 1720.1,
+      "gElo": 1634.1,
+      "atpRank": 122
+    },
+    {
+      "name": "Elina Avanesyan",
+      "elo": 1813.7,
+      "hElo": 1758.1,
+      "cElo": 1751.1,
+      "gElo": 1657.3,
+      "atpRank": 37
+    },
+    {
+      "name": "Veronika Kudermetova",
+      "elo": 1809.9,
+      "hElo": 1765.8,
+      "cElo": 1749.4,
+      "gElo": 1712,
+      "atpRank": 52
+    },
+    {
+      "name": "Barbora Krejcikova",
+      "elo": 1800.2,
+      "hElo": 1747.3,
+      "cElo": 1650.1,
+      "gElo": 1733.6,
+      "atpRank": 15
+    },
+    {
+      "name": "Caroline Garcia",
+      "elo": 1799.6,
+      "hElo": 1759.5,
+      "cElo": 1757.7,
+      "gElo": 1713.2,
+      "atpRank": 117
+    },
+    {
+      "name": "Peyton Stearns",
+      "elo": 1796.9,
+      "hElo": 1753.7,
+      "cElo": 1730.1,
+      "gElo": 1551.1,
+      "atpRank": 44
+    },
+    {
+      "name": "Dayana Yastremska",
+      "elo": 1793.1,
+      "hElo": 1748.3,
+      "cElo": 1719.6,
+      "gElo": 1639.3,
+      "atpRank": 46
+    },
+    {
+      "name": "Marie Bouzkova",
+      "elo": 1789.1,
+      "hElo": 1756,
+      "cElo": 1723.1,
+      "gElo": 1645.9,
+      "atpRank": 58
+    },
+    {
+      "name": "Kimberly Birrell",
+      "elo": 1789.1,
+      "hElo": 1752.9,
+      "cElo": 1562.7,
+      "gElo": 1629,
+      "atpRank": 61
+    },
+    {
+      "name": "Taylor Townsend",
+      "elo": 1788,
+      "hElo": 1748.5,
+      "cElo": 1721.6,
+      "gElo": 1544.2,
+      "atpRank": 98
+    },
+    {
+      "name": "Bianca Andreescu",
+      "elo": 1783.8,
+      "hElo": 1748.7,
+      "cElo": 1704.3,
+      "gElo": 1654.2,
+      "atpRank": 132
+    },
+    {
+      "name": "Tereza Valentova",
+      "elo": 1783.2,
+      "hElo": 1751.4,
+      "cElo": 1683.3,
+      "gElo": 1566.6,
+      "atpRank": 186
+    },
+    {
+      "name": "Elena Gabriela Ruse",
+      "elo": 1782.8,
+      "hElo": 1736.3,
+      "cElo": 1712.5,
+      "gElo": 1644.5,
+      "atpRank": 85
+    },
+    {
+      "name": "Suzan Lamens",
+      "elo": 1781.8,
+      "hElo": 1714.7,
+      "cElo": 1654.3,
+      "gElo": 1504.3,
+      "atpRank": 73
+    },
+    {
+      "name": "Jaqueline Cristian",
+      "elo": 1774.8,
+      "hElo": 1728.4,
+      "cElo": 1706,
+      "gElo": 1492.6,
+      "atpRank": 65
+    },
+    {
+      "name": "Rebecca Sramkova",
+      "elo": 1771.9,
+      "hElo": 1733.5,
+      "cElo": 1665.6,
+      "gElo": 1558.6,
+      "atpRank": 38
+    },
+    {
+      "name": "Ajla Tomljanovic",
+      "elo": 1770.6,
+      "hElo": 1711.4,
+      "cElo": 1702.1,
+      "gElo": 1711.6,
+      "atpRank": 79
+    },
+    {
+      "name": "Sonay Kartal",
+      "elo": 1768,
+      "hElo": 1724.5,
+      "cElo": 1446.7,
+      "gElo": 1655.7,
+      "atpRank": 60
+    },
+    {
+      "name": "Xin Yu Wang",
+      "elo": 1766.7,
+      "hElo": 1712.7,
+      "cElo": 1666.2,
+      "gElo": 1683.2,
+      "atpRank": 41
+    },
+    {
+      "name": "Magdalena Frech",
+      "elo": 1763.1,
+      "hElo": 1717.9,
+      "cElo": 1689.2,
+      "gElo": 1617.9,
+      "atpRank": 27
+    },
+    {
+      "name": "Beatriz Haddad Maia",
+      "elo": 1763,
+      "hElo": 1715.9,
+      "cElo": 1740.3,
+      "gElo": 1688.9,
+      "atpRank": 19
+    },
+    {
+      "name": "Irina Camelia Begu",
+      "elo": 1762.6,
+      "hElo": 1682.8,
+      "cElo": 1753.4,
+      "gElo": 1594.8,
+      "atpRank": 75
+    },
+    {
+      "name": "Angelique Kerber",
+      "elo": 1755,
+      "hElo": 1693.6,
+      "cElo": 1679.2,
+      "gElo": 1633.8,
+      "atpRank": 0
+    },
+    {
+      "name": "Moyuka Uchijima",
+      "elo": 1753.6,
+      "hElo": 1690.8,
+      "cElo": 1720.5,
+      "gElo": 1531,
+      "atpRank": 56
+    },
+    {
+      "name": "Jessica Bouzas Maneiro",
+      "elo": 1748.5,
+      "hElo": 1655.5,
+      "cElo": 1696.5,
+      "gElo": 1617.9,
+      "atpRank": 69
+    },
+    {
+      "name": "Lesia Tsurenko",
+      "elo": 1744.4,
+      "hElo": 1706.8,
+      "cElo": 1693,
+      "gElo": 1667.1,
+      "atpRank": 241
+    },
+    {
+      "name": "Viktorija Golubic",
+      "elo": 1743.7,
+      "hElo": 1719.5,
+      "cElo": 1575.1,
+      "gElo": 1634.6,
+      "atpRank": 92
+    },
+    {
+      "name": "Eva Lys",
+      "elo": 1737.4,
+      "hElo": 1698.4,
+      "cElo": 1660.9,
+      "gElo": 1581.9,
+      "atpRank": 68
+    },
+    {
+      "name": "Bernarda Pera",
+      "elo": 1734.9,
+      "hElo": 1676.7,
+      "cElo": 1700.3,
+      "gElo": 1612.8,
+      "atpRank": 81
+    },
+    {
+      "name": "Caroline Dolehide",
+      "elo": 1733.3,
+      "hElo": 1684.5,
+      "cElo": 1655.3,
+      "gElo": 1498.1,
+      "atpRank": 71
+    },
+    {
+      "name": "Anhelina Kalinina",
+      "elo": 1730.6,
+      "hElo": 1682.3,
+      "cElo": 1710,
+      "gElo": 1598.6,
+      "atpRank": 74
+    },
+    {
+      "name": "Katie Volynets",
+      "elo": 1730.1,
+      "hElo": 1666.8,
+      "cElo": 1721.7,
+      "gElo": 1587.4,
+      "atpRank": 70
+    },
+    {
+      "name": "Anna Blinkova",
+      "elo": 1729.3,
+      "hElo": 1710.1,
+      "cElo": 1603.6,
+      "gElo": 1614.1,
+      "atpRank": 76
+    },
+    {
+      "name": "Polina Kudermetova",
+      "elo": 1729,
+      "hElo": 1685.9,
+      "cElo": 1648.9,
+      "gElo": 1571.7,
+      "atpRank": 54
+    },
+    {
+      "name": "Greet Minnen",
+      "elo": 1726.9,
+      "hElo": 1687.1,
+      "cElo": 1596.7,
+      "gElo": 1638.9,
+      "atpRank": 90
+    },
+    {
+      "name": "Antonia Ruzic",
+      "elo": 1726.5,
+      "hElo": 1708.6,
+      "cElo": 1531.7,
+      "gElo": 1539.8,
+      "atpRank": 123
+    },
+    {
+      "name": "Lucia Bronzetti",
+      "elo": 1726.2,
+      "hElo": 1702.1,
+      "cElo": 1623.2,
+      "gElo": 1559.6,
+      "atpRank": 59
+    },
+    {
+      "name": "Hailey Baptiste",
+      "elo": 1725.9,
+      "hElo": 1690.3,
+      "cElo": 1620.3,
+      "gElo": 1540.4,
+      "atpRank": 88
+    },
+    {
+      "name": "Sloane Stephens",
+      "elo": 1725.2,
+      "hElo": 1659.5,
+      "cElo": 1722.8,
+      "gElo": 1610.4,
+      "atpRank": 301
+    },
+    {
+      "name": "Maya Joint",
+      "elo": 1723.6,
+      "hElo": 1691.7,
+      "cElo": 1632.1,
+      "gElo": 1540.8,
+      "atpRank": 78
+    },
+    {
+      "name": "Zeynep Sonmez",
+      "elo": 1722.7,
+      "hElo": 1679.9,
+      "cElo": 1612.1,
+      "gElo": 1609.9,
+      "atpRank": 77
+    },
+    {
+      "name": "Alina Korneeva",
+      "elo": 1721.9,
+      "hElo": 1685.3,
+      "cElo": 1503.7,
+      "gElo": 1535.9,
+      "atpRank": 278
+    },
+    {
+      "name": "Aliaksandra Sasnovich",
+      "elo": 1720.6,
+      "hElo": 1671.5,
+      "cElo": 1663.5,
+      "gElo": 1603,
+      "atpRank": 110
+    },
+    {
+      "name": "Alycia Parks",
+      "elo": 1717.6,
+      "hElo": 1703.8,
+      "cElo": 1507.8,
+      "gElo": 1643.3,
+      "atpRank": 53
+    },
+    {
+      "name": "Yafan Wang",
+      "elo": 1716.1,
+      "hElo": 1698.3,
+      "cElo": 1544.9,
+      "gElo": 1546.2,
+      "atpRank": 104
+    },
+    {
+      "name": "Ana Bogdan",
+      "elo": 1714.9,
+      "hElo": 1671.6,
+      "cElo": 1670.6,
+      "gElo": 1625.1,
+      "atpRank": 163
+    },
+    {
+      "name": "Viktoriya Tomova",
+      "elo": 1714.7,
+      "hElo": 1662.2,
+      "cElo": 1653.4,
+      "gElo": 1584.1,
+      "atpRank": 64
+    },
+    {
+      "name": "Ann Li",
+      "elo": 1713.7,
+      "hElo": 1655.4,
+      "cElo": 1681.5,
+      "gElo": 1504,
+      "atpRank": 62
+    },
+    {
+      "name": "Varvara Gracheva",
+      "elo": 1711.5,
+      "hElo": 1655.1,
+      "cElo": 1652.6,
+      "gElo": 1555.8,
+      "atpRank": 66
+    },
+    {
+      "name": "Aoi Ito",
+      "elo": 1704.9,
+      "hElo": 1667.2,
+      "cElo": 1467.5,
+      "gElo": 1488.3,
+      "atpRank": 101
+    },
+    {
+      "name": "Lulu Sun",
+      "elo": 1704.7,
+      "hElo": 1651.5,
+      "cElo": 1561,
+      "gElo": 1647.8,
+      "atpRank": 45
+    },
+    {
+      "name": "Anca Alexia Todoni",
+      "elo": 1703.1,
+      "hElo": 1584,
+      "cElo": 1726.8,
+      "gElo": 1606.2,
+      "atpRank": 89
+    },
+    {
+      "name": "Clara Burel",
+      "elo": 1701.7,
+      "hElo": 1667.9,
+      "cElo": 1673.3,
+      "gElo": 1522.4,
+      "atpRank": 144
+    },
+    {
+      "name": "Renata Zarazua",
+      "elo": 1701.5,
+      "hElo": 1636.4,
+      "cElo": 1667.7,
+      "gElo": 1550.3,
+      "atpRank": 67
+    },
+    {
+      "name": "Laura Siegemund",
+      "elo": 1700.5,
+      "hElo": 1673.4,
+      "cElo": 1642.4,
+      "gElo": 1580.8,
+      "atpRank": 95
+    },
+    {
+      "name": "Victoria Mboko",
+      "elo": 1699.7,
+      "hElo": 1678.4,
+      "cElo": 1481.4,
+      "gElo": 1524.8,
+      "atpRank": 156
+    },
+    {
+      "name": "Rebeka Masarova",
+      "elo": 1698.9,
+      "hElo": 1665,
+      "cElo": 1624,
+      "gElo": 1548.9,
+      "atpRank": 153
+    },
+    {
+      "name": "Alexandra Eala",
+      "elo": 1698.5,
+      "hElo": 1668.9,
+      "cElo": 1500.3,
+      "gElo": 1569.7,
+      "atpRank": 72
+    },
+    {
+      "name": "Caty Mcnally",
+      "elo": 1696,
+      "hElo": 1609.2,
+      "cElo": 1666.3,
+      "gElo": 1588.7,
+      "atpRank": 287
+    },
+    {
+      "name": "Elisabetta Cocciaretto",
+      "elo": 1695.3,
+      "hElo": 1643.8,
+      "cElo": 1671.7,
+      "gElo": 1628.9,
+      "atpRank": 87
+    },
+    {
+      "name": "Kaja Juvan",
+      "elo": 1692.9,
+      "hElo": 1643.5,
+      "cElo": 1650.7,
+      "gElo": 1647,
+      "atpRank": 515
+    },
+    {
+      "name": "Yue Yuan",
+      "elo": 1689.8,
+      "hElo": 1662.9,
+      "cElo": 1570.6,
+      "gElo": 1555.7,
+      "atpRank": 103
+    },
+    {
+      "name": "Sara Sorribes Tormo",
+      "elo": 1687.7,
+      "hElo": 1648.7,
+      "cElo": 1649.7,
+      "gElo": 1548.9,
+      "atpRank": 86
+    },
+    {
+      "name": "Cristina Bucsa",
+      "elo": 1686.2,
+      "hElo": 1646.3,
+      "cElo": 1599.2,
+      "gElo": 1530.7,
+      "atpRank": 94
+    },
+    {
+      "name": "Xiyu Wang",
+      "elo": 1683.6,
+      "hElo": 1646.5,
+      "cElo": 1663.8,
+      "gElo": 1547.2,
+      "atpRank": 126
+    },
+    {
+      "name": "Mayar Sherif",
+      "elo": 1683.5,
+      "hElo": 1530.5,
+      "cElo": 1702.1,
+      "gElo": 1523.8,
+      "atpRank": 50
+    },
+    {
+      "name": "Petra Martic",
+      "elo": 1678.6,
+      "hElo": 1635.3,
+      "cElo": 1653.4,
+      "gElo": 1609.6,
+      "atpRank": 114
+    },
+    {
+      "name": "Tatiana Prozorova",
+      "elo": 1675.8,
+      "hElo": 1671.8,
+      "cElo": 1539.5,
+      "gElo": 1512.9,
+      "atpRank": 172
+    },
+    {
+      "name": "Daria Saville",
+      "elo": 1674.7,
+      "hElo": 1642.1,
+      "cElo": 1599.9,
+      "gElo": 1542.1,
+      "atpRank": 118
+    },
+    {
+      "name": "Celine Naef",
+      "elo": 1673.7,
+      "hElo": 1647.8,
+      "cElo": 1519.8,
+      "gElo": 1563.4,
+      "atpRank": 180
+    },
+    {
+      "name": "Robin Montgomery",
+      "elo": 1672.5,
+      "hElo": 1616.3,
+      "cElo": 1598.9,
+      "gElo": 1647,
+      "atpRank": 100
+    },
+    {
+      "name": "Solana Sierra",
+      "elo": 1672.4,
+      "hElo": 1586.9,
+      "cElo": 1650.8,
+      "gElo": 1472.9,
+      "atpRank": 108
+    },
+    {
+      "name": "Simona Waltert",
+      "elo": 1670.5,
+      "hElo": 1628.5,
+      "cElo": 1602.5,
+      "gElo": 1527.2,
+      "atpRank": 149
+    },
+    {
+      "name": "Claire Liu",
+      "elo": 1667.8,
+      "hElo": 1648,
+      "cElo": 1610.9,
+      "gElo": 1526.9,
+      "atpRank": 330
+    },
+    {
+      "name": "Sinja Kraus",
+      "elo": 1667.2,
+      "hElo": 1575.2,
+      "cElo": 1613.1,
+      "gElo": 1568.4,
+      "atpRank": 167
+    },
+    {
+      "name": "Lin Zhu",
+      "elo": 1663.8,
+      "hElo": 1653,
+      "cElo": 1450,
+      "gElo": 1530.3,
+      "atpRank": 315
+    },
+    {
+      "name": "Arantxa Rus",
+      "elo": 1662.3,
+      "hElo": 1606.1,
+      "cElo": 1652,
+      "gElo": 1504.1,
+      "atpRank": 93
+    },
+    {
+      "name": "Mananchaya Sawangkaew",
+      "elo": 1661.1,
+      "hElo": 1625.9,
+      "cElo": 1571.6,
+      "gElo": 1541.3,
+      "atpRank": 113
+    },
+    {
+      "name": "Francesca Jones",
+      "elo": 1659,
+      "hElo": 1601.8,
+      "cElo": 1627,
+      "gElo": 1451,
+      "atpRank": 138
+    },
+    {
+      "name": "Sijia Wei",
+      "elo": 1657.8,
+      "hElo": 1652.2,
+      "cElo": 1443.3,
+      "gElo": 1511.8,
+      "atpRank": 131
+    },
+    {
+      "name": "Nadia Podoroska",
+      "elo": 1656.8,
+      "hElo": 1626,
+      "cElo": 1591.7,
+      "gElo": 1505.6,
+      "atpRank": 166
+    },
+    {
+      "name": "Shuai Zhang",
+      "elo": 1654.3,
+      "hElo": 1630.7,
+      "cElo": 1563,
+      "gElo": 1587.2,
+      "atpRank": 164
+    },
+    {
+      "name": "Sara Errani",
+      "elo": 1653.2,
+      "hElo": 1583.2,
+      "cElo": 1628.8,
+      "gElo": 1512.6,
+      "atpRank": 154
+    },
+    {
+      "name": "Anastasia Zakharova",
+      "elo": 1653,
+      "hElo": 1603,
+      "cElo": 1550.4,
+      "gElo": 1449.6,
+      "atpRank": 106
+    },
+    {
+      "name": "Lauren Davis",
+      "elo": 1652.4,
+      "hElo": 1618.3,
+      "cElo": 1596.1,
+      "gElo": 1560.4,
+      "atpRank": 191
+    },
+    {
+      "name": "Diane Parry",
+      "elo": 1651.2,
+      "hElo": 1613.2,
+      "cElo": 1601.3,
+      "gElo": 1571.4,
+      "atpRank": 116
+    },
+    {
+      "name": "Alison Van Uytvanck",
+      "elo": 1649.4,
+      "hElo": 1617.4,
+      "cElo": 1547,
+      "gElo": 1635.3,
+      "atpRank": 0
+    },
+    {
+      "name": "Emiliana Arango",
+      "elo": 1649,
+      "hElo": 1647.8,
+      "cElo": 1562.8,
+      "gElo": 1502.2,
+      "atpRank": 84
+    },
+    {
+      "name": "Rebecca Marino",
+      "elo": 1648.9,
+      "hElo": 1609.8,
+      "cElo": 1517.8,
+      "gElo": 1581.7,
+      "atpRank": 105
+    },
+    {
+      "name": "Alize Cornet",
+      "elo": 1648.3,
+      "hElo": 1599.5,
+      "cElo": 1592.9,
+      "gElo": 1609,
+      "atpRank": 460
+    },
+    {
+      "name": "Ena Shibahara",
+      "elo": 1645.4,
+      "hElo": 1612.3,
+      "cElo": 1465.1,
+      "gElo": 1527.4,
+      "atpRank": 139
+    },
+    {
+      "name": "Brenda Fruhvirtova",
+      "elo": 1645,
+      "hElo": 1621.8,
+      "cElo": 1606.3,
+      "gElo": 1572,
+      "atpRank": 289
+    },
+    {
+      "name": "Nina Stojanovic",
+      "elo": 1644.8,
+      "hElo": 1602,
+      "cElo": 1601.7,
+      "gElo": 1536.4,
+      "atpRank": 175
+    },
+    {
+      "name": "Lois Boisson",
+      "elo": 1644.8,
+      "hElo": 1466,
+      "cElo": 1619.3,
+      "gElo": 1497.4,
+      "atpRank": 302
+    },
+    {
+      "name": "Jil Teichmann",
+      "elo": 1644.1,
+      "hElo": 1616.3,
+      "cElo": 1623.4,
+      "gElo": 1449.5,
+      "atpRank": 96
+    },
+    {
+      "name": "Dalma Galfi",
+      "elo": 1642.8,
+      "hElo": 1531.8,
+      "cElo": 1617.6,
+      "gElo": 1622.6,
+      "atpRank": 121
+    },
+    {
+      "name": "Anna Karolina Schmiedlova",
+      "elo": 1642.6,
+      "hElo": 1571.1,
+      "cElo": 1650.2,
+      "gElo": 1450.9,
+      "atpRank": 158
+    },
+    {
+      "name": "Oksana Selekhmeteva",
+      "elo": 1642.5,
+      "hElo": 1592.3,
+      "cElo": 1623.2,
+      "gElo": 1496.2,
+      "atpRank": 161
+    },
+    {
+      "name": "Tatjana Maria",
+      "elo": 1641.7,
+      "hElo": 1611.4,
+      "cElo": 1564.4,
+      "gElo": 1607,
+      "atpRank": 80
+    },
+    {
+      "name": "Priscilla Hon",
+      "elo": 1641.6,
+      "hElo": 1622.9,
+      "cElo": 1479.3,
+      "gElo": 1477.7,
+      "atpRank": 142
+    },
+    {
+      "name": "Sara Bejlek",
+      "elo": 1638.9,
+      "hElo": 1574.5,
+      "cElo": 1632,
+      "gElo": 1430,
+      "atpRank": 146
+    },
+    {
+      "name": "Kamilla Rakhimova",
+      "elo": 1634.9,
+      "hElo": 1584.3,
+      "cElo": 1602.2,
+      "gElo": 1500.1,
+      "atpRank": 83
+    },
+    {
+      "name": "Qiang Wang",
+      "elo": 1634.3,
+      "hElo": 1606.4,
+      "cElo": 1590.7,
+      "gElo": 1521.2,
+      "atpRank": 421
+    },
+    {
+      "name": "Ella Seidel",
+      "elo": 1634.1,
+      "hElo": 1599.1,
+      "cElo": 1589.7,
+      "gElo": 1424.4,
+      "atpRank": 111
+    },
+    {
+      "name": "Jule Niemeier",
+      "elo": 1631.6,
+      "hElo": 1581.8,
+      "cElo": 1622.8,
+      "gElo": 1571.4,
+      "atpRank": 109
+    },
+    {
+      "name": "Leolia Jeanjean",
+      "elo": 1631.4,
+      "hElo": 1603.7,
+      "cElo": 1580.4,
+      "gElo": 1495.3,
+      "atpRank": 107
+    },
+    {
+      "name": "Harriet Dart",
+      "elo": 1631.3,
+      "hElo": 1595.1,
+      "cElo": 1465,
+      "gElo": 1599.5,
+      "atpRank": 112
+    },
+    {
+      "name": "Jodie Burrage",
+      "elo": 1627.7,
+      "hElo": 1590,
+      "cElo": 1451.8,
+      "gElo": 1572.6,
+      "atpRank": 173
+    },
+    {
+      "name": "Martina Trevisan",
+      "elo": 1624,
+      "hElo": 1572.1,
+      "cElo": 1610.7,
+      "gElo": 1384.6,
+      "atpRank": 157
+    },
+    {
+      "name": "Maja Chwalinska",
+      "elo": 1623.3,
+      "hElo": 1583.5,
+      "cElo": 1604.9,
+      "gElo": 1522.7,
+      "atpRank": 125
+    },
+    {
+      "name": "Linda Fruhvirtova",
+      "elo": 1622.7,
+      "hElo": 1594.1,
+      "cElo": 1534.8,
+      "gElo": 1487.9,
+      "atpRank": 145
+    },
+    {
+      "name": "Maria Lourdes Carle",
+      "elo": 1622.4,
+      "hElo": 1569.8,
+      "cElo": 1596.6,
+      "gElo": 1452.1,
+      "atpRank": 119
+    },
+    {
+      "name": "Elena Pridankina",
+      "elo": 1622.4,
+      "hElo": 1541.4,
+      "cElo": 1608.9,
+      "gElo": 1486.2,
+      "atpRank": 178
+    },
+    {
+      "name": "Olivia Gadecki",
+      "elo": 1620.8,
+      "hElo": 1569.2,
+      "cElo": 1537.9,
+      "gElo": 1565.5,
+      "atpRank": 91
+    },
+    {
+      "name": "Destanee Aiava",
+      "elo": 1616.8,
+      "hElo": 1592.8,
+      "cElo": 1470.1,
+      "gElo": 1446.4,
+      "atpRank": 160
+    },
+    {
+      "name": "Oceane Dodin",
+      "elo": 1615.6,
+      "hElo": 1604.1,
+      "cElo": 1510.4,
+      "gElo": 1492.6,
+      "atpRank": 333
+    },
+    {
+      "name": "Anna Bondar",
+      "elo": 1614.8,
+      "hElo": 1553.5,
+      "cElo": 1636.3,
+      "gElo": 1424.9,
+      "atpRank": 102
+    },
+    {
+      "name": "Dominika Salkova",
+      "elo": 1614.4,
+      "hElo": 1595.6,
+      "cElo": 1510.7,
+      "gElo": 1456.4,
+      "atpRank": 195
+    },
+    {
+      "name": "Varvara Lepchenko",
+      "elo": 1612.9,
+      "hElo": 1583.8,
+      "cElo": 1559,
+      "gElo": 1506.2,
+      "atpRank": 120
+    },
+    {
+      "name": "Erika Andreeva",
+      "elo": 1612.1,
+      "hElo": 1581.9,
+      "cElo": 1546.5,
+      "gElo": 1534.8,
+      "atpRank": 97
+    },
+    {
+      "name": "Maddison Inglis",
+      "elo": 1611.6,
+      "hElo": 1586.3,
+      "cElo": 1454.4,
+      "gElo": 1487.7,
+      "atpRank": 134
+    },
+    {
+      "name": "Nuria Parrizas Diaz",
+      "elo": 1610.5,
+      "hElo": 1584,
+      "cElo": 1585.9,
+      "gElo": 1448.4,
+      "atpRank": 115
+    },
+    {
+      "name": "Mia Pohankova",
+      "elo": 1609.8,
+      "hElo": 1589.9,
+      "cElo": 1419.9,
+      "gElo": 1479.9,
+      "atpRank": 476
+    },
+    {
+      "name": "Veronika Erjavec",
+      "elo": 1607.4,
+      "hElo": 1479.8,
+      "cElo": 1596.4,
+      "gElo": 1460.6,
+      "atpRank": 168
+    },
+    {
+      "name": "Anna Lena Friedsam",
+      "elo": 1606.8,
+      "hElo": 1559.8,
+      "cElo": 1533.8,
+      "gElo": 1473.2,
+      "atpRank": 309
+    },
+    {
+      "name": "Clervie Ngounoue",
+      "elo": 1605.5,
+      "hElo": 1593.3,
+      "cElo": 1472.2,
+      "gElo": 1451.1,
+      "atpRank": 239
+    },
+    {
+      "name": "Linda Klimovicova",
+      "elo": 1602.8,
+      "hElo": 1584.1,
+      "cElo": 1400.3,
+      "gElo": 1476.4,
+      "atpRank": 210
+    },
+    {
+      "name": "Heather Watson",
+      "elo": 1602.7,
+      "hElo": 1581.3,
+      "cElo": 1461.8,
+      "gElo": 1543,
+      "atpRank": 192
+    },
+    {
+      "name": "Jana Fett",
+      "elo": 1602.4,
+      "hElo": 1529,
+      "cElo": 1588.7,
+      "gElo": 1503.6,
+      "atpRank": 129
+    },
+    {
+      "name": "Victoria Jimenez Kasintseva",
+      "elo": 1601.5,
+      "hElo": 1485.1,
+      "cElo": 1603.6,
+      "gElo": 1468.2,
+      "atpRank": 128
+    },
+    {
+      "name": "Iva Jovic",
+      "elo": 1601.3,
+      "hElo": 1561.8,
+      "cElo": 1509,
+      "gElo": 1475.7,
+      "atpRank": 141
+    },
+    {
+      "name": "Saisai Zheng",
+      "elo": 1601,
+      "hElo": 1560.8,
+      "cElo": 1539.3,
+      "gElo": 1495.5,
+      "atpRank": 586
+    },
+    {
+      "name": "Julia Riera",
+      "elo": 1599.8,
+      "hElo": 1505.4,
+      "cElo": 1579.4,
+      "gElo": 1451.2,
+      "atpRank": 162
+    },
+    {
+      "name": "Zarina Diyas",
+      "elo": 1598.1,
+      "hElo": 1582.6,
+      "cElo": 1539.7,
+      "gElo": 1511.1,
+      "atpRank": 326
+    },
+    {
+      "name": "Marina Stakusic",
+      "elo": 1595.6,
+      "hElo": 1559,
+      "cElo": 1470.7,
+      "gElo": 1537.4,
+      "atpRank": 130
+    },
+    {
+      "name": "Hanne Vandewinkel",
+      "elo": 1592.2,
+      "hElo": 1554.4,
+      "cElo": 1518.3,
+      "gElo": 1471.1,
+      "atpRank": 206
+    },
+    {
+      "name": "Fiona Ferro",
+      "elo": 1591.7,
+      "hElo": 1558.8,
+      "cElo": 1538,
+      "gElo": 1447.7,
+      "atpRank": 341
+    },
+    {
+      "name": "Aleksandra Krunic",
+      "elo": 1589.4,
+      "hElo": 1527.8,
+      "cElo": 1595.6,
+      "gElo": 1535.4,
+      "atpRank": 265
+    },
+    {
+      "name": "Tiantsoa Sarah Rakotomanga Rajaonah",
+      "elo": 1589.3,
+      "hElo": 1463.1,
+      "cElo": 1555.2,
+      "gElo": 1469.7,
+      "atpRank": 246
+    },
+    {
+      "name": "Talia Gibson",
+      "elo": 1586.2,
+      "hElo": 1562.7,
+      "cElo": 1387.8,
+      "gElo": 1494,
+      "atpRank": 140
+    },
+    {
+      "name": "Panna Udvardy",
+      "elo": 1585.6,
+      "hElo": 1522.2,
+      "cElo": 1548.1,
+      "gElo": 1511.7,
+      "atpRank": 136
+    },
+    {
+      "name": "Iryna Shymanovich",
+      "elo": 1584.9,
+      "hElo": 1501.5,
+      "cElo": 1567.8,
+      "gElo": 1402.7,
+      "atpRank": 174
+    },
+    {
+      "name": "Katarzyna Kawa",
+      "elo": 1584,
+      "hElo": 1461,
+      "cElo": 1587.7,
+      "gElo": 1474.4,
+      "atpRank": 152
+    },
+    {
+      "name": "Sachia Vickery",
+      "elo": 1583.6,
+      "hElo": 1544.2,
+      "cElo": 1544.8,
+      "gElo": 1462.7,
+      "atpRank": 373
+    },
+    {
+      "name": "Mary Stoiana",
+      "elo": 1582.1,
+      "hElo": 1557,
+      "cElo": 1406,
+      "gElo": 1466,
+      "atpRank": 276
+    },
+    {
+      "name": "Lucrezia Stefanini",
+      "elo": 1581.8,
+      "hElo": 1545.4,
+      "cElo": 1478,
+      "gElo": 1509.2,
+      "atpRank": 150
+    },
+    {
+      "name": "Tamara Zidansek",
+      "elo": 1578.1,
+      "hElo": 1514.9,
+      "cElo": 1578,
+      "gElo": 1464.5,
+      "atpRank": 155
+    },
+    {
+      "name": "Sofia Costoulas",
+      "elo": 1577.6,
+      "hElo": 1572.1,
+      "cElo": 1389.5,
+      "gElo": 1463.8,
+      "atpRank": 212
+    },
+    {
+      "name": "Nao Hibino",
+      "elo": 1577.1,
+      "hElo": 1553.6,
+      "cElo": 1499.7,
+      "gElo": 1469.8,
+      "atpRank": 202
+    },
+    {
+      "name": "Lanlana Tararudee",
+      "elo": 1574.9,
+      "hElo": 1550.9,
+      "cElo": 1529.3,
+      "gElo": 1497.8,
+      "atpRank": 189
+    },
+    {
+      "name": "Julieta Pareja",
+      "elo": 1572.7,
+      "hElo": 1474.9,
+      "cElo": 1535.8,
+      "gElo": 1461.3,
+      "atpRank": 335
+    },
+    {
+      "name": "Mirjam Bjorklund",
+      "elo": 1572.1,
+      "hElo": 1534.9,
+      "cElo": 1523.2,
+      "gElo": 1547.3,
+      "atpRank": 549
+    },
+    {
+      "name": "Mariam Bolkvadze",
+      "elo": 1571.1,
+      "hElo": 1545.8,
+      "cElo": 1355,
+      "gElo": 1385.2,
+      "atpRank": 194
+    },
+    {
+      "name": "Sara Saito",
+      "elo": 1568.8,
+      "hElo": 1554.2,
+      "cElo": 1536.5,
+      "gElo": 1459.4,
+      "atpRank": 165
+    },
+    {
+      "name": "Arina Rodionova",
+      "elo": 1563.7,
+      "hElo": 1541.9,
+      "cElo": 1404.6,
+      "gElo": 1499.4,
+      "atpRank": 169
+    },
+    {
+      "name": "Yuliia Starodubtseva",
+      "elo": 1562.4,
+      "hElo": 1551.4,
+      "cElo": 1468.1,
+      "gElo": 1544.9,
+      "atpRank": 99
+    },
+    {
+      "name": "Julia Grabher",
+      "elo": 1561.2,
+      "hElo": 1457.7,
+      "cElo": 1564.1,
+      "gElo": 1393,
+      "atpRank": 238
+    },
+    {
+      "name": "Tyra Caterina Grant",
+      "elo": 1557.7,
+      "hElo": 1505.2,
+      "cElo": 1465.1,
+      "gElo": 1453.9,
+      "atpRank": 356
+    },
+    {
+      "name": "Darja Semenistaja",
+      "elo": 1556.8,
+      "hElo": 1469.4,
+      "cElo": 1576.4,
+      "gElo": 1478.4,
+      "atpRank": 133
+    },
+    {
+      "name": "Daria Snigur",
+      "elo": 1556.1,
+      "hElo": 1508.8,
+      "cElo": 1439.8,
+      "gElo": 1539.7,
+      "atpRank": 147
+    },
+    {
+      "name": "Xinyu Gao",
+      "elo": 1551.7,
+      "hElo": 1517.8,
+      "cElo": 1477.1,
+      "gElo": 1423.1,
+      "atpRank": 148
+    },
+    {
+      "name": "Tamara Korpatsch",
+      "elo": 1551.4,
+      "hElo": 1490.9,
+      "cElo": 1546.3,
+      "gElo": 1417.5,
+      "atpRank": 170
+    },
+    {
+      "name": "Jessika Ponchet",
+      "elo": 1551.3,
+      "hElo": 1504.2,
+      "cElo": 1516.2,
+      "gElo": 1474.7,
+      "atpRank": 135
+    },
+    {
+      "name": "Louisa Chirico",
+      "elo": 1550.4,
+      "hElo": 1497.6,
+      "cElo": 1533.9,
+      "gElo": 1435.3,
+      "atpRank": 151
+    },
+    {
+      "name": "Kateryna Baindl",
+      "elo": 1549.7,
+      "hElo": 1527.9,
+      "cElo": 1530,
+      "gElo": 1404.4,
+      "atpRank": 425
+    },
+    {
+      "name": "Elsa Jacquemot",
+      "elo": 1548.4,
+      "hElo": 1538.6,
+      "cElo": 1490.3,
+      "gElo": 1476.7,
+      "atpRank": 143
+    },
+    {
+      "name": "Marina Bassols Ribera",
+      "elo": 1547.2,
+      "hElo": 1507.4,
+      "cElo": 1532,
+      "gElo": 1466.2,
+      "atpRank": 234
+    },
+    {
+      "name": "Maria Timofeeva",
+      "elo": 1544.3,
+      "hElo": 1503.5,
+      "cElo": 1484.6,
+      "gElo": 1378.4,
+      "atpRank": 249
+    },
+    {
+      "name": "Noma Noha Akugue",
+      "elo": 1543.1,
+      "hElo": 1420.4,
+      "cElo": 1541.8,
+      "gElo": 1393.1,
+      "atpRank": 235
+    },
+    {
+      "name": "Valentina Ryser",
+      "elo": 1542.8,
+      "hElo": 1509.4,
+      "cElo": 1347,
+      "gElo": 1497.7,
+      "atpRank": 219
+    },
+    {
+      "name": "Leyre Romero Gormaz",
+      "elo": 1542.8,
+      "hElo": 1461.2,
+      "cElo": 1522.4,
+      "gElo": 1390.4,
+      "atpRank": 127
+    },
+    {
+      "name": "Emina Bektas",
+      "elo": 1541.8,
+      "hElo": 1498.4,
+      "cElo": 1334.6,
+      "gElo": 1505.1,
+      "atpRank": 171
+    },
+    {
+      "name": "Manon Leonard",
+      "elo": 1540.3,
+      "hElo": 1518.6,
+      "cElo": 1317.8,
+      "gElo": 1445.1,
+      "atpRank": 182
+    },
+    {
+      "name": "Ysaline Bonaventure",
+      "elo": 1540.2,
+      "hElo": 1528.2,
+      "cElo": 1486.8,
+      "gElo": 1471.6,
+      "atpRank": 824
+    },
+    {
+      "name": "Chloe Paquet",
+      "elo": 1534.6,
+      "hElo": 1450.2,
+      "cElo": 1525.5,
+      "gElo": 1407.8,
+      "atpRank": 124
+    },
+    {
+      "name": "Eva Vedder",
+      "elo": 1532.2,
+      "hElo": 1478.4,
+      "cElo": 1469.4,
+      "gElo": 1451.6,
+      "atpRank": 261
+    },
+    {
+      "name": "Sada Nahimana",
+      "elo": 1528.5,
+      "hElo": 1381.8,
+      "cElo": 1520.9,
+      "gElo": 1439.3,
+      "atpRank": 252
+    },
+    {
+      "name": "Camilla Rosatello",
+      "elo": 1528.4,
+      "hElo": 1457.3,
+      "cElo": 1480.3,
+      "gElo": 1381.5,
+      "atpRank": 251
+    },
+    {
+      "name": "Tereza Martincova",
+      "elo": 1525.5,
+      "hElo": 1517,
+      "cElo": 1447.6,
+      "gElo": 1497.8,
+      "atpRank": 525
+    },
+    {
+      "name": "Emerson Jones",
+      "elo": 1524.1,
+      "hElo": 1503.5,
+      "cElo": 1377.1,
+      "gElo": 1437.1,
+      "atpRank": 274
+    },
+    {
+      "name": "Sayaka Ishii",
+      "elo": 1522.5,
+      "hElo": 1492.2,
+      "cElo": 1381.8,
+      "gElo": 1436.2,
+      "atpRank": 215
+    },
+    {
+      "name": "Mona Barthel",
+      "elo": 1516.9,
+      "hElo": 1513.4,
+      "cElo": 1456.9,
+      "gElo": 1397.5,
+      "atpRank": 207
+    },
+    {
+      "name": "Ana Konjuh",
+      "elo": 1515.9,
+      "hElo": 1497.7,
+      "cElo": 1470.8,
+      "gElo": 1520.9,
+      "atpRank": 532
+    },
+    {
+      "name": "Wakana Sonobe",
+      "elo": 1515.5,
+      "hElo": 1480.4,
+      "cElo": 1362.1,
+      "gElo": 1432.7,
+      "atpRank": 448
+    },
+    {
+      "name": "Kaitlin Quevedo",
+      "elo": 1514.8,
+      "hElo": 1436.7,
+      "cElo": 1472.9,
+      "gElo": 1432.4,
+      "atpRank": 267
+    },
+    {
+      "name": "Berfu Cengiz",
+      "elo": 1513.9,
+      "hElo": 1401.5,
+      "cElo": 1521.4,
+      "gElo": 1431.9,
+      "atpRank": 230
+    },
+    {
+      "name": "Whitney Osuigwe",
+      "elo": 1512.7,
+      "hElo": 1477.9,
+      "cElo": 1444.2,
+      "gElo": 1361.5,
+      "atpRank": 179
+    },
+    {
+      "name": "Zhuoxuan Bai",
+      "elo": 1512.4,
+      "hElo": 1494.2,
+      "cElo": 1408.5,
+      "gElo": 1509.2,
+      "atpRank": 485
+    },
+    {
+      "name": "Yuriko Miyazaki",
+      "elo": 1510.5,
+      "hElo": 1491,
+      "cElo": 1325.9,
+      "gElo": 1431.7,
+      "atpRank": 233
+    },
+    {
+      "name": "Gabriela Andrea Knutson",
+      "elo": 1510.1,
+      "hElo": 1487.2,
+      "cElo": 1339.1,
+      "gElo": 1434.1,
+      "atpRank": 197
+    },
+    {
+      "name": "Astra Sharma",
+      "elo": 1507.9,
+      "hElo": 1503.3,
+      "cElo": 1442.3,
+      "gElo": 1450.5,
+      "atpRank": 201
+    },
+    {
+      "name": "Viktoria Hruncakova",
+      "elo": 1507.2,
+      "hElo": 1482,
+      "cElo": 1426.7,
+      "gElo": 1421.5,
+      "atpRank": 269
+    },
+    {
+      "name": "Tessah Andrianjafitrimo",
+      "elo": 1504.9,
+      "hElo": 1479.1,
+      "cElo": 1432.6,
+      "gElo": 1409.9,
+      "atpRank": 208
+    },
+    {
+      "name": "Arianne Hartono",
+      "elo": 1503.8,
+      "hElo": 1472.6,
+      "cElo": 1420.5,
+      "gElo": 1359.6,
+      "atpRank": 177
+    },
+    {
+      "name": "Lea Boskovic",
+      "elo": 1503.3,
+      "hElo": 1434.3,
+      "cElo": 1485.5,
+      "gElo": 1486.1,
+      "atpRank": 190
+    },
+    {
+      "name": "Aurora Zantedeschi",
+      "elo": 1500,
+      "hElo": 1337.6,
+      "cElo": 1477.7,
+      "gElo": 1425,
+      "atpRank": 325
+    },
+    {
+      "name": "Petra Marcinko",
+      "elo": 1499.9,
+      "hElo": 1452.5,
+      "cElo": 1515.7,
+      "gElo": 1382.5,
+      "atpRank": 220
+    },
+    {
+      "name": "Taylah Preston",
+      "elo": 1498.3,
+      "hElo": 1476.1,
+      "cElo": 1397.7,
+      "gElo": 1400.2,
+      "atpRank": 211
+    },
+    {
+      "name": "Haruka Kaji",
+      "elo": 1495.8,
+      "hElo": 1479.7,
+      "cElo": 1401.8,
+      "gElo": 1460.5,
+      "atpRank": 227
+    },
+    {
+      "name": "Hanyu Guo",
+      "elo": 1493.8,
+      "hElo": 1474.6,
+      "cElo": 1364.6,
+      "gElo": 1421.9,
+      "atpRank": 308
+    },
+    {
+      "name": "Caroline Uebelhoer",
+      "elo": 1492.7,
+      "hElo": 1363.3,
+      "cElo": 1490.4,
+      "gElo": 1421.4,
+      "atpRank": 298
+    },
+    {
+      "name": "Catherine Harrison",
+      "elo": 1491.3,
+      "hElo": 1464.5,
+      "cElo": 1295.4,
+      "gElo": 1496.8,
+      "atpRank": 573
+    },
+    {
+      "name": "Hanna Chang",
+      "elo": 1491.2,
+      "hElo": 1431.9,
+      "cElo": 1454.1,
+      "gElo": 1405.3,
+      "atpRank": 181
+    },
+    {
+      "name": "Silvia Ambrosio",
+      "elo": 1490.1,
+      "hElo": 1308.8,
+      "cElo": 1507.3,
+      "gElo": 1420,
+      "atpRank": 322
+    },
+    {
+      "name": "Kristina Dmitruk",
+      "elo": 1489.9,
+      "hElo": 1485.3,
+      "cElo": 1467,
+      "gElo": 1403,
+      "atpRank": 226
+    },
+    {
+      "name": "Amarni Banks",
+      "elo": 1489.2,
+      "hElo": 1463.6,
+      "cElo": 1359.6,
+      "gElo": 1439.2,
+      "atpRank": 321
+    },
+    {
+      "name": "Katherine Sebov",
+      "elo": 1488.3,
+      "hElo": 1471.9,
+      "cElo": 1411.6,
+      "gElo": 1428.7,
+      "atpRank": 285
+    },
+    {
+      "name": "Nuria Brancaccio",
+      "elo": 1488.3,
+      "hElo": 1326,
+      "cElo": 1467.7,
+      "gElo": 1393.9,
+      "atpRank": 200
+    },
+    {
+      "name": "En Shuo Liang",
+      "elo": 1487.5,
+      "hElo": 1466.1,
+      "cElo": 1371.5,
+      "gElo": 1463.8,
+      "atpRank": 279
+    },
+    {
+      "name": "Su Jeong Jang",
+      "elo": 1486.1,
+      "hElo": 1432.9,
+      "cElo": 1525.6,
+      "gElo": 1384.6,
+      "atpRank": 268
+    },
+    {
+      "name": "Himeno Sakatsume",
+      "elo": 1485,
+      "hElo": 1471.5,
+      "cElo": 1376,
+      "gElo": 1400,
+      "atpRank": 253
+    },
+    {
+      "name": "Andrea Lazaro Garcia",
+      "elo": 1484.5,
+      "hElo": 1426.5,
+      "cElo": 1474.1,
+      "gElo": 1421.3,
+      "atpRank": 199
+    },
+    {
+      "name": "Susan Bandecchi",
+      "elo": 1483,
+      "hElo": 1353.1,
+      "cElo": 1414.6,
+      "gElo": 1441.3,
+      "atpRank": 205
+    },
+    {
+      "name": "Aliona Falei",
+      "elo": 1482.6,
+      "hElo": 1448.3,
+      "cElo": 1415.4,
+      "gElo": 1417,
+      "atpRank": 297
+    },
+    {
+      "name": "Patricia Maria Tig",
+      "elo": 1481.3,
+      "hElo": 1426.8,
+      "cElo": 1488.8,
+      "gElo": 1330,
+      "atpRank": 216
+    },
+    {
+      "name": "Francesca Curmi",
+      "elo": 1480.1,
+      "hElo": 1474.5,
+      "cElo": 1375.9,
+      "gElo": 1415,
+      "atpRank": 381
+    },
+    {
+      "name": "Marie Benoit",
+      "elo": 1479.7,
+      "hElo": 1398.1,
+      "cElo": 1465.3,
+      "gElo": 1381.7,
+      "atpRank": 231
+    },
+    {
+      "name": "Mai Hontama",
+      "elo": 1479.1,
+      "hElo": 1451.3,
+      "cElo": 1407.5,
+      "gElo": 1397.5,
+      "atpRank": 187
+    },
+    {
+      "name": "Lola Radivojevic",
+      "elo": 1478.7,
+      "hElo": 1392.1,
+      "cElo": 1515,
+      "gElo": 1489.3,
+      "atpRank": 176
+    },
+    {
+      "name": "Carole Monnet",
+      "elo": 1475.6,
+      "hElo": 1466,
+      "cElo": 1411.9,
+      "gElo": 1359.1,
+      "atpRank": 248
+    },
+    {
+      "name": "Guiomar Maristany Zuleta De Reales",
+      "elo": 1473.9,
+      "hElo": 1382.8,
+      "cElo": 1490.3,
+      "gElo": 1412,
+      "atpRank": 196
+    },
+    {
+      "name": "Kayla Day",
+      "elo": 1472.9,
+      "hElo": 1429.6,
+      "cElo": 1478.3,
+      "gElo": 1403.8,
+      "atpRank": 331
+    },
+    {
+      "name": "Aliona Bolsova",
+      "elo": 1472,
+      "hElo": 1426.5,
+      "cElo": 1477.5,
+      "gElo": 1389,
+      "atpRank": 385
+    },
+    {
+      "name": "Anouk Koevermans",
+      "elo": 1471.6,
+      "hElo": 1465.3,
+      "cElo": 1417.5,
+      "gElo": 1357.6,
+      "atpRank": 184
+    },
+    {
+      "name": "Barbora Palicova",
+      "elo": 1471.2,
+      "hElo": 1424.8,
+      "cElo": 1442,
+      "gElo": 1422.8,
+      "atpRank": 193
+    },
+    {
+      "name": "Lizette Cabrera",
+      "elo": 1470.6,
+      "hElo": 1454,
+      "cElo": 1363.1,
+      "gElo": 1393.8,
+      "atpRank": 221
+    },
+    {
+      "name": "Timea Babos",
+      "elo": 1470.1,
+      "hElo": 1462.3,
+      "cElo": 1408.3,
+      "gElo": 1428.4,
+      "atpRank": 620
+    },
+    {
+      "name": "Kathinka Von Deichmann",
+      "elo": 1469.6,
+      "hElo": 1445.8,
+      "cElo": 1442.4,
+      "gElo": 1376,
+      "atpRank": 159
+    },
+    {
+      "name": "Mariia Tkacheva",
+      "elo": 1469,
+      "hElo": 1481.7,
+      "cElo": 1312.1,
+      "gElo": 1409.5,
+      "atpRank": 273
+    },
+    {
+      "name": "Kayla Cross",
+      "elo": 1468.4,
+      "hElo": 1449.9,
+      "cElo": 1363.2,
+      "gElo": 1409.2,
+      "atpRank": 222
+    },
+    {
+      "name": "Julia Avdeeva",
+      "elo": 1468.3,
+      "hElo": 1422.5,
+      "cElo": 1364.7,
+      "gElo": 1386.5,
+      "atpRank": 242
+    },
+    {
+      "name": "Alina Charaeva",
+      "elo": 1468.2,
+      "hElo": 1402.6,
+      "cElo": 1447.6,
+      "gElo": 1409.1,
+      "atpRank": 255
+    },
+    {
+      "name": "Carson Branstine",
+      "elo": 1467.3,
+      "hElo": 1477.2,
+      "cElo": 1347.7,
+      "gElo": 1408.6,
+      "atpRank": 204
+    },
+    {
+      "name": "Margaux Rouvroy",
+      "elo": 1467.1,
+      "hElo": 1393,
+      "cElo": 1439.5,
+      "gElo": 1408.5,
+      "atpRank": 250
+    },
+    {
+      "name": "Wushuang Zheng",
+      "elo": 1466.3,
+      "hElo": 1458.6,
+      "cElo": 1307.1,
+      "gElo": 1408.1,
+      "atpRank": 270
+    },
+    {
+      "name": "Raluka Serban",
+      "elo": 1466,
+      "hElo": 1413.9,
+      "cElo": 1458,
+      "gElo": 1368.9,
+      "atpRank": 213
+    },
+    {
+      "name": "Kristina Mladenovic",
+      "elo": 1465.7,
+      "hElo": 1449.8,
+      "cElo": 1410.1,
+      "gElo": 1439.6,
+      "atpRank": 262
+    },
+    {
+      "name": "Beatrice Ricci",
+      "elo": 1463.4,
+      "hElo": 1346.7,
+      "cElo": 1445.1,
+      "gElo": 1393.2,
+      "atpRank": 393
+    },
+    {
+      "name": "Hannah Klugman",
+      "elo": 1462.7,
+      "hElo": 1416.4,
+      "cElo": 1392.3,
+      "gElo": 1395.3,
+      "atpRank": 554
+    },
+    {
+      "name": "Amarissa Kiara Toth",
+      "elo": 1460,
+      "hElo": 1405.9,
+      "cElo": 1420.7,
+      "gElo": 1405,
+      "atpRank": 292
+    },
+    {
+      "name": "Yuliya Hatouka",
+      "elo": 1456.9,
+      "hElo": 1406,
+      "cElo": 1446.4,
+      "gElo": 1365,
+      "atpRank": 541
+    },
+    {
+      "name": "Tamira Paszek",
+      "elo": 1454.9,
+      "hElo": 1428.3,
+      "cElo": 1399.5,
+      "gElo": 1541,
+      "atpRank": 389
+    },
+    {
+      "name": "Harmony Tan",
+      "elo": 1454.9,
+      "hElo": 1419.4,
+      "cElo": 1373.8,
+      "gElo": 1486.6,
+      "atpRank": 283
+    },
+    {
+      "name": "Laura Pigossi",
+      "elo": 1454.6,
+      "hElo": 1433.4,
+      "cElo": 1449.5,
+      "gElo": 1346.2,
+      "atpRank": 183
+    },
+    {
+      "name": "Matilde Paoletti",
+      "elo": 1454.5,
+      "hElo": 1379.3,
+      "cElo": 1445.1,
+      "gElo": 1364.2,
+      "atpRank": 412
+    },
+    {
+      "name": "Katarina Zavatska",
+      "elo": 1452.3,
+      "hElo": 1377.8,
+      "cElo": 1443.9,
+      "gElo": 1387.9,
+      "atpRank": 280
+    },
+    {
+      "name": "Cristina Andreea Mitu",
+      "elo": 1452.1,
+      "hElo": 1349.4,
+      "cElo": 1443.2,
+      "gElo": 1362.1,
+      "atpRank": 604
+    },
+    {
+      "name": "Ekaterine Gorgodze",
+      "elo": 1452,
+      "hElo": 1355.6,
+      "cElo": 1448.9,
+      "gElo": 1425.7,
+      "atpRank": 303
+    },
+    {
+      "name": "Lian Tran",
+      "elo": 1450.4,
+      "hElo": 1397.4,
+      "cElo": 1379.1,
+      "gElo": 1400.2,
+      "atpRank": 360
+    },
+    {
+      "name": "Oleksandra Oliynykova",
+      "elo": 1450.4,
+      "hElo": 1294,
+      "cElo": 1449.6,
+      "gElo": 1400.2,
+      "atpRank": 259
+    },
+    {
+      "name": "Tina Nadine Smith",
+      "elo": 1447.7,
+      "hElo": 1415.4,
+      "cElo": 1418.5,
+      "gElo": 1398.9,
+      "atpRank": 316
+    },
+    {
+      "name": "Lina Gjorcheska",
+      "elo": 1446.8,
+      "hElo": 1389.6,
+      "cElo": 1448.1,
+      "gElo": 1409.2,
+      "atpRank": 293
+    },
+    {
+      "name": "Sohyun Park",
+      "elo": 1443.8,
+      "hElo": 1425.4,
+      "cElo": 1383.6,
+      "gElo": 1471.9,
+      "atpRank": 307
+    },
+    {
+      "name": "Han Shi",
+      "elo": 1443.1,
+      "hElo": 1404.9,
+      "cElo": 1466.2,
+      "gElo": 1396.5,
+      "atpRank": 209
+    },
+    {
+      "name": "Irene Burillo Escorihuela",
+      "elo": 1442.9,
+      "hElo": 1372.9,
+      "cElo": 1430.5,
+      "gElo": 1364,
+      "atpRank": 256
+    },
+    {
+      "name": "Anastasiya Soboleva",
+      "elo": 1440.7,
+      "hElo": 1382.1,
+      "cElo": 1440.8,
+      "gElo": 1356.5,
+      "atpRank": 223
+    },
+    {
+      "name": "Ylena In Albon",
+      "elo": 1440.1,
+      "hElo": 1357.7,
+      "cElo": 1427,
+      "gElo": 1385.7,
+      "atpRank": 319
+    },
+    {
+      "name": "Alevtina Ibragimova",
+      "elo": 1438.6,
+      "hElo": 1344.8,
+      "cElo": 1457.9,
+      "gElo": 1394.3,
+      "atpRank": 334
+    },
+    {
+      "name": "Hina Inoue",
+      "elo": 1437.7,
+      "hElo": 1417.1,
+      "cElo": 1290.4,
+      "gElo": 1393.8,
+      "atpRank": 217
+    },
+    {
+      "name": "Marina Melnikova",
+      "elo": 1436.8,
+      "hElo": 1405.8,
+      "cElo": 1394.5,
+      "gElo": 1393.1,
+      "atpRank": 590
+    },
+    {
+      "name": "Justina Mikulskyte",
+      "elo": 1435.4,
+      "hElo": 1412.4,
+      "cElo": 1410.5,
+      "gElo": 1362.6,
+      "atpRank": 225
+    },
+    {
+      "name": "Mei Yamaguchi",
+      "elo": 1433,
+      "hElo": 1421.4,
+      "cElo": 1314.4,
+      "gElo": 1368.8,
+      "atpRank": 258
+    },
+    {
+      "name": "Robin Anderson",
+      "elo": 1432.8,
+      "hElo": 1414.2,
+      "cElo": 1362.3,
+      "gElo": 1366.1,
+      "atpRank": 375
+    },
+    {
+      "name": "Renata Jamrichova",
+      "elo": 1431.9,
+      "hElo": 1416.1,
+      "cElo": 1383.5,
+      "gElo": 1349.4,
+      "atpRank": 332
+    },
+    {
+      "name": "Usue Maitane Arconada",
+      "elo": 1431.7,
+      "hElo": 1422.5,
+      "cElo": 1310.3,
+      "gElo": 1376.9,
+      "atpRank": 420
+    },
+    {
+      "name": "Elizabeth Mandlik",
+      "elo": 1431.3,
+      "hElo": 1438.5,
+      "cElo": 1375.1,
+      "gElo": 1426.8,
+      "atpRank": 245
+    },
+    {
+      "name": "Liv Hovde",
+      "elo": 1431.2,
+      "hElo": 1426.4,
+      "cElo": 1332.9,
+      "gElo": 1360.1,
+      "atpRank": 441
+    },
+    {
+      "name": "Valeria Savinykh",
+      "elo": 1429.6,
+      "hElo": 1402.5,
+      "cElo": 1290.2,
+      "gElo": 1357.5,
+      "atpRank": 760
+    },
+    {
+      "name": "Xinxin Yao",
+      "elo": 1428.7,
+      "hElo": 1405.8,
+      "cElo": 1293.5,
+      "gElo": 1389.4,
+      "atpRank": 224
+    },
+    {
+      "name": "Tena Lukas",
+      "elo": 1427.5,
+      "hElo": 1340.4,
+      "cElo": 1435.4,
+      "gElo": 1366.9,
+      "atpRank": 296
+    },
+    {
+      "name": "Ana Sofia Sanchez",
+      "elo": 1426.5,
+      "hElo": 1406.9,
+      "cElo": 1328.9,
+      "gElo": 1388.3,
+      "atpRank": 286
+    },
+    {
+      "name": "Akasha Urhobo",
+      "elo": 1426.4,
+      "hElo": 1364.4,
+      "cElo": 1419.8,
+      "gElo": 1388.2,
+      "atpRank": 284
+    },
+    {
+      "name": "Kateryna Bondarenko",
+      "elo": 1426.3,
+      "hElo": 1404.7,
+      "cElo": 1384.6,
+      "gElo": 1459,
+      "atpRank": 584
+    },
+    {
+      "name": "Allie Kiick",
+      "elo": 1426.2,
+      "hElo": 1430.4,
+      "cElo": 1386,
+      "gElo": 1371.2,
+      "atpRank": 472
+    },
+    {
+      "name": "Jaimee Fourlis",
+      "elo": 1425.7,
+      "hElo": 1375.6,
+      "cElo": 1391.8,
+      "gElo": 1456.9,
+      "atpRank": 353
+    },
+    {
+      "name": "Makenna Jones",
+      "elo": 1425,
+      "hElo": 1446.5,
+      "cElo": 1360.8,
+      "gElo": 1387.5,
+      "atpRank": 669
+    },
+    {
+      "name": "Fangran Tian",
+      "elo": 1423.4,
+      "hElo": 1412.5,
+      "cElo": 1326.7,
+      "gElo": 1386.7,
+      "atpRank": 431
+    },
+    {
+      "name": "Cadence Brace",
+      "elo": 1423.3,
+      "hElo": 1425.5,
+      "cElo": 1223,
+      "gElo": 1386.6,
+      "atpRank": 300
+    },
+    {
+      "name": "Zongyu Li",
+      "elo": 1423,
+      "hElo": 1386.4,
+      "cElo": 1411.1,
+      "gElo": 1386.5,
+      "atpRank": 328
+    },
+    {
+      "name": "Despina Papamichail",
+      "elo": 1422.3,
+      "hElo": 1386.8,
+      "cElo": 1381.3,
+      "gElo": 1411.6,
+      "atpRank": 257
+    },
+    {
+      "name": "Emeline Dartron",
+      "elo": 1422,
+      "hElo": 1405.4,
+      "cElo": 1351.1,
+      "gElo": 1386,
+      "atpRank": 323
+    },
+    {
+      "name": "Selena Janicijevic",
+      "elo": 1421.7,
+      "hElo": 1403.5,
+      "cElo": 1397.3,
+      "gElo": 1395.8,
+      "atpRank": 198
+    },
+    {
+      "name": "Daria Kudashova",
+      "elo": 1421.6,
+      "hElo": 1402.4,
+      "cElo": 1335.1,
+      "gElo": 1385.8,
+      "atpRank": 382
+    },
+    {
+      "name": "Mingge Xu",
+      "elo": 1421.2,
+      "hElo": 1406,
+      "cElo": 1325.6,
+      "gElo": 1295.2,
+      "atpRank": 426
+    },
+    {
+      "name": "Kyoka Okamura",
+      "elo": 1420.4,
+      "hElo": 1399.5,
+      "cElo": 1236.1,
+      "gElo": 1521.7,
+      "atpRank": 185
+    },
+    {
+      "name": "Diana Martynov",
+      "elo": 1419.8,
+      "hElo": 1379.1,
+      "cElo": 1382.9,
+      "gElo": 1384.9,
+      "atpRank": 400
+    },
+    {
+      "name": "Jazmin Ortenzi",
+      "elo": 1419.1,
+      "hElo": 1375.7,
+      "cElo": 1392.7,
+      "gElo": 1384.6,
+      "atpRank": 240
+    },
+    {
+      "name": "Laura Samson",
+      "elo": 1418.7,
+      "hElo": 1381,
+      "cElo": 1395.3,
+      "gElo": 1384.4,
+      "atpRank": 337
+    },
+    {
+      "name": "Martyna Kubka",
+      "elo": 1418.5,
+      "hElo": 1388.2,
+      "cElo": 1339.1,
+      "gElo": 1384.3,
+      "atpRank": 378
+    },
+    {
+      "name": "Ipek Oz",
+      "elo": 1418.3,
+      "hElo": 1391.3,
+      "cElo": 1398.6,
+      "gElo": 1353.2,
+      "atpRank": 291
+    },
+    {
+      "name": "Ziva Falkner",
+      "elo": 1417.7,
+      "hElo": 1413.4,
+      "cElo": 1409.8,
+      "gElo": 1458.9,
+      "atpRank": 468
+    },
+    {
+      "name": "Angela Fita Boluda",
+      "elo": 1416.9,
+      "hElo": 1322.1,
+      "cElo": 1398.4,
+      "gElo": 1383.4,
+      "atpRank": 232
+    },
+    {
+      "name": "Jesika Maleckova",
+      "elo": 1415.6,
+      "hElo": 1344,
+      "cElo": 1407.6,
+      "gElo": 1337.1,
+      "atpRank": 416
+    },
+    {
+      "name": "Valeriya Strakhova",
+      "elo": 1415.4,
+      "hElo": 1282.9,
+      "cElo": 1417,
+      "gElo": 1382.7,
+      "atpRank": 247
+    },
+    {
+      "name": "Amandine Monnot",
+      "elo": 1415,
+      "hElo": 1363.3,
+      "cElo": 1369.4,
+      "gElo": 1382.5,
+      "atpRank": 446
+    },
+    {
+      "name": "Meiling Wang",
+      "elo": 1409,
+      "hElo": 1385.1,
+      "cElo": 1331.8,
+      "gElo": 1379.5,
+      "atpRank": 343
+    },
+    {
+      "name": "Seone Mendez",
+      "elo": 1407.3,
+      "hElo": 1344.8,
+      "cElo": 1384.7,
+      "gElo": 1345.8,
+      "atpRank": 605
+    },
+    {
+      "name": "Darja Vidmanova",
+      "elo": 1406.8,
+      "hElo": 1389.5,
+      "cElo": 1359.3,
+      "gElo": 1378.4,
+      "atpRank": 336
+    },
+    {
+      "name": "Lina Glushko",
+      "elo": 1406,
+      "hElo": 1382.3,
+      "cElo": 1375.4,
+      "gElo": 1432.5,
+      "atpRank": 228
+    },
+    {
+      "name": "Irina Bara",
+      "elo": 1405.9,
+      "hElo": 1342.5,
+      "cElo": 1392.4,
+      "gElo": 1309.7,
+      "atpRank": 281
+    },
+    {
+      "name": "Elvina Kalieva",
+      "elo": 1405.9,
+      "hElo": 1318.5,
+      "cElo": 1423.8,
+      "gElo": 1310.7,
+      "atpRank": 266
+    },
+    {
+      "name": "Fanny Stollar",
+      "elo": 1405.5,
+      "hElo": 1379,
+      "cElo": 1379.9,
+      "gElo": 1326.8,
+      "atpRank": 589
+    },
+    {
+      "name": "Xiaodi You",
+      "elo": 1404.5,
+      "hElo": 1387.6,
+      "cElo": 1344.4,
+      "gElo": 1320.9,
+      "atpRank": 339
+    },
+    {
+      "name": "Anastasia Tikhonova",
+      "elo": 1404.2,
+      "hElo": 1367.4,
+      "cElo": 1395,
+      "gElo": 1417.5,
+      "atpRank": 346
+    },
+    {
+      "name": "Jenny Duerst",
+      "elo": 1402.3,
+      "hElo": 1357.1,
+      "cElo": 1403.5,
+      "gElo": 1376.2,
+      "atpRank": 359
+    },
+    {
+      "name": "Tara Wurth",
+      "elo": 1400.3,
+      "hElo": 1311.8,
+      "cElo": 1397,
+      "gElo": 1375.2,
+      "atpRank": 260
+    },
+    {
+      "name": "Vivian Wolff",
+      "elo": 1399.2,
+      "hElo": 1379.8,
+      "cElo": 1331.1,
+      "gElo": 1374.6,
+      "atpRank": 387
+    },
+    {
+      "name": "Stacey Fung",
+      "elo": 1397.7,
+      "hElo": 1385.6,
+      "cElo": 1301.7,
+      "gElo": 1373.9,
+      "atpRank": 288
+    },
+    {
+      "name": "Sara Cakarevic",
+      "elo": 1397.4,
+      "hElo": 1342.2,
+      "cElo": 1354.7,
+      "gElo": 1373.7,
+      "atpRank": 362
+    },
+    {
+      "name": "Francisca Jorge",
+      "elo": 1396.3,
+      "hElo": 1350.7,
+      "cElo": 1392,
+      "gElo": 1403.2,
+      "atpRank": 277
+    },
+    {
+      "name": "Martina Okalova",
+      "elo": 1395.5,
+      "hElo": 1330.2,
+      "cElo": 1368.9,
+      "gElo": 1372.7,
+      "atpRank": 494
+    },
+    {
+      "name": "Carol Zhao",
+      "elo": 1395.1,
+      "hElo": 1396.6,
+      "cElo": 1316.4,
+      "gElo": 1357,
+      "atpRank": 254
+    },
+    {
+      "name": "Aneta Kladivova",
+      "elo": 1391,
+      "hElo": 1301.2,
+      "cElo": 1410.7,
+      "gElo": 1370.5,
+      "atpRank": 347
+    },
+    {
+      "name": "Ayana Akli",
+      "elo": 1389.9,
+      "hElo": 1375.3,
+      "cElo": 1326.1,
+      "gElo": 1369.9,
+      "atpRank": 463
+    },
+    {
+      "name": "Ekaterina Maklakova",
+      "elo": 1389.6,
+      "hElo": 1365.3,
+      "cElo": 1333.1,
+      "gElo": 1369.8,
+      "atpRank": 551
+    },
+    {
+      "name": "Eva Guerrero Alvarez",
+      "elo": 1389.6,
+      "hElo": 1351.1,
+      "cElo": 1364.5,
+      "gElo": 1347.8,
+      "atpRank": 528
+    },
+    {
+      "name": "Carolina Alves",
+      "elo": 1389.2,
+      "hElo": 1349.9,
+      "cElo": 1373.2,
+      "gElo": 1321,
+      "atpRank": 271
+    },
+    {
+      "name": "Alexandra Shubladze",
+      "elo": 1387.5,
+      "hElo": 1384,
+      "cElo": 1311.2,
+      "gElo": 1368.7,
+      "atpRank": 477
+    },
+    {
+      "name": "Elena Malygina",
+      "elo": 1387.5,
+      "hElo": 1356,
+      "cElo": 1353.3,
+      "gElo": 1443.7,
+      "atpRank": 478
+    },
+    {
+      "name": "Fangzhou Liu",
+      "elo": 1387.1,
+      "hElo": 1369.2,
+      "cElo": 1242.5,
+      "gElo": 1328.4,
+      "atpRank": 395
+    },
+    {
+      "name": "Zhibek Kulambayeva",
+      "elo": 1386.5,
+      "hElo": 1259,
+      "cElo": 1387.4,
+      "gElo": 1368.3,
+      "atpRank": 314
+    },
+    {
+      "name": "Katrina Scott",
+      "elo": 1384.1,
+      "hElo": 1361.8,
+      "cElo": 1326.4,
+      "gElo": 1314.3,
+      "atpRank": 390
+    },
+    {
+      "name": "Priska Madelyn Nugroho",
+      "elo": 1383.8,
+      "hElo": 1350.3,
+      "cElo": 1441.9,
+      "gElo": 1441.9,
+      "atpRank": 310
+    },
+    {
+      "name": "Georgia Pedone",
+      "elo": 1383.5,
+      "hElo": 1206.8,
+      "cElo": 1419.4,
+      "gElo": 1359.1,
+      "atpRank": 237
+    },
+    {
+      "name": "Isabella Shinikova",
+      "elo": 1382.9,
+      "hElo": 1393.1,
+      "cElo": 1289.2,
+      "gElo": 1289.3,
+      "atpRank": 345
+    },
+    {
+      "name": "Jia Jing Lu",
+      "elo": 1382.1,
+      "hElo": 1354.1,
+      "cElo": 1344.4,
+      "gElo": 1281.6,
+      "atpRank": 275
+    },
+    {
+      "name": "Vaidehi Chaudhari",
+      "elo": 1380,
+      "hElo": 1363.5,
+      "cElo": 1440,
+      "gElo": 1440,
+      "atpRank": 361
+    },
+    {
+      "name": "Amandine Hesse",
+      "elo": 1378,
+      "hElo": 1350.2,
+      "cElo": 1337.2,
+      "gElo": 1305.5,
+      "atpRank": 282
+    },
+    {
+      "name": "Shrivalli Rashmikaa Bhamidipaty",
+      "elo": 1374,
+      "hElo": 1350.7,
+      "cElo": 1302,
+      "gElo": 1362,
+      "atpRank": 344
+    },
+    {
+      "name": "Petra Hule",
+      "elo": 1373,
+      "hElo": 1353.7,
+      "cElo": 1332.2,
+      "gElo": 1361.5,
+      "atpRank": 348
+    },
+    {
+      "name": "Emily Appleton",
+      "elo": 1367.4,
+      "hElo": 1347.1,
+      "cElo": 1256.5,
+      "gElo": 1338.1,
+      "atpRank": 372
+    },
+    {
+      "name": "Sahaja Yamalapalli",
+      "elo": 1366.3,
+      "hElo": 1343.4,
+      "cElo": 1264,
+      "gElo": 1358.2,
+      "atpRank": 320
+    },
+    {
+      "name": "Urszula Radwanska",
+      "elo": 1366.2,
+      "hElo": 1339.8,
+      "cElo": 1370.8,
+      "gElo": 1355.4,
+      "atpRank": 424
+    },
+    {
+      "name": "Dejana Radanovic",
+      "elo": 1365.6,
+      "hElo": 1276.4,
+      "cElo": 1366.1,
+      "gElo": 1334.6,
+      "atpRank": 473
+    },
+    {
+      "name": "Gabriela Lee",
+      "elo": 1364.6,
+      "hElo": 1284.9,
+      "cElo": 1367.1,
+      "gElo": 1290,
+      "atpRank": 434
+    },
+    {
+      "name": "Stephanie Wagner",
+      "elo": 1364.2,
+      "hElo": 1314.8,
+      "cElo": 1371,
+      "gElo": 1329.4,
+      "atpRank": 415
+    },
+    {
+      "name": "Nastasja Schunk",
+      "elo": 1362.5,
+      "hElo": 1344.8,
+      "cElo": 1336.4,
+      "gElo": 1445.1,
+      "atpRank": 324
+    },
+    {
+      "name": "Karina Miller",
+      "elo": 1362.4,
+      "hElo": 1363.3,
+      "cElo": 1267.5,
+      "gElo": 1356.2,
+      "atpRank": 318
+    },
+    {
+      "name": "Kajsa Rinaldo Persson",
+      "elo": 1360.2,
+      "hElo": 1364.2,
+      "cElo": 1282,
+      "gElo": 1355.1,
+      "atpRank": 294
+    },
+    {
+      "name": "Misaki Matsuda",
+      "elo": 1360.1,
+      "hElo": 1338.7,
+      "cElo": 1351.5,
+      "gElo": 1355.1,
+      "atpRank": 522
+    },
+    {
+      "name": "Elena Micic",
+      "elo": 1359.4,
+      "hElo": 1336.5,
+      "cElo": 1264.6,
+      "gElo": 1354.7,
+      "atpRank": 354
+    },
+    {
+      "name": "Polina Iatcenko",
+      "elo": 1359.3,
+      "hElo": 1347.7,
+      "cElo": 1294.7,
+      "gElo": 1354.7,
+      "atpRank": 418
+    },
+    {
+      "name": "Mia Ristic",
+      "elo": 1359.3,
+      "hElo": 1317.5,
+      "cElo": 1332,
+      "gElo": 1354.7,
+      "atpRank": 370
+    },
+    {
+      "name": "Eden Silva",
+      "elo": 1359.3,
+      "hElo": 1299.8,
+      "cElo": 1328.5,
+      "gElo": 1281.3,
+      "atpRank": 929
+    },
+    {
+      "name": "Miriam Bianca Bulgaru",
+      "elo": 1356.7,
+      "hElo": 1278,
+      "cElo": 1359.1,
+      "gElo": 1336.7,
+      "atpRank": 214
+    },
+    {
+      "name": "Astrid Lew Yan Foon",
+      "elo": 1355.8,
+      "hElo": 1268.4,
+      "cElo": 1342.2,
+      "gElo": 1352.9,
+      "atpRank": 490
+    },
+    {
+      "name": "Malene Helgo",
+      "elo": 1355,
+      "hElo": 1366.8,
+      "cElo": 1296.2,
+      "gElo": 1427.5,
+      "atpRank": 428
+    },
+    {
+      "name": "Yaroslava Bartashevich",
+      "elo": 1354.6,
+      "hElo": 1304.3,
+      "cElo": 1325,
+      "gElo": 1352.3,
+      "atpRank": 487
+    },
+    {
+      "name": "Sophie Chang",
+      "elo": 1354.4,
+      "hElo": 1339.8,
+      "cElo": 1315.7,
+      "gElo": 1341.6,
+      "atpRank": 263
+    },
+    {
+      "name": "Matilde Jorge",
+      "elo": 1353.7,
+      "hElo": 1326.3,
+      "cElo": 1329.2,
+      "gElo": 1351.8,
+      "atpRank": 295
+    },
+    {
+      "name": "Conny Perrin",
+      "elo": 1353.2,
+      "hElo": 1248.8,
+      "cElo": 1361.4,
+      "gElo": 1383.5,
+      "atpRank": 678
+    },
+    {
+      "name": "Maria Mateas",
+      "elo": 1352.4,
+      "hElo": 1334.2,
+      "cElo": 1304.6,
+      "gElo": 1426.2,
+      "atpRank": 236
+    },
+    {
+      "name": "Ankita Raina",
+      "elo": 1352.1,
+      "hElo": 1318.7,
+      "cElo": 1362.5,
+      "gElo": 1312.7,
+      "atpRank": 306
+    },
+    {
+      "name": "Anna Sinclair Rogers",
+      "elo": 1350.5,
+      "hElo": 1325,
+      "cElo": 1284,
+      "gElo": 1350.2,
+      "atpRank": 272
+    },
+    {
+      "name": "Cagla Buyukakcay",
+      "elo": 1347.4,
+      "hElo": 1351.4,
+      "cElo": 1319.9,
+      "gElo": 1238,
+      "atpRank": 342
+    },
+    {
+      "name": "Evialina Laskevich",
+      "elo": 1345.1,
+      "hElo": 1340.7,
+      "cElo": 1250.9,
+      "gElo": 1347.6,
+      "atpRank": 384
+    },
+    {
+      "name": "Leonie Kung",
+      "elo": 1344.4,
+      "hElo": 1349,
+      "cElo": 1267.6,
+      "gElo": 1316.2,
+      "atpRank": 229
+    },
+    {
+      "name": "Ayano Shimizu",
+      "elo": 1344.4,
+      "hElo": 1301.3,
+      "cElo": 1272.2,
+      "gElo": 1357.3,
+      "atpRank": 290
+    },
+    {
+      "name": "Lia Karatancheva",
+      "elo": 1343.3,
+      "hElo": 1246.8,
+      "cElo": 1348.6,
+      "gElo": 1346.6,
+      "atpRank": 313
+    },
+    {
+      "name": "Audrey Albie",
+      "elo": 1343.1,
+      "hElo": 1361.4,
+      "cElo": 1260.5,
+      "gElo": 1346.6,
+      "atpRank": 438
+    },
+    {
+      "name": "Gina Feistel",
+      "elo": 1343.1,
+      "hElo": 1267.5,
+      "cElo": 1361.4,
+      "gElo": 1346.6,
+      "atpRank": 317
+    },
+    {
+      "name": "Thaisa Grana Pedretti",
+      "elo": 1342.9,
+      "hElo": 1324.3,
+      "cElo": 1313.3,
+      "gElo": 1346.5,
+      "atpRank": 564
+    },
+    {
+      "name": "Jamie Loeb",
+      "elo": 1341.3,
+      "hElo": 1307.9,
+      "cElo": 1308.8,
+      "gElo": 1306.7,
+      "atpRank": 479
+    },
+    {
+      "name": "Alice Tubello",
+      "elo": 1340.5,
+      "hElo": 1321.5,
+      "cElo": 1316.2,
+      "gElo": 1345.2,
+      "atpRank": 305
+    },
+    {
+      "name": "Julie Struplova",
+      "elo": 1340,
+      "hElo": 1295.4,
+      "cElo": 1322.6,
+      "gElo": 1345,
+      "atpRank": 329
+    },
+    {
+      "name": "Dalila Jakupovic",
+      "elo": 1338.2,
+      "hElo": 1347.2,
+      "cElo": 1300,
+      "gElo": 1305.5,
+      "atpRank": 312
+    },
+    {
+      "name": "Lucija Ciric Bagaric",
+      "elo": 1338,
+      "hElo": 1296.7,
+      "cElo": 1322.2,
+      "gElo": 1319.7,
+      "atpRank": 304
+    },
+    {
+      "name": "Anna Siskova",
+      "elo": 1338,
+      "hElo": 1272.6,
+      "cElo": 1328.4,
+      "gElo": 1271.3,
+      "atpRank": 474
+    },
+    {
+      "name": "Mina Hodzic",
+      "elo": 1336.5,
+      "hElo": 1301.9,
+      "cElo": 1291.2,
+      "gElo": 1343.3,
+      "atpRank": 430
+    },
+    {
+      "name": "Ekaterina Reyngold",
+      "elo": 1335.6,
+      "hElo": 1340.2,
+      "cElo": 1234.8,
+      "gElo": 1342.8,
+      "atpRank": 644
+    },
+    {
+      "name": "Gergana Topalova",
+      "elo": 1334.7,
+      "hElo": 1178.9,
+      "cElo": 1325.4,
+      "gElo": 1332.2,
+      "atpRank": 363
+    },
+    {
+      "name": "Carolina Kuhl",
+      "elo": 1334.5,
+      "hElo": 1255.6,
+      "cElo": 1329.3,
+      "gElo": 1342.3,
+      "atpRank": 422
+    },
+    {
+      "name": "Ayla Aksu",
+      "elo": 1333.3,
+      "hElo": 1330.3,
+      "cElo": 1284.6,
+      "gElo": 1341.6,
+      "atpRank": 311
+    },
+    {
+      "name": "Anastasia Kulikova",
+      "elo": 1331.3,
+      "hElo": 1319.9,
+      "cElo": 1328.6,
+      "gElo": 1323.7,
+      "atpRank": 367
+    },
+    {
+      "name": "Valentini Grammatikopoulou",
+      "elo": 1331.1,
+      "hElo": 1303.4,
+      "cElo": 1325.4,
+      "gElo": 1270.8,
+      "atpRank": 526
+    },
+    {
+      "name": "Ye Xin Ma",
+      "elo": 1329.2,
+      "hElo": 1304.4,
+      "cElo": 1185.7,
+      "gElo": 1345.3,
+      "atpRank": 243
+    },
+    {
+      "name": "Natalija Stevanovic",
+      "elo": 1328,
+      "hElo": 1281.5,
+      "cElo": 1366.7,
+      "gElo": 1389.4,
+      "atpRank": 440
+    },
+    {
+      "name": "Maria Kozyreva",
+      "elo": 1324.6,
+      "hElo": 1308.8,
+      "cElo": 1313,
+      "gElo": 1337.3,
+      "atpRank": 556
+    },
+    {
+      "name": "Lucia Cortez Llorca",
+      "elo": 1321.2,
+      "hElo": 1231.4,
+      "cElo": 1355.3,
+      "gElo": 1335.6,
+      "atpRank": 358
+    },
+    {
+      "name": "Julie Belgraver",
+      "elo": 1320.9,
+      "hElo": 1319.9,
+      "cElo": 1195.4,
+      "gElo": 1335.4,
+      "atpRank": 350
+    },
+    {
+      "name": "Natsumi Kawaguchi",
+      "elo": 1320.3,
+      "hElo": 1273.8,
+      "cElo": 1275.1,
+      "gElo": 1304.6,
+      "atpRank": 608
+    },
+    {
+      "name": "Anastasiia Gureva",
+      "elo": 1317.6,
+      "hElo": 1338,
+      "cElo": 1211.1,
+      "gElo": 1333.8,
+      "atpRank": 639
+    },
+    {
+      "name": "Ruien Zhang",
+      "elo": 1315,
+      "hElo": 1301.5,
+      "cElo": 1272.5,
+      "gElo": 1332.5,
+      "atpRank": 701
+    },
+    {
+      "name": "Ikumi Yamazaki",
+      "elo": 1314.1,
+      "hElo": 1308.2,
+      "cElo": 1272,
+      "gElo": 1332,
+      "atpRank": 402
+    },
+    {
+      "name": "Hong Yi Cody Wong",
+      "elo": 1313.5,
+      "hElo": 1279.6,
+      "cElo": 1287.7,
+      "gElo": 1331.8,
+      "atpRank": 386
+    },
+    {
+      "name": "Alicia Herrero Linana",
+      "elo": 1313.5,
+      "hElo": 1240.4,
+      "cElo": 1305.1,
+      "gElo": 1331.8,
+      "atpRank": 520
+    },
+    {
+      "name": "Cristina Dinu",
+      "elo": 1313,
+      "hElo": 1260.7,
+      "cElo": 1285.3,
+      "gElo": 1282.8,
+      "atpRank": 404
+    },
+    {
+      "name": "Rutuja Bhosale",
+      "elo": 1312.4,
+      "hElo": 1294.6,
+      "cElo": 1301.1,
+      "gElo": 1406.2,
+      "atpRank": 574
+    },
+    {
+      "name": "Jacqueline Cabaj Awad",
+      "elo": 1312.1,
+      "hElo": 1317.1,
+      "cElo": 1191.1,
+      "gElo": 1331.1,
+      "atpRank": 456
+    },
+    {
+      "name": "Tatiana Pieri",
+      "elo": 1312.1,
+      "hElo": 1278.8,
+      "cElo": 1277.4,
+      "gElo": 1331.1,
+      "atpRank": 398
+    },
+    {
+      "name": "Diletta Cherubini",
+      "elo": 1310.7,
+      "hElo": 1270.4,
+      "cElo": 1286.1,
+      "gElo": 1330.4,
+      "atpRank": 465
+    },
+    {
+      "name": "Georgia Andreea Craciun",
+      "elo": 1309.8,
+      "hElo": 1202.9,
+      "cElo": 1340.4,
+      "gElo": 1329.9,
+      "atpRank": 369
+    },
+    {
+      "name": "Olga Helmi",
+      "elo": 1308.8,
+      "hElo": 1286.7,
+      "cElo": 1269.4,
+      "gElo": 1329.4,
+      "atpRank": 553
+    },
+    {
+      "name": "Jessica Pieri",
+      "elo": 1307.8,
+      "hElo": 1246.5,
+      "cElo": 1288,
+      "gElo": 1318.4,
+      "atpRank": 403
+    },
+    {
+      "name": "Sarah Beth Grey",
+      "elo": 1306.2,
+      "hElo": 1307.6,
+      "cElo": 1250,
+      "gElo": 1215.5,
+      "atpRank": 521
+    },
+    {
+      "name": "Nicole Fossa Huergo",
+      "elo": 1306.1,
+      "hElo": 1238.7,
+      "cElo": 1296.7,
+      "gElo": 1328,
+      "atpRank": 264
+    },
+    {
+      "name": "Madison Sieg",
+      "elo": 1302.3,
+      "hElo": 1287.7,
+      "cElo": 1224.8,
+      "gElo": 1326.2,
+      "atpRank": 357
+    },
+    {
+      "name": "Jada Robinson",
+      "elo": 1299.5,
+      "hElo": 1265.4,
+      "cElo": 1287.4,
+      "gElo": 1324.8,
+      "atpRank": 543
+    },
+    {
+      "name": "Miriana Tona",
+      "elo": 1298.7,
+      "hElo": 1247.8,
+      "cElo": 1287.5,
+      "gElo": 1324.4,
+      "atpRank": 409
+    },
+    {
+      "name": "Julia Middendorf",
+      "elo": 1297.6,
+      "hElo": 1297.9,
+      "cElo": 1309,
+      "gElo": 1347,
+      "atpRank": 650
+    },
+    {
+      "name": "Jasmijn Gimbrere",
+      "elo": 1297.3,
+      "hElo": 1276.6,
+      "cElo": 1282.3,
+      "gElo": 1280.2,
+      "atpRank": 518
+    },
+    {
+      "name": "Ekaterina Kazionova",
+      "elo": 1296,
+      "hElo": 1244.7,
+      "cElo": 1291.2,
+      "gElo": 1302.1,
+      "atpRank": 480
+    },
+    {
+      "name": "Ekaterina Makarova",
+      "elo": 1295.6,
+      "hElo": 1243.8,
+      "cElo": 1296.7,
+      "gElo": 1232.8,
+      "atpRank": 218
+    },
+    {
+      "name": "Jiaqi Wang",
+      "elo": 1294,
+      "hElo": 1268.9,
+      "cElo": 1293.9,
+      "gElo": 1322,
+      "atpRank": 557
+    },
+    {
+      "name": "Rinon Okuwaki",
+      "elo": 1293.6,
+      "hElo": 1286.5,
+      "cElo": 1206.5,
+      "gElo": 1321.8,
+      "atpRank": 566
+    },
+    {
+      "name": "Iva Primorac",
+      "elo": 1292.9,
+      "hElo": 1219,
+      "cElo": 1334.4,
+      "gElo": 1321.4,
+      "atpRank": 388
+    },
+    {
+      "name": "Alice Rame",
+      "elo": 1292.7,
+      "hElo": 1203.7,
+      "cElo": 1267.3,
+      "gElo": 1321.3,
+      "atpRank": 364
+    },
+    {
+      "name": "Eudice Wong Chong",
+      "elo": 1292,
+      "hElo": 1271.3,
+      "cElo": 1301.7,
+      "gElo": 1396,
+      "atpRank": 374
+    },
+    {
+      "name": "Ella Mcdonald",
+      "elo": 1291.6,
+      "hElo": 1252.2,
+      "cElo": 1260.8,
+      "gElo": 1341.4,
+      "atpRank": 379
+    },
+    {
+      "name": "Maria Sara Popa",
+      "elo": 1291.5,
+      "hElo": 1213.3,
+      "cElo": 1287.3,
+      "gElo": 1320.8,
+      "atpRank": 679
+    },
+    {
+      "name": "Jenny Lim",
+      "elo": 1289.9,
+      "hElo": 1243.7,
+      "cElo": 1279.6,
+      "gElo": 1319.9,
+      "atpRank": 527
+    },
+    {
+      "name": "Rasheeda Mcadoo",
+      "elo": 1287.8,
+      "hElo": 1264.9,
+      "cElo": 1209.7,
+      "gElo": 1318.9,
+      "atpRank": 493
+    },
+    {
+      "name": "Thasaporn Naklo",
+      "elo": 1286.5,
+      "hElo": 1266.8,
+      "cElo": 1258.3,
+      "gElo": 1318.3,
+      "atpRank": 406
+    },
+    {
+      "name": "Melisa Ercan",
+      "elo": 1285.4,
+      "hElo": 1267.4,
+      "cElo": 1237,
+      "gElo": 1317.7,
+      "atpRank": 394
+    },
+    {
+      "name": "Sakura Hosogi",
+      "elo": 1284.5,
+      "hElo": 1266.2,
+      "cElo": 1237.4,
+      "gElo": 1317.2,
+      "atpRank": 349
+    },
+    {
+      "name": "Naiktha Bains",
+      "elo": 1283.6,
+      "hElo": 1233,
+      "cElo": 1272.2,
+      "gElo": 1292.3,
+      "atpRank": 483
+    },
+    {
+      "name": "Yufei Ren",
+      "elo": 1283.2,
+      "hElo": 1288.8,
+      "cElo": 1230.2,
+      "gElo": 1316.6,
+      "atpRank": 533
+    },
+    {
+      "name": "Alice Robbe",
+      "elo": 1282.1,
+      "hElo": 1219.6,
+      "cElo": 1362.7,
+      "gElo": 1305.3,
+      "atpRank": 552
+    },
+    {
+      "name": "Lea Ma",
+      "elo": 1281.9,
+      "hElo": 1273.6,
+      "cElo": 1217.2,
+      "gElo": 1315.9,
+      "atpRank": 380
+    },
+    {
+      "name": "Alexandra Bozovic",
+      "elo": 1281.8,
+      "hElo": 1259,
+      "cElo": 1207.4,
+      "gElo": 1315.9,
+      "atpRank": 454
+    },
+    {
+      "name": "Amelia Rajecki",
+      "elo": 1279.9,
+      "hElo": 1224.3,
+      "cElo": 1255,
+      "gElo": 1291.2,
+      "atpRank": 459
+    },
+    {
+      "name": "Anastasia Zolotareva",
+      "elo": 1279.3,
+      "hElo": 1310.8,
+      "cElo": 1174.2,
+      "gElo": 1314.6,
+      "atpRank": 449
+    },
+    {
+      "name": "Radka Zelnickova",
+      "elo": 1277.9,
+      "hElo": 1235.6,
+      "cElo": 1207.2,
+      "gElo": 1314,
+      "atpRank": 445
+    },
+    {
+      "name": "Sofya Lansere",
+      "elo": 1277.1,
+      "hElo": 1291.9,
+      "cElo": 1219.2,
+      "gElo": 1313.5,
+      "atpRank": 711
+    },
+    {
+      "name": "Dalayna Hewitt",
+      "elo": 1273.4,
+      "hElo": 1252.8,
+      "cElo": 1206.4,
+      "gElo": 1311.7,
+      "atpRank": 651
+    },
+    {
+      "name": "Sapfo Sakellaridi",
+      "elo": 1271,
+      "hElo": 1145.8,
+      "cElo": 1280.5,
+      "gElo": 1310.5,
+      "atpRank": 391
+    },
+    {
+      "name": "Amina Anshba",
+      "elo": 1269.4,
+      "hElo": 1216.1,
+      "cElo": 1229.3,
+      "gElo": 1309.7,
+      "atpRank": 537
+    },
+    {
+      "name": "Victoria Rodriguez",
+      "elo": 1268,
+      "hElo": 1260.7,
+      "cElo": 1234.7,
+      "gElo": 1309,
+      "atpRank": 396
+    },
+    {
+      "name": "Hikaru Sato",
+      "elo": 1268,
+      "hElo": 1255.4,
+      "cElo": 1249,
+      "gElo": 1309,
+      "atpRank": 352
+    },
+    {
+      "name": "Nahia Berecoechea",
+      "elo": 1268,
+      "hElo": 1250,
+      "cElo": 1212.5,
+      "gElo": 1309,
+      "atpRank": 467
+    },
+    {
+      "name": "Jana Kolodynska",
+      "elo": 1267.8,
+      "hElo": 1285.4,
+      "cElo": 1173.8,
+      "gElo": 1270.1,
+      "atpRank": 672
+    },
+    {
+      "name": "Sofia Rocchetti",
+      "elo": 1267.6,
+      "hElo": 1234.3,
+      "cElo": 1265,
+      "gElo": 1308.8,
+      "atpRank": 499
+    },
+    {
+      "name": "Andreea Prisacariu",
+      "elo": 1265.4,
+      "hElo": 1235.8,
+      "cElo": 1240.6,
+      "gElo": 1307.7,
+      "atpRank": 481
+    },
+    {
+      "name": "Carlota Martinez Cirez",
+      "elo": 1263.1,
+      "hElo": 1194,
+      "cElo": 1252.1,
+      "gElo": 1306.5,
+      "atpRank": 244
+    },
+    {
+      "name": "Martha Matoula",
+      "elo": 1263,
+      "hElo": 1293.1,
+      "cElo": 1244.1,
+      "gElo": 1381.5,
+      "atpRank": 453
+    },
+    {
+      "name": "Gabriela Ce",
+      "elo": 1262.8,
+      "hElo": 1232.4,
+      "cElo": 1238.6,
+      "gElo": 1279.5,
+      "atpRank": 455
+    },
+    {
+      "name": "Daria Lodikova",
+      "elo": 1262,
+      "hElo": 1211.2,
+      "cElo": 1254.6,
+      "gElo": 1306,
+      "atpRank": 366
+    },
+    {
+      "name": "Yasmine Mansouri",
+      "elo": 1261.6,
+      "hElo": 1251.8,
+      "cElo": 1169.1,
+      "gElo": 1305.8,
+      "atpRank": 327
+    },
+    {
+      "name": "Dalila Spiteri",
+      "elo": 1256.1,
+      "hElo": 1243.2,
+      "cElo": 1213.3,
+      "gElo": 1303,
+      "atpRank": 500
+    },
+    {
+      "name": "Fang Ying Xun",
+      "elo": 1256,
+      "hElo": 1247.2,
+      "cElo": 1218.2,
+      "gElo": 1237.3,
+      "atpRank": 746
+    },
+    {
+      "name": "Miho Kuramochi",
+      "elo": 1253.6,
+      "hElo": 1233.6,
+      "cElo": 1241.8,
+      "gElo": 1299.6,
+      "atpRank": 376
+    },
+    {
+      "name": "Jessica Failla",
+      "elo": 1249.6,
+      "hElo": 1242.1,
+      "cElo": 1191.6,
+      "gElo": 1299.8,
+      "atpRank": 461
+    },
+    {
+      "name": "Ayumi Koshiishi",
+      "elo": 1246.2,
+      "hElo": 1225.2,
+      "cElo": 1238.1,
+      "gElo": 1298.1,
+      "atpRank": 408
+    },
+    {
+      "name": "Saki Imamura",
+      "elo": 1244.8,
+      "hElo": 1245.4,
+      "cElo": 1237.4,
+      "gElo": 1289.4,
+      "atpRank": 450
+    },
+    {
+      "name": "Alana Smith",
+      "elo": 1241.5,
+      "hElo": 1255.9,
+      "cElo": 1143.9,
+      "gElo": 1286.3,
+      "atpRank": 405
+    },
+    {
+      "name": "Eri Shimizu",
+      "elo": 1240.1,
+      "hElo": 1209.1,
+      "cElo": 1235,
+      "gElo": 1301.2,
+      "atpRank": 351
+    },
+    {
+      "name": "Nina Vargova",
+      "elo": 1238.7,
+      "hElo": 1221.3,
+      "cElo": 1200.1,
+      "gElo": 1294.3,
+      "atpRank": 340
+    },
+    {
+      "name": "Ariana Geerlings",
+      "elo": 1238.2,
+      "hElo": 1222.1,
+      "cElo": 1202,
+      "gElo": 1294.1,
+      "atpRank": 411
+    },
+    {
+      "name": "Kaylah Mcphee",
+      "elo": 1234,
+      "hElo": 1215.6,
+      "cElo": 1239.7,
+      "gElo": 1245,
+      "atpRank": 562
+    },
+    {
+      "name": "Kira Pavlova",
+      "elo": 1231.3,
+      "hElo": 1216.1,
+      "cElo": 1230.7,
+      "gElo": 1290.7,
+      "atpRank": 457
+    },
+    {
+      "name": "Yidi Yang",
+      "elo": 1224.7,
+      "hElo": 1197.9,
+      "cElo": 1255,
+      "gElo": 1287.3,
+      "atpRank": 491
+    },
+    {
+      "name": "Gabriella Da Silva Fick",
+      "elo": 1222.1,
+      "hElo": 1201.1,
+      "cElo": 1226.1,
+      "gElo": 1286.1,
+      "atpRank": 419
+    },
+    {
+      "name": "Erika Sema",
+      "elo": 1221.4,
+      "hElo": 1210.3,
+      "cElo": 1147,
+      "gElo": 1270.7,
+      "atpRank": 464
+    },
+    {
+      "name": "Victoria Hu",
+      "elo": 1221.2,
+      "hElo": 1211.8,
+      "cElo": 1169.1,
+      "gElo": 1285.6,
+      "atpRank": 365
+    },
+    {
+      "name": "Weronika Falkowska",
+      "elo": 1220.8,
+      "hElo": 1242.1,
+      "cElo": 1172.7,
+      "gElo": 1285.4,
+      "atpRank": 410
+    },
+    {
+      "name": "Maria Jose Portillo Ramirez",
+      "elo": 1219.6,
+      "hElo": 1212.1,
+      "cElo": 1178.7,
+      "gElo": 1284.8,
+      "atpRank": 397
+    },
+    {
+      "name": "Naho Sato",
+      "elo": 1217.8,
+      "hElo": 1198,
+      "cElo": 1223.9,
+      "gElo": 1283.9,
+      "atpRank": 469
+    },
+    {
+      "name": "Ekaterina Ovcharenko",
+      "elo": 1217.3,
+      "hElo": 1193.2,
+      "cElo": 1221.8,
+      "gElo": 1283.6,
+      "atpRank": 501
+    },
+    {
+      "name": "Martina Capurro Taborda",
+      "elo": 1216,
+      "hElo": 1207,
+      "cElo": 1205.7,
+      "gElo": 1315,
+      "atpRank": 597
+    },
+    {
+      "name": "Funa Kozaki",
+      "elo": 1211.9,
+      "hElo": 1211.1,
+      "cElo": 1185.7,
+      "gElo": 1280.9,
+      "atpRank": 591
+    },
+    {
+      "name": "Anastasia Abbagnato",
+      "elo": 1211.1,
+      "hElo": 1241.4,
+      "cElo": 1186.2,
+      "gElo": 1280.5,
+      "atpRank": 442
+    },
+    {
+      "name": "Julieta Lara Estable",
+      "elo": 1209.8,
+      "hElo": 1219.9,
+      "cElo": 1180.3,
+      "gElo": 1279.9,
+      "atpRank": 495
+    },
+    {
+      "name": "Ekaterina Yashina",
+      "elo": 1207.6,
+      "hElo": 1190.6,
+      "cElo": 1168.4,
+      "gElo": 1274,
+      "atpRank": 452
+    },
+    {
+      "name": "Yuki Naito",
+      "elo": 1206.5,
+      "hElo": 1180.3,
+      "cElo": 1212,
+      "gElo": 1247.7,
+      "atpRank": 524
+    },
+    {
+      "name": "Angelina Voloshchuk",
+      "elo": 1203,
+      "hElo": 1200.1,
+      "cElo": 1187.8,
+      "gElo": 1276.5,
+      "atpRank": 728
+    },
+    {
+      "name": "Tara Moore",
+      "elo": 1202.7,
+      "hElo": 1185.3,
+      "cElo": 1110.8,
+      "gElo": 1263.7,
+      "atpRank": 993
+    },
+    {
+      "name": "Viktoria Morvayova",
+      "elo": 1202.1,
+      "hElo": 1166.2,
+      "cElo": 1235.2,
+      "gElo": 1276.1,
+      "atpRank": 513
+    },
+    {
+      "name": "Fernanda Labrana",
+      "elo": 1197.3,
+      "hElo": 1244.7,
+      "cElo": 1168.6,
+      "gElo": 1273.6,
+      "atpRank": 550
+    },
+    {
+      "name": "Haley Giavara",
+      "elo": 1180.8,
+      "hElo": 1179.8,
+      "cElo": 1149.9,
+      "gElo": 1265.4,
+      "atpRank": 475
+    },
+    {
+      "name": "Ana Candiotto",
+      "elo": 1174.4,
+      "hElo": 1169.1,
+      "cElo": 1161.4,
+      "gElo": 1262.2,
+      "atpRank": 576
+    },
+    {
+      "name": "Meiqi Guo",
+      "elo": 1170,
+      "hElo": 1163.1,
+      "cElo": 1160.3,
+      "gElo": 1260,
+      "atpRank": 568
+    },
+    {
+      "name": "Riya Bhatia",
+      "elo": 1162.9,
+      "hElo": 1133.7,
+      "cElo": 1160.9,
+      "gElo": 1227.3,
+      "atpRank": 623
+    },
+    {
+      "name": "Shuo Feng",
+      "elo": 1160.5,
+      "hElo": 1137.3,
+      "cElo": 1179.8,
+      "gElo": 1255.3,
+      "atpRank": 598
+    },
+    {
+      "name": "Ya Yi Yang",
+      "elo": 1155.3,
+      "hElo": 1149.5,
+      "cElo": 1159.4,
+      "gElo": 1226.2,
+      "atpRank": 748
+    },
+    {
+      "name": "Michaela Bayerlova",
+      "elo": 1154.1,
+      "hElo": 1106.8,
+      "cElo": 1161.5,
+      "gElo": 1252,
+      "atpRank": 595
+    },
+    {
+      "name": "Haruna Arakawa",
+      "elo": 1143.1,
+      "hElo": 1100.2,
+      "cElo": 1165.7,
+      "gElo": 1246.5,
+      "atpRank": 489
+    },
+    {
+      "name": "Ksenia Laskutova",
+      "elo": 1138.4,
+      "hElo": 1166.8,
+      "cElo": 1120,
+      "gElo": 1244.2,
+      "atpRank": 427
+    },
+    {
+      "name": "Freya Christie",
+      "elo": 1133.5,
+      "hElo": 1137,
+      "cElo": 1111.3,
+      "gElo": 1071.9,
+      "atpRank": 705
+    },
+    {
+      "name": "Hiroko Kuwata",
+      "elo": 1129.7,
+      "hElo": 1111.7,
+      "cElo": 1101.2,
+      "gElo": 1125.3,
+      "atpRank": 545
+    },
+    {
+      "name": "Aneta Laboutkova",
+      "elo": 1127.8,
+      "hElo": 1096,
+      "cElo": 1128.9,
+      "gElo": 1238.9,
+      "atpRank": 655
+    },
+    {
+      "name": "Chengyiyi Yuan",
+      "elo": 1068.4,
+      "hElo": 1069.9,
+      "cElo": 1125.4,
+      "gElo": 1209.2,
+      "atpRank": 646
+    },
+    {
+      "name": "Nagi Hanatani",
+      "elo": 1055.9,
+      "hElo": 1034.8,
+      "cElo": 1102.7,
+      "gElo": 1172.4,
+      "atpRank": 759
+    }
+  ]
+}

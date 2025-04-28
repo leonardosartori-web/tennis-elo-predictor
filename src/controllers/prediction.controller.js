@@ -2,11 +2,19 @@ const EloService = require('../services/elo.service');
 const { logger } = require('../utils/logger');
 const fs = require('fs');
 
-const eloService = new EloService();
+const eloServices = {
+    atp: new EloService('atp'),
+    wta: new EloService('wta'),
+}
+
+const CACHE_PATHS = {
+    atp: './data/atp-cache.json',
+    wta: './data/wta-cache.json',
+}
 
 async function predictMatch(req, res) {
     try {
-        const { player1, player2, surface = 'hard' } = req.query;
+        const { cat = 'atp', player1, player2, surface = 'hard' } = req.query;
 
         if (!player1 || !player2) {
             return res.status(400).json({
@@ -14,7 +22,7 @@ async function predictMatch(req, res) {
             });
         }
 
-        const prediction = await eloService.predictMatch(player1, player2, surface);
+        const prediction = await eloServices[cat].predictMatch(player1, player2, surface);
         res.json(prediction);
 
     } catch (error) {
@@ -27,7 +35,8 @@ async function predictMatch(req, res) {
 
 async function getPlayers(req, res) {
     try {
-        const data = JSON.parse(fs.readFileSync('./data/elo-cache.json', 'utf8'));
+        const { cat = 'atp' } = req.query;
+        const data = JSON.parse(fs.readFileSync(CACHE_PATHS[cat], 'utf8'));
         res.json(data.data);
     } catch (err) {
         res.status(500).json({ error: 'Failed to load player data' });

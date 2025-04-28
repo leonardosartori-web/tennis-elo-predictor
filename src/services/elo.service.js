@@ -2,10 +2,11 @@ const { fetchEloData } = require('./scraper.service');
 const { logger } = require('../utils/logger');
 
 class EloService {
-    constructor(surfaceWeight = 0.5) {
+    constructor(category = 'atp', surfaceWeight = 0.5) {
         this.surfaceWeight = surfaceWeight;
         this.playersData = null;
         this.lastFetchTime = null;
+        this.category = category;
     }
 
     async init() {
@@ -14,7 +15,7 @@ class EloService {
 
     async refreshData() {
         try {
-            this.playersData = await fetchEloData();
+            this.playersData = await fetchEloData(this.category);
             this.lastFetchTime = new Date();
             logger.info('ELO data refreshed successfully');
         } catch (error) {

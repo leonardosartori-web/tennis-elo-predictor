@@ -10,7 +10,7 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 app.use((req, res, next) => {
-    logger.info(`${req.method} ${req.path}`);
+    logger.info(`${req.method} ${req.path} ${JSON.stringify(req.query)}`);
     next();
 });
 
@@ -21,7 +21,10 @@ app.get('/', (req, res) => {
     res.status(200).json({ msg: 'This is an Tennis ELO API' });
 })
 app.use('/api', apiRouter);
-app.get('/cli', (req, res) => {
+app.get('/atp', (req, res) => {
+    res.sendFile(path.join(__dirname, '../public', 'index.html'));
+});
+app.get('/wta', (req, res) => {
     res.sendFile(path.join(__dirname, '../public', 'index.html'));
 });
 

@@ -283,9 +283,11 @@
             }
         }
 
+        const path = window.location.pathname;
+
         // Caricamento dati
         const trie = new TokenTrie();
-        fetch('/api/players')
+        fetch(`/api/players?cat=${path.slice(1)}`)
             .then(r => r.json())
             .then(players => {
                 players.forEach(p => {
@@ -352,7 +354,7 @@
             }
 
             try {
-                const response = await fetch(`/api/predict?player1=${encodeURIComponent(player1)}&player2=${encodeURIComponent(player2)}&surface=${surface}`);
+                const response = await fetch(`/api/predict?player1=${encodeURIComponent(player1)}&player2=${encodeURIComponent(player2)}&surface=${surface}&cat=${path.slice(1)}`);
                 const result = await response.json();
 
                 // Visualizza i risultati
@@ -393,13 +395,13 @@
 <div class="container">
     <div class="search-box">
         <label for="player1">Giocatore 1:</label>
-        <input type="text" id="player1" placeholder="Es: Novak Djokovic">
+        <input type="text" id="player1">
         <div id="suggestions1" class="suggestions"></div>
     </div>
 
     <div class="search-box">
         <label for="player2">Giocatore 2:</label>
-        <input type="text" id="player2" placeholder="Es: Rafael Nadal">
+        <input type="text" id="player2">
         <div id="suggestions2" class="suggestions"></div>
     </div>
 
